@@ -17,16 +17,16 @@ a. LeastTransfers
 b. Shortest Travel Time
 3. Provides real-time estimates of trains’ arrival timings based on peak/off-peak hour timings and whether there are delays in the network
 
-###Directory of amenities situated around each station
+### Directory of amenities situated around each station
 1. Users can search for their desired place through directories catered for each station and through searching directly from the map
 2. Indicates the closest MRT exit for different amenities and estimated walking time
 3. Pictures of attractions/places around
 4. Allow users to bookmark/favourite frequent places
 
-###User Feedback/Suggestions
+### User Feedback/Suggestions
 1. Users can submit modifications/amendments to existing content should there be a change to the amenities available in that area --> Feedback will be reviewed by content moderators before the actual changes are implemented
 
-###Possible Extensions
+### Possible Extensions
 • Show amenities/attractions on map directly when selecting a station
 • Allow users to mark their own places in the map (locally) and calculate closest
 station/shortest routes between them.
@@ -34,18 +34,18 @@ station/shortest routes between them.
 
 ## Technologies used
 
-###Front End
+### Front End
 1. HTML/CSS/JavaScript 
 2. React.js
 3. Google Map API (for zoomable custom map)
 
-###Back End
+### Back End
 1. SQL/Oracle
 2. Node.js + Express.js
 3. Amazon Web Server Hosting
 4. LTA DataMall API (to check for delays, unavailability & passenger density of train services)
 
-##Current Status
+## Current Status
 Designing the front end structure of the website (HTML/CSS/JS/React)
 
 
