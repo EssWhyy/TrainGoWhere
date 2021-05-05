@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# TrainGoWhere: An Interactive, In-depth MRT Map
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done as part of NUS Orbital 2021 (https://orbital.comp.nus.edu.sg/).
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+The MRT system in Singapore is frequently used by locals and tourists alike. However, with over 130 stations, some locals may be unaware of the stations and regions outside of their usual commute, let alone tourists visiting the country for the first time. Existing websites and apps for the MRT system usually only show a static map and has very little functionality for users. As such, we decided to make a comprehensive MRT web app that offers details on train timings and shows visual station-to-station routes. We also aim to showcase the amenities and services around each station for various categories. This allows users to better navigate to their places of interest and understand the areas outside their day-to-day commute.
 
-### `yarn start`
+## Features 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###Interactive system map
+A map of the entire MRT system with clickable stations and highlightable routes, with zoom/move functionality
+Seeks user’s input for embarkation and destination station/place:
+1. Calculates the train fare based on the user’s fare group (Adult/Student/Senior Citizens etc.)
+2. Suggests optimal routes based on 2 metrics: 
+a. LeastTransfers
+b. Shortest Travel Time
+3. Provides real-time estimates of trains’ arrival timings based on peak/off-peak hour timings and whether there are delays in the network
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+###Directory of amenities situated around each station
+1. Users can search for their desired place through directories catered for each station and through searching directly from the map
+2. Indicates the closest MRT exit for different amenities and estimated walking time
+3. Pictures of attractions/places around
+4. Allow users to bookmark/favourite frequent places
 
-### `yarn test`
+###User Feedback/Suggestions
+1. Users can submit modifications/amendments to existing content should there be a change to the amenities available in that area --> Feedback will be reviewed by content moderators before the actual changes are implemented
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+###Possible Extensions
+• Show amenities/attractions on map directly when selecting a station
+• Allow users to mark their own places in the map (locally) and calculate closest
+station/shortest routes between them.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technologies used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###Front End
+1. HTML/CSS/JavaScript 
+2. React.js
+3. Google Map API (for zoomable custom map)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+###Back End
+1. SQL/Oracle
+2. Node.js + Express.js
+3. Amazon Web Server Hosting
+4. LTA DataMall API (to check for delays, unavailability & passenger density of train services)
 
-### `yarn eject`
+##Current Status
+Designing the front end structure of the website (HTML/CSS/JS/React)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
