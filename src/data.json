@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "Tuas Link",
+      "x": -20,
+      "y": 10,
+      "size": 3,
+      "color": "#ffffff"
+    },
+    {
+      "id": "n1",
+      "label": "Tuas West Road",
+      "x": -20,
+      "y": 9.5,
+      "size": 3,
+      "color": "#ffffff"
+    },
+    {
+      "id": "n2",
+      "label": "Tuas Crescent",
+      "x": -20,
+      "y": 9,
+      "size": 3,
+      "color": "#ffffff"
+    },
+    {
+      "id": "n3",
+      "label": "Gul Circle",
+      "x": -18,
+      "y": 7,
+      "size": 3,
+      "color": "#ffffff"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0",
+      "source": "n0",
+      "target": "n1",
+      "color": "#d91140"
+    },
+    {
+      "id": "e1",
+      "source": "n1",
+      "target": "n2",
+      "color": "#d91140"
+    },
+    {
+      "id": "e2",
+      "source": "n2",
+      "target": "n3",
+      "color": "#d91140",
+      "type": "curve"
+    }
+  ]
+}
