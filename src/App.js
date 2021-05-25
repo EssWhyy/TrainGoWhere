@@ -8,15 +8,16 @@ import InfoContainer from "./components/InfoContainer";
 
 function App() {
 
-  const [station, selectStation] = useState([]);
-  
+  //passing a hook to link up 2 sibling components
+  const [selectedStart, selectStart] = useState("placeholder");
+  const [selectedEnd, selectEnd] = useState("placeholder")
 
   return (
     <div className="App">
 
       <header>
       
-      <StationSelection/>
+      <StationSelection selectStart = {selectStart} selectEnd = {selectEnd}/>
       <RouteDisplay/>
 
       </header>
@@ -24,7 +25,7 @@ function App() {
       <main>
         <div style={{ display: "flex", flexFlow: "row nowrap" }}>
           
-          <MapContainer />
+          <MapContainer selectedStart = {selectedStart} selectedEnd = {selectedEnd}/>
           <InfoContainer />
 
         </div>

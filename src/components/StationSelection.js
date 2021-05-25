@@ -1,7 +1,7 @@
 import React from 'react';
 
-function StationSelection(){
-
+function StationSelection({selectStart, selectEnd}){
+    
 
     return (
 
@@ -10,7 +10,7 @@ function StationSelection(){
             display: "flex", flexFlow: "row nowrap",
             justifyContent: 'space-around', backgroundColor: '#325894', boxShadow: '5px 10px'
         }}>
-            {/* Header contains dropdown selection and route information*/}
+
             <h1>TrainGoWhere</h1>
 
             <div className="Selections" style={{ display: "flex", flexFlow: "row nowrap", justifyContent: 'space-evenly', paddingTop: "2.5%" }}>
@@ -18,7 +18,10 @@ function StationSelection(){
                 <div>
                     <label htmlFor="startStationSelect"><strong>From Here:</strong></label>
 
-                    <select name="startStationSelect" id="startStationSelect">
+                    <select name="startStationSelect" id="startStationSelect" onChange = {(e) => {
+                        var startStation = e.target.value;
+                        selectStart(startStation);
+                    }}>
 
                         <option value="Jurong East">Jurong East</option>
                         <option value="Eunos">Eunos</option>
@@ -30,7 +33,10 @@ function StationSelection(){
                 <div>
                     <label htmlFor="endStationSelect"><strong>Go There:</strong></label>
 
-                    <select name="endStationSelect" id="endStationSelect">
+                    <select name="endStationSelect" id="endStationSelect" onChange = {(e) => {
+                        var endStation = e.target.value;
+                        selectEnd(endStation);
+                    }}>
 
                         <option value="Punggol">Punggol</option>
                         <option value="Boon Lay">Boon Lay</option>
