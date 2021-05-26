@@ -10,7 +10,9 @@ function App() {
 
   //passing a hook to link up 2 sibling components
   const [selectedStart, selectStart] = useState("placeholder");
-  const [selectedEnd, selectEnd] = useState("placeholder")
+  const [selectedEnd, selectEnd] = useState("placeholder");
+
+  const [showStationInfo, setActiveStation] = useState("placeholder");
 
   return (
     <div className="App">

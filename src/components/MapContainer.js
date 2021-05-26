@@ -11,12 +11,6 @@ function MapContainer({ selectedStart, selectedEnd, setActiveStation}){
         <div className="mapContainer" style={{ height: '60vw', width: '70%', backgroundColor: '#572759' }}>
             <h1>Start Station: {" "} {selectedStart || "<placeholder>"}</h1> 
             <h1>End Station: {" "} {selectedEnd || "<placeholder>"}</h1>
-<<<<<<< Updated upstream
-            <img src={require('./img/mrtmap.png').default} style={{height: ''}}/>
-        </div>
-    );
-}
-=======
             
             <div className="map">
                 <img className="tmp" src={require('./img/mrtmap.svg').default} style={{mapCoordinates}.default}/>
@@ -200,7 +194,6 @@ function MapContainer({ selectedStart, selectedEnd, setActiveStation}){
             </div>
 
         );
->>>>>>> Stashed changes
 
 }
 
