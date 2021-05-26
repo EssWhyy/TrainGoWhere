@@ -25,8 +25,8 @@ function App() {
       <main>
         <div style={{ display: "flex", flexFlow: "row nowrap" }}>
           
-          <MapContainer selectedStart = {selectedStart} selectedEnd = {selectedEnd}/>
-          <InfoContainer />
+          <MapContainer selectedStart = {selectedStart} selectedEnd = {selectedEnd} setActiveStation = {setActiveStation}/>
+          <InfoContainer showStationInfo = {showStationInfo} />
 
         </div>
       </main>
