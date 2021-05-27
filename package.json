@@ -2,7 +2,8 @@
   "name": "traingowhere",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://esswhyy.github.io/TrainGoWhere",
+
+  "homepage": "http://EssWhyy.github.io/TrainGoWhere",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
