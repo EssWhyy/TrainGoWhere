@@ -4,7 +4,7 @@ import StationSelection from "./components/StationSelection";
 import RouteDisplay from "./components/RouteDisplay";
 import MapContainer from "./components/MapContainer";
 import InfoContainer from "./components/InfoContainer";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
@@ -12,7 +12,7 @@ function App() {
   const [selectedStart, selectStart] = useState("placeholder");
   const [selectedEnd, selectEnd] = useState("placeholder");
 
-  const [showStationInfo, setActiveStation] = useState("placeholder");
+  const [showStationInfo, setActiveStation] = useState("Station Info");
 
   return (
     <div className="App">
