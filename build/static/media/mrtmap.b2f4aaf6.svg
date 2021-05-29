@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1410 1007" style="enable-background:new 0 0 1410 1007;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E9FCFF;stroke:#FFFFFF;stroke-width:2;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#009645;stroke-width:4;}
+	.st3{fill:none;stroke:#D42E12;stroke-width:4;}
+	.st4{fill:none;stroke:#9900AA;stroke-width:4;}
+	.st5{fill:none;stroke:#9900AA;stroke-width:4;stroke-dasharray:8,8;}
+	.st6{fill:none;stroke:#FA9E0D;stroke-width:4;}
+	.st7{fill:none;stroke:#FA9E0D;stroke-width:4.5;stroke-dasharray:10,10;}
+	.st8{fill:none;stroke:#005EC4;stroke-width:4;}
+	.st9{fill:none;stroke:#005EC4;stroke-width:4;stroke-dasharray:8,8;}
+	.st10{fill:none;stroke:#784008;stroke-width:4;}
+	.st11{fill:none;stroke:#784008;stroke-width:4;stroke-dasharray:8,8;}
+	.st12{fill:none;stroke:#0099AA;stroke-width:4;stroke-dasharray:8,8;}
+	.st13{fill:none;stroke:#78BE20;stroke-width:4;stroke-dasharray:8,8;}
+	.st14{fill:none;stroke:#999999;stroke-width:4;}
+	.st15{fill:none;stroke:#F266B5;stroke-width:4;stroke-dasharray:8,8;}
+	.st16{fill:none;stroke:#87CEFA;stroke-width:4;stroke-dasharray:8,8;}
+	.st17{fill:#FFFFFF;stroke:#009645;stroke-width:2;}
+	.st18{fill:#FFFFFF;stroke:#D42E12;stroke-width:2;}
+	.st19{fill:#FFFFFF;stroke:#9900AA;stroke-width:2;}
+	.st20{fill:#FFFFFF;stroke:#FA9E0D;stroke-width:2;}
+	.st21{fill:#FFFFFF;stroke:#005EC4;stroke-width:2;}
+	.st22{fill:#FFFFFF;stroke:#784008;stroke-width:2;}
+	.st23{fill:#FFFFFF;stroke:#000000;stroke-width:3;}
+	.st24{fill:#FFFFFF;stroke:#999999;stroke-width:1.7;}
+	.st25{font-family:'ArialMT';}
+	.st26{font-size:12px;}
+	.st27{fill:#AAAAAA;}
+	.st28{font-family:'Arial-BoldMT';}
+	.st29{font-size:10px;}
+</style>
+<rect class="st0" width="1410" height="1007"/>
+<title>Singapore MRT/LRT system map</title>
+<path class="st1" d="M238.2,264.4c3-2.7,6-5.4,8.8-8.2C244.5,258.2,241.3,261.2,238.2,264.4z"/>
+<path class="st1" d="M375.6,591.3c0.4-0.7,0.7-1.5,1-2.2c-2-0.4-4-0.7-6.1-1C372.2,589.1,373.9,590.2,375.6,591.3z"/>
+<path class="st1" d="M417.2,140c-0.7-1.3-1.1-2.8-1.2-4.2c-1.8-0.1-3.5-0.2-4.9-0.4c-2.6-0.3-5.1-0.6-7.7-0.9
+	C408.1,136.2,412.7,138,417.2,140z"/>
+<g id="lines">
+	<g id="ewl">
+		<path class="st2" d="M1227,638v16c0,13.3,6.7,20,20,20h84"/>
+		<path class="st2" d="M1279.1,527.9C1265,542,1246,555,1245,577c-1,15,1,30,0,45c-1,8-6,16-14,16c-77,2-154,0-231,2c-9,0-17,3-24,9
+			c-68,63-126,128-194,192c-4,4-9,5-14,7c-18,4-35,1-53,1c-5,0-12,2-17-1c-2-1-4-2-7-3c-12-6-22-16-30-28c-9-13-6-29-10-43
+			c-2-5-5-9-8-13c-38-40-76-76-115-116c-41-41-80-80-122-121c-6-6-15-9-23-9c-98-4-197-4-295-1c-2,0-5,2-7,3c-1,0-2,1-2,2
+			c-1,4-4,7-4,11c-1,32,0,63,0,95.5"/>
+	</g>
+	<g id="nsl">
+		<path class="st3" d="M286,514V107c0-13.3,6.7-20,20-20h391.5c13.3,0,24.8,4.8,34.4,14.4l40,40c9.6,9.4,14.3,20.8,14.1,34.1v255
+			c0,13.3-4.7,24.7-14.1,34.1l-104,104c-9.4,9.4-9.4,18.9,0,28.3l162,162c9.4,9.4,9.4,18.9,0,28.3l-29.7,29.7
+			c-9.4,9.4-14.1,16.1-14.1,20v125"/>
+	</g>
+	<g id="nel">
+		<path class="st4" d="M582,866l173.2-173.2c9.4-9.4,14.1-18.9,14.1-28.3v-28c0-13.3,4.7-24.8,14.1-34.3l390-390"/>
+		<path class="st5" d="M1178.3,206.9c-5.8,5.3-10.7,11.4-16.3,16.9"/>
+	</g>
+	<g id="ccl">
+		<path class="st6" d="M754,689c13.3,0,24.7,4.7,34.1,14.1l124,124c9.4,9.4,18.9,9.4,28.3,0"/>
+		<path class="st6" d="M989.2,745c-11.5,31.5-29,60.7-51.3,85.7c-24.1,27.1-53.8,49-86.8,64.2c-18.5,8.6-38.1,14.9-58.1,19"/>
+		<path class="st6" d="M582,867c-79-57-119-157-104-255c1-7,3-12,4-19c6-28,17-51,31-76c5-9,11-16,17-25c4-5,7-8,11-13
+			c33-37,73-64,120-78c9-2,17-5,27-7c87-17,172,8,235,68c23,22,41,46,55,74c8,17,14,34,19,52c3,11,4,21,6,32c2,17,3,34,2,51
+			c-1,13-3,25-5,38c-3,12-7,23-10.5,35.1"/>
+		<path class="st7" d="M779.1,916.5c4.7-0.7,9.3-1.5,13.9-2.5"/>
+		<path class="st7" d="M582,867c1.6,1.2,3.2,2.3,4.8,3.5"/>
+	</g>
+	<g id="dtl">
+		<path class="st8" d="M479,225v157c0,13.3,4.7,24.7,14.1,34.1l48.5,48.5c9.4,9.4,20.8,14.1,34.1,14.1h56c13.3,0,24.7,4.7,34.1,14.1
+			l284,284c8.7,9.4,8.7,19.4,0,30c-16.1,22.6-47.3,54.9-93.9,80c-13.6,6-27.3,2.7-41.1-10l-121-121"/>
+		<path class="st8" d="M698,760c-6-5-9-14-6-21c6-11,16-18,26-26c7-5,15-5,23-6c28-1,59,7,84-8c40-37,73-77,116-113c2-1,5-1,7-3
+			c5-2,11-2,16-3c101-1,203-1,304,0c4,0,8,2,12,4c2,1,3,4,4,6s2,4,2,6c0,29,0,57,0.1,85.6"/>
+	</g>
+	<g id="dtlex">
+		<path class="st9" d="M479,225c0-4,0-8.1,0-12.1"/>
+	</g>
+	<g id="tel">
+		<path class="st10" d="M496,34l97.8,97.8"/>
+	</g>
+	<g id="telex">
+		<path class="st11" d="M778.8,916c3.7,3.5,7.5,7,11.2,10.4"/>
+		<path class="st11" d="M662.2,792.2"/>
+		<path class="st11" d="M658,589.6"/>
+		<path class="st11" d="M658.9,482.1c0,3.5-0.1,6.9-0.1,10.4"/>
+		<path class="st11" d="M496,34c41,41,80,81,123,122c7,6,14,12,21,18c9,10,16,22,17,36c3,65-1,130,1.7,195.3"/>
+	</g>
+	<g id="jrlex">
+		<path class="st12" d="M292,220c-3.4,3.4-6.9,6.9-10.3,10.3"/>
+		<path class="st12" d="M484,711.3"/>
+		<path class="st12" d="M282.7,510c3.8,3.8,7.5,7.6,11.3,11.4"/>
+	</g>
+	<g id="crlex">
+		<path class="st13" d="M986.2,396.2c1.9,1.8,3.8,3.7,5.8,5.5"/>
+		<path class="st13" d="M654.6,306c2.6-0.7,5.2-1.3,7.8-1.9"/>
+		<path class="st13" d="M482.5,407.3c2.5-2.5,5-5,7.6-7.4"/>
+		<path class="st13" d="M406.9,527.3c0.5-1.5,1-2.9,1.6-4.4"/>
+		<path class="st13" d="M1241.7,274.4c2.8,3.1,5.6,6.2,8.3,9.3"/>
+		<path class="st13" d="M1177,209.5c6.6,7,13.3,13.7,20.2,20.4"/>
+	</g>
+	<g id="lrt">
+		<path class="st14" d="M284.4,225.6h207c6.7,0,12.4-2.4,17.1-7.1l19.2-19.2c4.7-4.7,10.4-7.1,17.1-7.1h10c6.7,0,10,3.3,10,10v46.6
+			c0,6.7-3.3,10-10,10h-10c-6.7,0-12.4-2.4-17.1-7.1l-19.2-19.2c-4.7-4.7-10.4-7.1-17.1-7.1"/>
+		<path class="st14" d="M1081,306l-7.8-7.8c-4.7-4.7-7.1-10.4-7.1-17.1v-20c0-6.7-2.4-12.4-7.1-17.1l-19-19c-4.7-4.7-9.4-4.7-14.1,0
+			l-26,26c-4.7,4.7-4.7,9.4,0,14.1l19,19c4.7,4.7,10.4,7.1,17.1,7.1h20c6.7,0,12.4,2.4,17.1,7.1"/>
+		<path class="st14" d="M1081,306l7.8,7.8c4.7,4.7,7.1,10.4,7.1,17.1v20c0,6.7,2.4,12.4,7.1,17.1l19,19c4.7,4.7,9.4,4.7,14.1,0
+			l26-26c4.7-4.7,4.7-9.4,0-14.1l-19-19c-4.7-4.7-10.4-7.1-17.1-7.1h-20c-6.7,0-12.4-2.4-17.1-7.1"/>
+		<path class="st14" d="M1176,209.5l-7.8-7.8c-4.7-4.7-7.1-10.4-7.1-17.1v-20c0-6.7-2.4-12.4-7.1-17.1l-19-19
+			c-4.7-4.7-9.4-4.7-14.1,0l-26,26c-4.7,4.7-4.7,9.4,0,14.1l19,19c4.7,4.7,10.4,7.1,17.1,7.1h20c6.7,0,12.4,2.4,17.1,7.1"/>
+		<path class="st14" d="M1177,209.5l7.8,7.8c4.7,4.7,7.1,10.4,7.1,17.1v20c0,6.7,2.4,12.4,7.1,17.1l19,19c4.7,4.7,9.4,4.7,14.1,0
+			l26-26c4.7-4.7,4.7-9.4,0-14.1l-19-19c-4.7-4.7-10.4-7.1-17.1-7.1h-20c-6.7,0-12.4-2.4-17.1-7.1"/>
+	</g>
+	<g id="ftlex">
+		<path class="st15" d="M945.9,673.4c1.5,1.4,3,2.7,4.5,4.1"/>
+		<path class="st15" d="M893.2,625c3.7,3.5,7.3,7,11,10.4"/>
+		<path class="st15" d="M830.6,548.2c0.2,3.5,0.9,6.9,2,10.2"/>
+		<path class="st15" d="M861.3,415.5c-2.5,2.5-5.1,4.8-7.7,7.2"/>
+		<path class="st15" d="M496,34"/>
+	</g>
+	<g id="rtslink">
+		<path class="st16" d="M496,34c-1.1,0-2.2,0-3.3,0"/>
+	</g>
+</g>
+<g id="stns_icons">
+	<g id="stns_ewl">
+		<circle id="cg2" class="st17" cx="1334" cy="674" r="3"/>
+		<circle id="ew1" class="st17" cx="1283" cy="524.5" r="3"/>
+		<circle id="ew3" class="st17" cx="1245" cy="614" r="3"/>
+		<circle id="ew5" class="st17" cx="1186" cy="639" r="3"/>
+		<circle id="ew6" class="st17" cx="1126" cy="639" r="3"/>
+		<circle id="ew7" class="st17" cx="1066" cy="639" r="3"/>
+		<circle id="ew9" class="st17" cx="984" cy="643" r="3"/>
+		<circle id="ew10" class="st17" cx="946" cy="678" r="3"/>
+		<circle id="ew11" class="st17" cx="926" cy="698" r="3"/>
+		<circle id="ew15" class="st17" cx="698.5" cy="848" r="3"/>
+		<circle id="ew17" class="st17" cx="630" cy="748" r="3"/>
+		<circle id="ew18" class="st17" cx="595.5" cy="714" r="3"/>
+		<circle id="ew19" class="st17" cx="554.7" cy="673" r="3"/>
+		<circle id="ew20" class="st17" cx="519" cy="637" r="3"/>
+		<circle id="ew22" class="st17" cx="451" cy="570" r="3"/>
+		<circle id="ew23" class="st17" cx="405" cy="524" r="3"/>
+		<circle id="ew25" class="st17" cx="247" cy="514" r="3"/>
+		<circle id="ew26" class="st17" cx="202" cy="514" r="3"/>
+		<circle id="ew27" class="st17" cx="155" cy="514" r="3"/>
+		<circle id="ew28" class="st17" cx="120" cy="514" r="3"/>
+		<circle id="ew29" class="st17" cx="90" cy="514" r="3"/>
+		<circle id="ew30" class="st17" cx="75" cy="542" r="3"/>
+		<circle id="ew31" class="st17" cx="75" cy="570" r="3"/>
+		<circle id="ew32" class="st17" cx="75" cy="598" r="3"/>
+		<circle id="ew33" class="st17" cx="75" cy="626" r="3"/>
+	</g>
+	<g id="stns_nsl">
+		<circle id="ns2" class="st18" cx="286" cy="413" r="3"/>
+		<circle id="ns3" class="st18" cx="286" cy="351" r="3"/>
+		<path id="ns3x_3_" class="st18" d="M289,291"/>
+		<path id="ns3x_2_" class="st18" d="M283,291"/>
+		<circle id="ns5" class="st18" cx="286" cy="173" r="3"/>
+		<path id="ns6_3_" class="st18" d="M283,123"/>
+		<path id="ns6_2_" class="st18" d="M289,123"/>
+		<circle id="ns7" class="st18" cx="352" cy="87" r="3"/>
+		<circle id="ns8" class="st18" cx="435" cy="87" r="3"/>
+		<circle id="ns10" class="st18" cx="612" cy="87" r="3"/>
+		<circle id="ns11" class="st18" cx="685" cy="87" r="3"/>
+		<circle id="ns12" class="st18" cx="735" cy="104" r="3"/>
+		<circle id="ns13" class="st18" cx="775" cy="144" r="3"/>
+		<circle id="ns14" class="st18" cx="786" cy="202" r="3"/>
+		<circle id="ns15" class="st18" cx="786" cy="250" r="3"/>
+		<circle id="ns16" class="st18" cx="786" cy="300" r="3"/>
+		<circle id="ns18" class="st18" cx="786" cy="428" r="3"/>
+		<circle id="ns19" class="st18" cx="770" cy="467" r="3"/>
+		<circle id="ns20" class="st18" cx="739" cy="498" r="3"/>
+		<circle id="ns22" class="st18" cx="660" cy="586" r="3"/>
+		<circle id="ns23" class="st18" cx="702" cy="632" r="3"/>
+		<circle id="ns28" class="st18" cx="786" cy="962" r="3"/>
+	</g>
+	<g id="stns_nel">
+		<circle id="ne5" class="st19" cx="723.5" cy="724.5" r="3"/>
+		<circle id="ne8" class="st19" cx="807.5" cy="578.4" r="3"/>
+		<circle id="ne9" class="st19" cx="833" cy="553" r="3"/>
+		<circle id="ne10" class="st19" cx="861" cy="525" r="3"/>
+		<circle id="ne11" class="st19" cx="888" cy="498" r="3"/>
+		<circle id="ne13" class="st19" cx="956" cy="430" r="3"/>
+		<circle id="ne14" class="st19" cx="988" cy="398.5" r="3"/>
+		<circle id="ne15" class="st19" cx="1018" cy="368" r="3"/>
+	</g>
+	<g id="stns_ccl">
+		<circle id="cc2" class="st20" cx="824" cy="739" r="3"/>
+		<circle id="cc3" class="st20" cx="870" cy="785" r="3"/>
+		<circle id="cc5" class="st20" cx="980" cy="766" r="3"/>
+		<circle id="cc6" class="st20" cx="997" cy="720" r="3"/>
+		<circle id="cc7" class="st20" cx="1002" cy="695" r="3"/>
+		<circle id="cc8" class="st20" cx="1005" cy="670" r="3"/>
+		<circle id="cc11" class="st20" cx="984.5" cy="552" r="3"/>
+		<circle id="cc12" class="st20" cx="964" cy="514" r="3"/>
+		<path id="cc14_1_" class="st20" d="M856,418c0-1.7,1.3-3,3-3s3,1.3,3,3s-1.3,3-3,3"/>
+		<circle id="cc16" class="st20" cx="721" cy="390.8" r="3"/>
+		<circle id="cc17" class="st20" cx="658" cy="402.8" r="3"/>
+		<path id="cc18_3_" class="st20" d="M604,429"/>
+		<path id="cc18_2_" class="st20" d="M598,429"/>
+		<circle id="cc20" class="st20" cx="515.5" cy="514" r="3"/>
+		<circle id="cc21" class="st20" cx="497" cy="549" r="3"/>
+		<circle id="cc23" class="st20" cx="475.7" cy="637" r="3"/>
+		<circle id="cc24" class="st20" cx="476" cy="674" r="3"/>
+		<circle id="cc25" class="st20" cx="481" cy="709" r="3"/>
+		<circle id="cc26" class="st20" cx="493.5" cy="750" r="3"/>
+		<circle id="cc27" class="st20" cx="513.8" cy="792" r="3"/>
+		<circle id="cc28" class="st20" cx="540" cy="827.5" r="3"/>
+	</g>
+	<g id="stns_dtl">
+		<circle id="dt2" class="st21" cx="479" cy="265" r="3"/>
+		<circle id="dt3" class="st21" cx="479" cy="297" r="3"/>
+		<path id="dt4_3_" class="st21" d="M476,329"/>
+		<path id="dt4_2_" class="st21" d="M482,329"/>
+		<circle id="dt5" class="st21" cx="479" cy="361" r="3"/>
+		<circle id="dt6" class="st21" cx="485" cy="406" r="3"/>
+		<circle id="dt7" class="st21" cx="502" cy="425" r="3"/>
+		<circle id="dt8" class="st21" cx="524" cy="447.5" r="3"/>
+		<circle id="dt10" class="st21" cx="658" cy="486" r="3"/>
+		<circle id="dt13" class="st21" cx="818" cy="645" r="3"/>
+		<circle id="dt17" class="st21" cx="804" cy="866" r="3"/>
+		<circle id="dt18" class="st21" cx="742" cy="803" r="3"/>
+		<circle id="dt20" class="st21" cx="703.5" cy="727" r="3"/>
+		<circle id="dt21" class="st21" cx="832" cy="693" r="3"/>
+		<circle id="dt22" class="st21" cx="865" cy="659.8" r="3"/>
+		<circle id="dt23" class="st21" cx="896" cy="629" r="3"/>
+		<circle id="dt24" class="st21" cx="927" cy="598" r="3"/>
+		<circle id="dt25" class="st21" cx="965" cy="580" r="3"/>
+		<circle id="dt27" class="st21" cx="1046" cy="580" r="3"/>
+		<circle id="dt28" class="st21" cx="1089" cy="580" r="3"/>
+		<circle id="dt29" class="st21" cx="1129" cy="580" r="3"/>
+		<circle id="dt30" class="st21" cx="1172.5" cy="580" r="3"/>
+		<circle id="dt31" class="st21" cx="1211" cy="580" r="3"/>
+		<circle id="dt33" class="st21" cx="1286" cy="612" r="3"/>
+		<circle id="dt34" class="st21" cx="1286" cy="647" r="3"/>
+	</g>
+	<g id="stns_tel">
+		<circle id="te1" class="st22" cx="496" cy="34" r="3"/>
+		<circle id="te3" class="st22" cx="589" cy="127" r="3"/>
+		<circle id="te4" class="st22" cx="624" cy="161.8" r="3"/>
+		<circle id="te5" class="st22" cx="658" cy="208" r="3"/>
+		<circle id="te6" class="st22" cx="658" cy="247" r="3"/>
+		<circle id="te7" class="st22" cx="658" cy="309" r="3"/>
+		<circle id="te8" class="st22" cx="658" cy="357" r="3"/>
+	</g>
+	<g id="stns_ints">
+		<circle id="cc1" class="st23" cx="760.2" cy="689" r="6"/>
+		<circle id="ce2" class="st23" cx="786" cy="916" r="6"/>
+		<circle id="ce1" class="st23" cx="887" cy="871" r="6"/>
+		<circle id="cc4" class="st23" cx="953.3" cy="806" r="6"/>
+		<circle id="cc9" class="st23" cx="1005" cy="639" r="6"/>
+		<circle id="cc10" class="st23" cx="995" cy="580" r="6"/>
+		<circle id="cc13" class="st23" cx="923" cy="463.2" r="6"/>
+		<circle id="cc15" class="st23" cx="786" cy="394" r="6"/>
+		<circle id="cc19" class="st23" cx="548" cy="471.5" r="6"/>
+		<circle id="cc22" class="st23" cx="481" cy="599" r="6"/>
+		<circle id="cc29" class="st23" cx="581" cy="866" r="6"/>
+		<circle id="cg1" class="st23" cx="1286" cy="674" r="6"/>
+		<circle id="ew2" class="st23" cx="1245" cy="580.5" r="6"/>
+		<circle id="ew4" class="st23" cx="1227" cy="639" r="6"/>
+		<circle id="ew12" class="st23" cx="899" cy="726" r="6"/>
+		<circle id="ew13" class="st23" cx="830.3" cy="790" r="6"/>
+		<circle id="ew14" class="st23" cx="799" cy="822" r="6"/>
+		<circle id="ew16" class="st23" cx="657" cy="790.5" r="6"/>
+		<circle id="ew24" class="st23" cx="286" cy="514" r="6"/>
+		<circle id="ne4" class="st23" cx="693.5" cy="754" r="6"/>
+		<circle id="ne7" class="st23" cx="780" cy="606.5" r="6"/>
+		<circle id="ne16" class="st23" cx="1080.7" cy="305.3" r="6"/>
+		<circle id="ne17" class="st23" cx="1177" cy="209.5" r="6"/>
+		<circle id="ns4" class="st23" cx="286" cy="225.5" r="6"/>
+		<circle id="ns9" class="st23" cx="549" cy="87" r="6"/>
+		<circle id="ns21" class="st23" cx="705" cy="532" r="6"/>
+		<circle id="dt1" class="st23" cx="479" cy="225.5" r="6"/>
+	</g>
+	<g id="stns_bplrt">
+		<circle id="bp2" class="st24" cx="321" cy="226" r="2.6"/>
+		<circle id="bp3" class="st24" cx="356" cy="226" r="2.6"/>
+		<circle id="bp4" class="st24" cx="391" cy="226" r="2.6"/>
+		<circle id="bp5" class="st24" cx="426" cy="226" r="2.6"/>
+		<circle id="bp7" class="st24" cx="521" cy="245" r="2.6"/>
+		<circle id="bp8" class="st24" cx="546" cy="259" r="2.6"/>
+		<circle id="bp9" class="st24" cx="565" cy="248" r="2.6"/>
+		<circle id="bp10" class="st24" cx="565" cy="226" r="2.6"/>
+		<circle id="bp11" class="st24" cx="565" cy="204" r="2.6"/>
+		<circle id="bp12" class="st24" cx="546" cy="192" r="2.6"/>
+		<circle id="bp13" class="st24" cx="521" cy="206" r="2.6"/>
+	</g>
+	<g id="stns_sklrt">
+		<circle id="se1" class="st24" cx="1127" cy="321" r="2.6"/>
+		<circle id="se2" class="st24" cx="1154" cy="339" r="2.6"/>
+		<circle id="se3" class="st24" cx="1151" cy="372" r="2.6"/>
+		<circle id="se4" class="st24" cx="1113" cy="377.3" r="2.6"/>
+		<circle id="se5" class="st24" cx="1095.5" cy="348.5" r="2.6"/>
+		<circle id="sw1" class="st24" cx="1066.5" cy="273.5" r="2.6"/>
+		<circle id="sw2" class="st24" cx="1061.4" cy="247" r="2.6"/>
+		<circle id="sw3" class="st24" cx="1044" cy="229" r="2.6"/>
+		<circle id="sw4" class="st24" cx="1022" cy="229" r="2.6"/>
+		<circle id="sw5" class="st24" cx="1002" cy="249" r="2.6"/>
+		<circle id="sw6" class="st24" cx="1003.5" cy="269.5" r="2.6"/>
+		<circle id="sw7" class="st24" cx="1018.7" cy="284.5" r="2.6"/>
+		<circle id="sw8" class="st24" cx="1047" cy="291.5" r="2.6"/>
+	</g>
+	<g id="stns_pglrt">
+		<circle id="pe1" class="st24" cx="1191.7" cy="247.3" r="2.6"/>
+		<circle id="pe2" class="st24" cx="1198" cy="270" r="2.6"/>
+		<circle id="pe3" class="st24" cx="1215" cy="287" r="2.6"/>
+		<circle id="pe4" class="st24" cx="1245" cy="277.7" r="2.6"/>
+		<circle id="pe5" class="st24" cx="1254" cy="246.5" r="2.6"/>
+		<circle id="pe6" class="st24" cx="1238" cy="230.5" r="2.6"/>
+		<circle id="pe7" class="st24" cx="1214" cy="224" r="2.6"/>
+		<circle id="pw1" class="st24" cx="1161" cy="177" r="2.6"/>
+		<circle id="pw2" class="st24" cx="1156" cy="150" r="2.6"/>
+		<circle id="pw3" class="st24" cx="1139" cy="132" r="2.6"/>
+		<circle id="pw4" class="st24" cx="1106" cy="144" r="2.6"/>
+		<circle id="pw5" class="st24" cx="1098.5" cy="173" r="2.6"/>
+		<circle id="pw6" class="st24" cx="1115.5" cy="190" r="2.6"/>
+		<circle id="pw7" class="st24" cx="1141" cy="194.5" r="2.6"/>
+	</g>
+</g>
+<g id="stns_labels">
+	<g id="lbewl">
+		<text transform="matrix(1 0 0 1 1310 687)" class="st25 st26">Changi</text>
+		<text transform="matrix(1 0 0 1 1312 699)" class="st25 st26">Airport</text>
+		<text transform="matrix(1 0 0 1 1289 522)" class="st25 st26">Pasir Ris</text>
+		<text transform="matrix(1 0 0 1 1209 617)" class="st25 st26">Simei</text>
+		<text transform="matrix(1 0 0 1 1171 652)" class="st25 st26">Bedok</text>
+		<text transform="matrix(1 0 0 1 1092 633)" class="st25 st26">Kembangan</text>
+		<text transform="matrix(1 0 0 1 1050 652)" class="st25 st26">Eunos</text>
+		<text transform="matrix(1 0 0 1 945 638)" class="st25 st26">Aljunied</text>
+		<text transform="matrix(1 0 0 1 954 682)" class="st25 st26">Kallang</text>
+		<text transform="matrix(1 0 0 1 875 693)" class="st25 st26">Lavender</text>
+		<text transform="matrix(1 0 0 1 650 857)" class="st25 st26">Tanjong</text>
+		<text transform="matrix(1 0 0 1 660 869)" class="st25 st26">Pagar</text>
+		<text transform="matrix(1 0 0 1 595 753)" class="st25 st26">Tiong</text>
+		<text transform="matrix(1 0 0 1 593 765)" class="st25 st26">Bahru</text>
+		<text transform="matrix(1 0 0 1 554 721)" class="st25 st26">Redhill</text>
+		<text transform="matrix(1 0 0 1 561 672.5)" class="st25 st26">Queenstown</text>
+		<text transform="matrix(1 0 0 1 525 636)" class="st25 st26">Commonwealth</text>
+		<text transform="matrix(1 0 0 1 418 581)" class="st25 st26">Dover</text>
+		<text transform="matrix(1 0 0 1 411 526)" class="st25 st26">Clementi</text>
+		<text transform="matrix(1 0 0 1 224 527)" class="st25 st26">Chinese</text>
+		<text transform="matrix(1 0 0 1 226 539)" class="st25 st26">Garden</text>
+		<text transform="matrix(1 0 0 1 178 508)" class="st25 st26">Lakeside</text>
+		<text transform="matrix(1 0 0 1 122 496)" class="st25 st26">Boon</text>
+		<text transform="matrix(1 0 0 1 131 508)" class="st25 st26">Lay</text>
+		<text transform="matrix(1 0 0 1 100 527)" class="st25 st26">Pioneer</text>
+		<text transform="matrix(1 0 0 1 80 496)" class="st25 st26">Joo</text>
+		<text transform="matrix(1 0 0 1 76 508)" class="st25 st26">Koon</text>
+		<text transform="matrix(1 0 0 1 15 546)" class="st25 st26">Gul Circle</text>
+		<text transform="matrix(1 0 0 1 41 566)" class="st25 st26">Tuas</text>
+		<text transform="matrix(1 0 0 1 19 578)" class="st25 st26">Crescent</text>
+		<text transform="matrix(1 0 0 1 10 596)" class="st25 st26">Tuas West</text>
+		<text transform="matrix(1 0 0 1 39 608)" class="st25 st26">Road</text>
+		<text transform="matrix(1 0 0 1 15 630)" class="st25 st26">Tuas Link</text>
+	</g>
+	<g id="lbnsl">
+		<text transform="matrix(1 0 0 1 292 411)" class="st25 st26">Bukit</text>
+		<text transform="matrix(1 0 0 1 292 423)" class="st25 st26">Batok</text>
+		<text transform="matrix(1 0 0 1 292 350)" class="st25 st26">Bukit</text>
+		<text transform="matrix(1 0 0 1 292 362)" class="st25 st26">Gombak</text>
+		<text transform="matrix(1 0 0 1 292 175)" class="st25 st26">Yew Tee</text>
+		<text transform="matrix(1 0 0 1 335.5 80)" class="st25 st26">Kranji</text>
+		<text transform="matrix(1 0 0 1 410 80)" class="st25 st26">Marsiling</text>
+		<text transform="matrix(1 0 0 1 586 80)" class="st25 st26">Admiralty</text>
+		<text transform="matrix(1 0 0 1 650 80)" class="st25 st26">Sembawang</text>
+		<text transform="matrix(1 0 0 1 742 108)" class="st25 st26">Canberra</text>
+		<text transform="matrix(1 0 0 1 730 151)" class="st25 st26">Yishun</text>
+		<text transform="matrix(1 0 0 1 746 205)" class="st25 st26">Khatib</text>
+		<text transform="matrix(1 0 0 1 763 246)" class="st25 st26">Yio</text>
+		<text transform="matrix(1 0 0 1 727 258)" class="st25 st26">Chu Kang</text>
+		<text transform="matrix(1 0 0 1 758 317)" class="st25 st26">Ang</text>
+		<text transform="matrix(1 0 0 1 742 329)" class="st25 st26">Mo Kio</text>
+		<text transform="matrix(1 0 0 1 734 432)" class="st25 st26">Braddell</text>
+		<text transform="matrix(1 0 0 1 779 473)" class="st25 st26">Toa</text>
+		<text transform="matrix(1 0 0 1 779 485)" class="st25 st26">Payoh</text>
+		<text transform="matrix(1 0 0 1 748 504)" class="st25 st26">Novena</text>
+		<text transform="matrix(1 0 0 1 609 590)" class="st25 st26">Orchard</text>
+		<text transform="matrix(1 0 0 1 709 634)" class="st25 st26">Somerset</text>
+		<text transform="matrix(1 0 0 1 745 972)" class="st25 st26">Marina</text>
+		<text transform="matrix(1 0 0 1 724 984)" class="st25 st26">South Pier</text>
+	</g>
+	<g id="lbnel">
+		<text transform="matrix(1 0 0 1 730 729)" class="st25 st26">Clarke</text>
+		<text transform="matrix(1 0 0 1 730 741)" class="st25 st26">Quay</text>
+		<text transform="matrix(1 0 0 1 810 591)" class="st25 st26">Farrer</text>
+		<text transform="matrix(1 0 0 1 810 603)" class="st25 st26">Park</text>
+		<text transform="matrix(1 0 0 1 838 564)" class="st25 st26">Boon Keng</text>
+		<text transform="matrix(1 0 0 1 867 532)" class="st25 st26">Potong Pasir</text>
+		<text transform="matrix(1 0 0 1 893 509)" class="st25 st26">Woodleigh</text>
+		<text transform="matrix(1 0 0 1 961 441)" class="st25 st26">Kovan</text>
+		<text transform="matrix(1 0 0 1 996 403)" class="st25 st26">Hougang</text>
+		<text transform="matrix(1 0 0 1 962 365)" class="st25 st26">Buangkok</text>
+	</g>
+	<g id="lbccl">
+		<text transform="matrix(1 0 0 1 830 727)" class="st25 st26">Bras</text>
+		<text transform="matrix(1 0 0 1 830 739)" class="st25 st26">Basah</text>
+		<text transform="matrix(1 0 0 1 872 779)" class="st25 st26">Esplanade</text>
+		<text transform="matrix(1 0 0 1 950 748)" class="st25 st26">Nicoll</text>
+		<text transform="matrix(1 0 0 1 934 760)" class="st25 st26">Highway</text>
+		<text transform="matrix(1 0 0 1 1004 726)" class="st25 st26">Stadium</text>
+		<text transform="matrix(1 0 0 1 1008 700)" class="st25 st26">Mountbatten</text>
+		<text transform="matrix(1 0 0 1 1011 674)" class="st25 st26">Dakota</text>
+		<text transform="matrix(1 0 0 1 989 556)" class="st25 st26">Tai Seng</text>
+		<text transform="matrix(1 0 0 1 968 514)" class="st25 st26">Bartley</text>
+		<text transform="matrix(1 0 0 1 879 413)" class="st25 st26">Lorong</text>
+		<text transform="matrix(1 0 0 1 879 425)" class="st25 st26">Chuan</text>
+		<text transform="matrix(1 0 0 1 690 383)" class="st25 st26">Marymount</text>
+		<text transform="matrix(1 0 0 1 605 399)" class="st25 st26">Caldecott</text>
+		<text transform="matrix(1 0 0 1 522 520)" class="st25 st26">Farrer Road</text>
+		<text transform="matrix(1 0 0 1 504 556)" class="st25 st26">Holland</text>
+		<text transform="matrix(1 0 0 1 504 568)" class="st25 st26">Village</text>
+		<text transform="matrix(1 0 0 1 444 635)" class="st25 st26">one-</text>
+		<text transform="matrix(1 0 0 1 441 645)" class="st25 st26">north</text>
+		<text transform="matrix(1 0 0 1 483 674)" class="st25 st26">Kent</text>
+		<text transform="matrix(1 0 0 1 483 686)" class="st25 st26">Ridge</text>
+		<text transform="matrix(1 0 0 1 490 713)" class="st25 st26">Haw Par</text>
+		<text transform="matrix(1 0 0 1 490 725)" class="st25 st26">Villa</text>
+		<text transform="matrix(1 0 0 1 458 758)" class="st25 st26">Pasir</text>
+		<text transform="matrix(1 0 0 1 442 770)" class="st25 st26">Panjang</text>
+		<text transform="matrix(1 0 0 1 458 798)" class="st25 st26">Labrador</text>
+		<text transform="matrix(1 0 0 1 483 810)" class="st25 st26">Park</text>
+		<text transform="matrix(1 0 0 1 504 834)" class="st25 st26">Telok</text>
+		<text transform="matrix(1 0 0 1 488 846)" class="st25 st26">Blangah</text>
+	</g>
+	<g id="lbcclex">
+	</g>
+	<g id="lbdtl">
+		<text transform="matrix(1 0 0 1 430.5 269)" class="st25 st26">Cashew</text>
+		<text transform="matrix(1 0 0 1 433 301)" class="st25 st26">Hillview</text>
+		<text transform="matrix(1 0 0 1 436 358)" class="st25 st26">Beauty</text>
+		<text transform="matrix(1 0 0 1 442 370)" class="st25 st26">World</text>
+		<text transform="matrix(1 0 0 1 415 396)" class="st25 st26">King Albert</text>
+		<text transform="matrix(1 0 0 1 450 408)" class="st25 st26">Park</text>
+		<text transform="matrix(1 0 0 1 503 407)" class="st25 st26">Sixth</text>
+		<text transform="matrix(1 0 0 1 503 419)" class="st25 st26">Avenue</text>
+		<text transform="matrix(1 0 0 1 529 434)" class="st25 st26">Tan</text>
+		<text transform="matrix(1 0 0 1 529 446)" class="st25 st26">Kah Kee</text>
+		<text transform="matrix(1 0 0 1 664 484)" class="st25 st26">Stevens</text>
+		<text transform="matrix(1 0 0 1 775 655)" class="st25 st26">Rochor</text>
+		<text transform="matrix(1 0 0 1 809 865)" class="st25 st26">Downtown</text>
+		<text transform="matrix(1 0 0 1 747 789)" class="st25 st26">Telok</text>
+		<text transform="matrix(1 0 0 1 747 801)" class="st25 st26">Ayer</text>
+		<text transform="matrix(1 0 0 1 685 708)" class="st25 st26">Fort</text>
+		<text transform="matrix(1 0 0 1 662 720)" class="st25 st26">Canning</text>
+		<text transform="matrix(1 0 0 1 780 686)" class="st25 st26">Bencoolen</text>
+		<text transform="matrix(1 0 0 1 874 660)" class="st25 st26">Jalan</text>
+		<text transform="matrix(1 0 0 1 874 671)" class="st25 st26">Besar</text>
+		<text transform="matrix(1 0 0 1 825 632)" class="st25 st26">Bendeemer</text>
+		<text transform="matrix(1 0 0 1 882 582)" class="st25 st26">Geylang</text>
+		<text transform="matrix(1 0 0 1 895 594)" class="st25 st26">Bahru</text>
+		<text transform="matrix(1 0 0 1 951.5 595)" class="st25 st26">Mattar</text>
+		<text transform="matrix(1 0 0 1 1036 575)" class="st25 st26">Ubi</text>
+		<text transform="matrix(1 0 0 1 1077 595)" class="st25 st26">Kaki</text>
+		<text transform="matrix(1 0 0 1 1075 607)" class="st25 st26">Bukit</text>
+		<text transform="matrix(1 0 0 1 1110 562)" class="st25 st26">Bedok</text>
+		<text transform="matrix(1 0 0 1 1112 574)" class="st25 st26">North</text>
+		<text transform="matrix(1 0 0 1 1157 595)" class="st25 st26">Bedok</text>
+		<text transform="matrix(1 0 0 1 1149 607)" class="st25 st26">Reservoir</text>
+		<text transform="matrix(1 0 0 1 1184 562)" class="st25 st26">Tampines</text>
+		<text transform="matrix(1 0 0 1 1196 574)" class="st25 st26">West</text>
+		<text transform="matrix(1 0 0 1 1292 609)" class="st25 st26">Tampines</text>
+		<text transform="matrix(1 0 0 1 1292 621)" class="st25 st26">East</text>
+		<text transform="matrix(1 0 0 1 1292 643)" class="st25 st26">Upper</text>
+		<text transform="matrix(1 0 0 1 1292 655)" class="st25 st26">Changi</text>
+	</g>
+	<g id="lbdtlex">
+	</g>
+	<g id="lbtel">
+		<text transform="matrix(1 0 0 1 450 29)" class="st25 st26">Woodlands North</text>
+		<text transform="matrix(1 0 0 1 596 119)" class="st25 st26">Woodlands</text>
+		<text transform="matrix(1 0 0 1 596 131)" class="st25 st26">South</text>
+	</g>
+	<g id="lbtelex">
+		<text transform="matrix(1 0 0 1 632 163)" class="st27 st25 st26">Springleaf</text>
+		<text transform="matrix(1 0 0 1 665 212)" class="st27 st25 st26">Lentor</text>
+		<text transform="matrix(1 0 0 1 665 250)" class="st27 st25 st26">Mayflower</text>
+		<text transform="matrix(1 0 0 1 622 292)" class="st27 st25 st26">Bright</text>
+		<text transform="matrix(1 0 0 1 637 304)" class="st27 st25 st26">Hill</text>
+		<text transform="matrix(1 0 0 1 621 354)" class="st27 st25 st26">Upper</text>
+		<text transform="matrix(1 0 0 1 604 366)" class="st27 st25 st26">Thomson</text>
+	</g>
+	<g id="lbjrlex">
+	</g>
+	<g id="lbcrlex">
+	</g>
+	<g id="lbint">
+		<text transform="matrix(1 0 0 1 708 686)" class="st28 st26">Dhoby</text>
+		<text transform="matrix(1 0 0 1 709 698)" class="st28 st26">Ghaut</text>
+		<text transform="matrix(1 0 0 1 789 895)" class="st28 st26">Marina</text>
+		<text transform="matrix(1 0 0 1 789 907)" class="st28 st26">Bay</text>
+		<text transform="matrix(1 0 0 1 885 888)" class="st28 st26">Bayfront</text>
+		<text transform="matrix(1 0 0 1 886 797)" class="st28 st26">Promenade</text>
+		<text transform="matrix(1 0 0 1 1010 621)" class="st28 st26">Paya</text>
+		<text transform="matrix(1 0 0 1 1010 633)" class="st28 st26">Lebar</text>
+		<text transform="matrix(1 0 0 1 1001 594)" class="st28 st26">MacPherson</text>
+		<text transform="matrix(1 0 0 1 933 468)" class="st28 st26">Serangoon</text>
+		<text transform="matrix(1 0 0 1 793 390)" class="st28 st26">Bishan</text>
+		<text transform="matrix(1 0 0 1 491 470)" class="st28 st26">Botanic</text>
+		<text transform="matrix(1 0 0 1 486 482)" class="st28 st26">Gardens</text>
+		<text transform="matrix(1 0 0 1 489 600)" class="st28 st26">Buona Vista</text>
+		<text transform="matrix(1 0 0 1 495 875)" class="st28 st26">HarbourFront</text>
+		<text transform="matrix(1 0 0 1 1252 687)" class="st28 st26">Expo</text>
+		<text transform="matrix(1 0 0 1 1250 574)" class="st28 st26">Tampines</text>
+		<text transform="matrix(1 0 0 1 1235 650)" class="st28 st26">Tanah</text>
+		<text transform="matrix(1 0 0 1 1235 662)" class="st28 st26">Merah</text>
+		<text transform="matrix(1 0 0 1 908 730)" class="st28 st26">Bugis</text>
+		<text transform="matrix(1 0 0 1 840 799)" class="st28 st26">City</text>
+		<text transform="matrix(1 0 0 1 840 811)" class="st28 st26">Hall</text>
+		<text transform="matrix(1 0 0 1 808 831)" class="st28 st26">Raffles</text>
+		<text transform="matrix(1 0 0 1 808 843)" class="st28 st26">Place</text>
+		<text transform="matrix(1 0 0 1 605 782)" class="st28 st26">Outram</text>
+		<text transform="matrix(1 0 0 1 621 794)" class="st28 st26">Park</text>
+		<text transform="matrix(1 0 0 1 292 495)" class="st28 st26">Jurong</text>
+		<text transform="matrix(1 0 0 1 292 508)" class="st28 st26">East</text>
+		<text transform="matrix(1 0 0 1 247 213)" class="st28 st26">Choa</text>
+		<text transform="matrix(1 0 0 1 221 225)" class="st28 st26">Chu Kang</text>
+		<text transform="matrix(1 0 0 1 714 536)" class="st28 st26">Newton</text>
+		<text transform="matrix(1 0 0 1 480 100)" class="st28 st26">Woodlands</text>
+		<text transform="matrix(1 0 0 1 702 758)" class="st28 st26">Chinatown</text>
+		<text transform="matrix(1 0 0 1 739 605)" class="st28 st26">Little</text>
+		<text transform="matrix(1 0 0 1 738 617)" class="st28 st26">India</text>
+		<text transform="matrix(1 0 0 1 1013 309)" class="st28 st26">Sengkang</text>
+		<text transform="matrix(1 0 0 1 1117 215)" class="st28 st26">Punggol</text>
+		<text transform="matrix(1 0 0 1 445 240)" class="st28 st26">Bukit</text>
+		<text transform="matrix(1 0 0 1 429 252)" class="st28 st26">Panjang</text>
+	</g>
+	<g id="lbbpl">
+		<text transform="matrix(1 0 0 1 307 211)" class="st25 st29">South</text>
+		<text transform="matrix(1 0 0 1 309 221)" class="st25 st29">View</text>
+		<text transform="matrix(1 0 0 1 345 239)" class="st25 st29">Keat</text>
+		<text transform="matrix(1 0 0 1 344 249)" class="st25 st29">Hong</text>
+		<text transform="matrix(1 0 0 1 380 239)" class="st25 st29">Teck</text>
+		<text transform="matrix(1 0 0 1 378 249)" class="st25 st29">Whye</text>
+		<text transform="matrix(1 0 0 1 407 221)" class="st25 st29">Phoenix</text>
+		<text transform="matrix(1 0 0 1 525 242)" class="st25 st29">Petir</text>
+		<text transform="matrix(1 0 0 1 525 272)" class="st25 st29">Pending</text>
+		<text transform="matrix(1 0 0 1 569 251)" class="st25 st29">Bangkit</text>
+		<text transform="matrix(1 0 0 1 569 229)" class="st25 st29">Fajar</text>
+		<text transform="matrix(1 0 0 1 569 207)" class="st25 st29">Segar</text>
+		<text transform="matrix(1 0 0 1 525 186)" class="st25 st29">Jelapang</text>
+		<text transform="matrix(1 0 0 1 525 215)" class="st25 st29">Senja</text>
+	</g>
+	<g id="lbskl">
+		<text transform="matrix(1 0 0 1 1096 315)" class="st25 st29">Compassvale</text>
+		<text transform="matrix(1 0 0 1 1155 335)" class="st25 st29">Rumbia</text>
+		<text transform="matrix(1 0 0 1 1157 379)" class="st25 st29">Bakau</text>
+		<text transform="matrix(1 0 0 1 1071 384)" class="st25 st29">Kangkar</text>
+		<text transform="matrix(1 0 0 1 1045 354)" class="st25 st29">Ranggung</text>
+		<text transform="matrix(1 0 0 1 1071 273)" class="st25 st29">Cheng</text>
+		<text transform="matrix(1 0 0 1 1071 283)" class="st25 st29">Lim</text>
+		<text transform="matrix(1 0 0 1 1065 246)" class="st25 st29">Farmway</text>
+		<text transform="matrix(1 0 0 1 1048 228)" class="st25 st29">Kupang</text>
+		<text transform="matrix(1 0 0 1 970 226)" class="st25 st29">Thanggam</text>
+		<text transform="matrix(1 0 0 1 961 246)" class="st25 st29">Fernvale</text>
+		<text transform="matrix(1 0 0 1 974 277)" class="st25 st29">Layar</text>
+		<text transform="matrix(1 0 0 1 973 293)" class="st25 st29">Tongkang</text>
+		<text transform="matrix(1 0 0 1 1025 286)" class="st25 st29">Renjong</text>
+	</g>
+	<g id="lbpgl">
+		<text transform="matrix(1 0 0 1 1164 250)" class="st25 st29">Cove</text>
+		<text transform="matrix(1 0 0 1 1154 275)" class="st25 st29">Meridian</text>
+		<text transform="matrix(1 0 0 1 1160 293)" class="st25 st29">Coral Edge</text>
+		<text transform="matrix(1 0 0 1 1252 282)" class="st25 st29">Riviera</text>
+		<text transform="matrix(1 0 0 1 1259 245)" class="st25 st29">Kadaloor</text>
+		<text transform="matrix(1 0 0 1 1243 229)" class="st25 st29">Oasis</text>
+		<text transform="matrix(1 0 0 1 1198 219)" class="st25 st29">Damai</text>
+		<text transform="matrix(1 0 0 1 1166 177)" class="st25 st29">Sam Kee</text>
+		<text transform="matrix(1 0 0 1 1162 150)" class="st27 st25 st29">Teck Lee</text>
+		<text transform="matrix(1 0 0 1 1145 131)" class="st25 st29">Punggol Point</text>
+		<text transform="matrix(1 0 0 1 1056 142)" class="st25 st29">Samudera</text>
+		<text transform="matrix(1 0 0 1 1063 181)" class="st25 st29">Nibong</text>
+		<text transform="matrix(1 0 0 1 1075 198)" class="st25 st29">Sumang</text>
+		<text transform="matrix(1 0 0 1 1131 182)" class="st25 st29">Soo</text>
+		<text transform="matrix(1 0 0 1 1130 191)" class="st25 st29">Teck</text>
+	</g>
+	<g id="rtsl">
+	</g>
+</g>
+</svg>
