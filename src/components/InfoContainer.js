@@ -2,6 +2,7 @@ import React from 'react';
 import Dropdown from 'react-bootstrap/Dropdown';
 
 function InfoContainer({showStationInfo}){
+    //Contains Info About Station and Nearby Places
     return (
         <div className="infoContainer" style={{ height: '60vw', width: '30%', backgroundColor: '#a83232' }}>
             <h1>{" "} {showStationInfo || "<Click on Station Node For More Info>"}</h1>
