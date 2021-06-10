@@ -6,23 +6,7 @@ p {
     position: relative;
 }
 
-/*
-.ew32 {
-    position: absolute;
-    top: 800px;
-    left: 95px;
-    background: transparent; 
-    border: none;
-    color: transparent 
-} 
 
-
-.btn {
-    position: absolute;
-    background: transparent;
-    border: none;
-    color: black;
-} */
 
 /* CUSTOM BUTTON FOR EWL */ 
 .ew-btn {

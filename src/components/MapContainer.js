@@ -1,19 +1,24 @@
 import React from 'react';
 import mapCoordinates from './mapCoordinates.css';
+import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 
 function MapContainer({ selectedStart, selectedEnd, setActiveStation}){
 
     const setInfo = (stationCode) =>{
         console.log(stationCode); 
-        setActiveStation(stationCode)
+        setActiveStation(stationCode);
+        
     }
+
+    
     return(
         <div className="mapContainer" style={{ height: '60vw', width: '70%', backgroundColor: '#572759' }}>
-            <h1>Start Station: {" "} {selectedStart || "<placeholder>"}</h1> 
-            <h1>End Station: {" "} {selectedEnd || "<placeholder>"}</h1>
-            
-            <div className="map">
-                <img className="tmp" src={require('./img/mrtmap.svg').default} style={{mapCoordinates}.default}/>
+            <h3>Start Station: {" "} {selectedStart || "<placeholder>"} End Station: {" "} {selectedEnd || "<placeholder>"}</h3>
+            <h4>Route Info Goes Here.</h4>
+            <TransformWrapper>
+            <TransformComponent>
+                <div className="map" style={{ mapCoordinates }.default}>
+                <img className="tmp" src="https://i.imgur.com/w7ReB4N.png" alt="Station map not loaded. Please refresh page" style = {{height: "50vw", width: "70vw"}}/>
                 <div className="nodes">
                     {/*East West Line & Changi Airport Branch Line Stations*/}
                     <button onClick={() => {setInfo('cg1')}} className="cg1 ic-btn">O</button>
@@ -75,7 +80,6 @@ function MapContainer({ selectedStart, selectedEnd, setActiveStation}){
                     <button onClick={() => {setInfo('ns23')}} className="ns23 ns-btn">O</button>
                     <button onClick={() => {setInfo('ns24')}} className="ns24 ic-btn">O</button>
                     <button onClick={() => {setInfo('ns25')}} className="ns25 ic-btn">O</button>
-                    <button onClick={() => {setInfo('ns26')}} className="ns26 ic-btn">O</button>
                     <button onClick={() => {setInfo('ns27')}} className="ns27 ic-btn">O</button>
                     <button onClick={() => {setInfo('ns28')}} className="ns28 ns-btn">O</button>
                     {/*North-East Line Stations*/}
@@ -190,7 +194,8 @@ function MapContainer({ selectedStart, selectedEnd, setActiveStation}){
                     <button onClick={() => {setInfo('pe7')}} className="pe7 lrt-btn">O</button>
                 </div>
                 </div>
-                
+                </TransformComponent>
+            </TransformWrapper>
             </div>
 
         );

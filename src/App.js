@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState, useScript } from 'react';
+import React, {useState} from 'react';
 import StationSelection from "./components/StationSelection";
 import RouteDisplay from "./components/RouteDisplay";
 import MapContainer from "./components/MapContainer";

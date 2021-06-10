@@ -6,11 +6,11 @@ function InfoContainer({showStationInfo}){
     return (
         <div className="infoContainer" style={{ height: '60vw', width: '30%', backgroundColor: '#a83232' }}>
             <h1>{" "} {showStationInfo || "<Click on Station Node For More Info>"}</h1>
-            <img src = {require('./img/placeholder.jpg').default} style = {{height: '20%'}}/>
+            <img src = {require('./img/placeholder.jpg').default} alt = "Station Thumbnail" style = {{height: '20%'}}/>
             <h2>Suggested Places</h2>
             <Dropdown style = {{paddingTop: '5%', paddingBottom: '5%'}}>
                 <Dropdown.Toggle variant="primary" id="dropdown-basic">
-                    Shopping and Attractions
+                    Attractions
                 </Dropdown.Toggle>
 
                 <Dropdown.Menu>
@@ -22,7 +22,7 @@ function InfoContainer({showStationInfo}){
 
             <Dropdown style={{ paddingBottom: '5%' }}>
                 <Dropdown.Toggle variant="warning" id="dropdown-basic">
-                    Food Outlets
+                    Shopping
                 </Dropdown.Toggle>
 
                 <Dropdown.Menu>
@@ -34,7 +34,7 @@ function InfoContainer({showStationInfo}){
 
             <Dropdown style={{ paddingBottom: '5%' }}>
                 <Dropdown.Toggle variant="secondary" id="dropdown-basic">
-                    Public Facilities
+                    Community Facilities
                 </Dropdown.Toggle>
 
                 <Dropdown.Menu>
@@ -70,7 +70,7 @@ function InfoContainer({showStationInfo}){
 
             <Dropdown style={{ paddingBottom: '5%' }}>
                 <Dropdown.Toggle variant="danger" id="dropdown-basic">
-                    Housing 
+                    Offices and Residences
                 </Dropdown.Toggle>
 
                 <Dropdown.Menu>
