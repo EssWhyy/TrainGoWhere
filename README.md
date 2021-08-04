@@ -32,34 +32,31 @@ A map of the entire MRT & LRT network with clickable stations and highlightable 
 
 
 ## Directory of amenities situated around each station
-1. Users can search for their desired place through directories catered for each station and through searching directly from the map
-2. Indicates the closest MRT exit for different amenities and estimated walking time
-3. Pictures of attractions/places around
-4. Allow users to bookmark/favourite frequent places
+- Users can search for their desired place through directories catered for each station after choosing a station from the map
+- Key information on attractions/places around a station
+- Leverages on Google Places API to showcase information related to the selected place-of-interest
+
 
 ## User Feedback/Suggestions
-1. Users can submit modifications/amendments to existing content should there be a change to the amenities available in that area --> Feedback will be reviewed by content moderators before the actual changes are implemented
+- In order for this application to remain relevant and current, users are invited to submit modifications or proposed amendments to existing content should they observe a change to the amenities available in that area. The feedback obtained will be reviewed by content moderators before the actual changes are implemented. 
 
-### Possible Extensions
-1. Show amenities/attractions on map directly when selecting a station
-2. Allow users to mark their own places in the map (locally) and calculate closest station/shortest routes between them.
+## Possible Future Extensions
+- Allow users to add in custom personal places for a certain station
+- Allow users search up amenities directly and bookmark stations or places for ease of search
 
 
-## Technologies used
+# Technologies used
 
 ### Front End
 1. HTML/CSS/JavaScript 
 2. React.js
-3. Google Map API (for zoomable custom map)
+3. Bootstrap
 
 ### Back End
-1. SQL/Oracle
-2. Node.js + Express.js
-3. Amazon Web Server Hosting
-4. LTA DataMall API (to check for delays, unavailability & passenger density of train services)
-
-## Current Status
-Designing the front end structure of the website (HTML/CSS/JS/React)
+1. Node.js + Express.js
+2. Heroku Web Hosting
+3. LTA DataMall API (https://datamall.lta.gov.sg/content/datamall/en.html)
+4. Google Places and Photos API (https://developers.google.com/maps/documentation/places/web-service/overview)
 
 
 
