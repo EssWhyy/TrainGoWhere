@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
 .App {
   text-align: center;
-  font-family: Helvetica;
+  font-family: 'Montserrat', sans-serif;
 }
 
 

@@ -1,0 +1,2179 @@
+{
+    "template": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": []
+    },
+
+    "cg1": {
+        "Attractions": [],
+        "Community Facilities": [["Singapore Expo Halls 1-9", "ChIJgU5qayg92jERoeC9afgWF68"], ["Max Atria", "ChIJR2iotCk92jER3_zyGnGrqmI"], ["The Max Pavillion", "ChIJbVVVZSg92jERo6r6OOWcR4Y"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Capri By Fraser Changi City", "ChIJD85J6Nk82jERHnPPIosAvUY"], ["Park Avenue Changi", "ChIJ2-F_0tk82jERiaeMeEZTO_o"], ["UE Bizhub East", "ChIJ3yjvgNc82jER3lH8JvbZ0VY"]],
+        "Offices & Residences": [["The IBM Place", "ChIJxal0xdk82jERpMHd2RMV4iA"], ["The Signature", "ChIJ9aVloIs92jER2jRXnxj_X-A"], ["Thyssen Haniel Logistics Centre", "ChIJDes1PNY82jERv8P6e0MoSe8"], ["U-Freight Logistics Centre", "ChIJWbvyXNY82jERa7k6j9Dr9_E"], ["UE Bizhub East", "ChIJ3yjvgNc82jER3lH8JvbZ0VY"], ["Ultro Building", "ChIJZaEaNdg82jERLYkVN1xjWxs"], ["Yas Global Logistics", ""], ["DBS Asia Hub", "ChIJKz9W4dY82jER8KC9y_c1duU"], ["Eightrium@CBP", "ChIJvVcrCdk82jERhcoR-pzHpK8"], ["One@Changi City", "ChIJATkwuNc82jERZnl3QAZ8cFY"], ["Plaza8 @ CBP", "ChIJgakgIdc82jER2Unu2WO08Rs"], ["The Signature", "ChIJ9aVloIs92jER2jRXnxj_X-A"], ["Citi", "ChIJ17LcR9c82jERVbFmuxnHWEM"], ["DBS Schenker Logistics Centre", "ChIJAxTeFtY82jERdAkLBlGtPt8"], ["Yusen Logistic", "ChIJwxEv8dY82jERETV-fOt_feY"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["ITE College East", "ChIJyTBvLLY92jERs"], ["Singapore University of Technology and Design (SUTD)", "ChIJy2Dymdg82jERGFUCbbzKvpk"]],
+        "Shopping & Dining": [["UE Bizhub East", "ChIJ3yjvgNc82jER3lH8JvbZ0VY"], ["Changi City Point", "ChIJ90mhydc82jERo-x464yO0ik"]],
+        "Picture": ["https://i.imgur.com/bbmyWxu.jpg"]
+    }, 
+
+    "cg2": {
+        "Attractions": [],
+        "Community Facilities": [["Changi Airport", "ChIJ483Qk9YX2jERA0VOQV7d1tY"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Crowne Plaza Changi Airport", "ChIJvySRapM82jERRQTFHA8XoHQ"]],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Changi Airport", "ChIJ483Qk9YX2jERA0VOQV7d1tY"]],
+        "Picture": ["https://i.imgur.com/XV3ntTo.jpg"]
+    },
+
+    "ew1": {
+        "Attractions": [],
+        "Community Facilities": [["Pasir Ris Public Library", "ChIJt32_-6892jERnWIg-gesfQ0"], ["Pasir Ris Bus Interchange", "ChIJ9f98p1s92jERp0khpsrfSUU"], ["Pasir Ris Sports Centre", "ChIJj69OSrA92jER42yLl8ctTU0"], ["Pasir Ris-Punggol TC (Pasir Ris Office)", "ChIJ64CT2ro92jER_aCfBlWW_x4"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Pasir Ris Central", "EhxQYXNpciBSaXMgQ2VudHJhbCwgU2luZ2Fwb3JlIi4qLAoUChIJW5QqTqU92jERQS-SxMejHu0SFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Parks & Gardens": [["Pasir Ris Town Park", "ChIJNTlhccg92jERBftThrByZK0"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["White Sands", "ChIJQyaM-6892jER4DhQn_hqaYE"]],
+        "Picture": ["https://i.imgur.com/61zuw0R.jpg"]
+    },
+
+    "ew2": {
+        "Attractions": [],
+        "Community Facilities": [["Tampines Bus Interchange", "ChIJnVbp9bA92jERauRn2VpeVTo"], ["Tampines Regional Library", "ChIJ8V6JYQ492jERAjykK83B_KU"], ["Public Free Clinic Society- Tampines", "ChIJUdn0RxA92jERVZ_5rO2-3I8"], ["Tampines Polyclinic", "ChIJr0pVPQ892jER4AJQCrd87hM"], ["Tampines North Community Centre", "ChIJJxiLHg892jER1e5MNA9iGKI"], ["Our Tampines Hub", "ChIJu487hQ092jER1DJRGc0isoE"], ["Tampines EW2", "ChIJR4Br7EI92jERjEW4xFjxkiE"], ["Tampines Swimming Pool", "ChIJVVVVVRI92jERn1JVHGu8oik"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["AIA Tampines", "ChIJOSpbjQ092jERtncAQQ9pzrY"], ["NTUC Income Tampines Pt", "ChIJaQlxPRI92jERYNQZB7nbYBg"], ["NTUC Income at Tampines Junction", "ChIJV0eJSBI92jER3-9zMbhphoU"], ["OCBC Tampines Centre One", "ChIJpzpV9w092jERAoLj9ZubhMU"], ["OCBC Tampines Centre Two", "ChIJ1XlqMRI92jER80ThnNX0y4c"], ["HDB Tampines Branch", "ChIJ2eyREA492jERS2xYAhGs57Y"], ["Tampines Plaza", "ChIJ60LhGxI92jERrI_W4uylpyY"], ["Tampines Telepark", "ChIJ4QcqFxI92jER_0YAvJHqOYQ"], ["Kheng Chiu Happy Lodge", "ChIJ2UZzqw892jERnrD6rAQHe7Y"], ["Tampines Plaza 1 (Formerly ABACUS Plaza)", "ChIJJ46wIxI92jERSs5bl6dbcZo"], ["CPF Tampines Building", "ChIJq6pq9BE92jERyCE7zFz0Zrc"], ["UOB Tampines Ctr", "ChIJQ3n6MhI92jERyRXBwgDz1uc"]],
+        "Parks & Gardens": [["Tampines Park Connector", "EiJUYW1waW5lcyBQYXJrIENvbm5lY3RvciwgU2luZ2Fwb3JlIi4qLAoUChIJpSjdja492jERxG2xQGFi460SFAoSCXWTi4ojEdoxEcT1q1LPaXiI"], ["Tampines Eco Green", "ChIJQ-JB8ac92jERM18jZukcWnw"], ["Sun Plaza Park", "ChIJQ6n9Ygw92jERM5o8IkMEhyU"]],
+        "Places of Worship": [["Masjid Darul Ghufran", "ChIJ684VDQ092jERN97jdLX0Hew"]],
+        "Schools & Public Institutions": [["CPF Tampines Building", "ChIJq6pq9BE92jERyCE7zFz0Zrc"], ["Pasir Ris Sec Sch", "ChIJ20PS5Q892jER2vxdSYzFMDk"], ["Tampines Primary School", "ChIJi_FkfrM92jERwrQFxd6mcVY"], ["Tampines Secondary School", "ChIJ12A9rBY92jERVZn3vU8ZIjc"]],
+        "Shopping & Dining": [["Eastlink Mall", "ChIJI017Gw492jER-Lsgvs_PWwI"], ["Tampines One", "ChIJTVVVIA492jER3TWGPpL6gRk"], ["Century Square", "ChIJCXOkiBE92jERm5iCnMRS4_g"], ["Tampines Mall", "ChIJ89lf6hE92jERQXt7c5QOFnY"]],
+        "Picture": ["https://i.imgur.com/bIbxdsu.jpg"]
+    },
+
+    "ew3": {
+        "Attractions": [],
+        "Community Facilities": [["Changi Simei Community Club", "ChIJrzknUh892jERvwiQA4cBlu4"], ["Changi NPC", "ChIJT8T1ACI92jERCV2-uZQqGRo"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Simei Pk Connector", "ChIJBXAZUSE92jERuo7o4zv-UF4"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Changkat Changi Sec Sch", "ChIJMT1ZviA92jERuZWfEVHiSjE"], ["Changkat Pri Sch", "ChIJYSeOgyM92jERbtrbFfuU7NI"]],
+        "Shopping & Dining": [["Eastpoint Mall", "ChIJ7egDUyI92jERegSiojEDekc"]],
+        "Picture": ["https://i.imgur.com/uBkozf5.jpg"]
+    },
+
+    "ew4": {
+        "Attractions": [],
+        "Community Facilities": [["Shuttle Bus to National Service Resort Country Club & NeWater Visitor Centre", ""], ["Bus Service 35 to Tanah Merah Ferry Terminal", ""]],
+        "Historical Landmark": [["Bus Service 2 to Changi Chapel & Museum", ""]],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Jalan Limau Kasturi", "EhxKbG4gTGltYXUgS2FzdHVyaSwgU2luZ2Fwb3JlIi4qLAoUChIJb2XZ48wi2jERefVLHm0M_toSFAoSCcmOK7RnF9oxESCk2q6s9wAE"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["APSN Katong School", "ChIJ12f7Wcsi2jEROtmdicrOi4k"], ["Bedok View Sec Sch", "ChIJnxFYoMwi2jERtt_FbuGHSj8"], ["Bus Service 31 to ITE College East", ""]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/EPjylOK.jpg"]
+    },
+
+    "ew5": {
+        "Attractions": [],
+        "Community Facilities": [["Chai Chee NPP", "ChIJq6qan7Ii2jER-wBHQjUP1Ws"], ["Bedok Polyclinic", "ChIJexzsW0s92jERQXf05lS9yXo"], ["HCA Bedok Ctr", "ChIJs23oerQi2jERhUvVSp-r7f0"], ["Bedok Public Library", "ChIJp82Vu0w92jER70H7i4t8wfk"], ["East Coast Town Council", "ChIJxbtSsEw92jERNGCuEHpL3LE"], ["Bedok Integrated Transport Hub", "ChIJhw2p4k0j2jERNypMddOSoQo"], ["Bedok HDB Branch Office", "ChIJEezpSk092jERM-MrBnj3uNw"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Garden Hill", "ChIJ-3Ny2Uw92jERB4QXlXhlV0g"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Bedok Mall", "ChIJR80Wwcoi2jER8yMuAZodQFk"], ["Bedok Point", "ChIJgWBomLQi2jERyU-GZEHw_NI"], ["Shuttle Bus to Giant Tampines / IKEA / COURTS", ""]],
+        "Picture": ["https://i.imgur.com/VtuKhth.png"]
+    },
+
+    "ew6": {
+        "Attractions": [],
+        "Community Facilities": [["Thian Leng Old Folks Home", "ChIJY7hLkgcY2jERJGmfnfw0BKQ"], ["Kampong Kembangan Neighbourhood Police Post", "ChIJlSuL_wAY2jERPFQX4tZxnIQ"], ["Kampong Kembangan Community Club", "ChIJ44tt7QAY2jERGT9ywJz6_QM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Siglap Homestay", ""], ["Hotel 81 Changi", "ChIJfytaUwYY2jERKBj_FSEJO98"]],
+        "Offices & Residences": [["Kembangan Plaza", "ChIJjRlYPgcY2jERUsmMVYiBaBk"], ["Sing Lian Bldg", "ChIJu53OTwYY2jERod4JeVw43ws"]],
+        "Parks & Gardens": [["Siglap Pk Connector", "EiBTaWdsYXAgUGFyayBDb25uZWN0b3IsIFNpbmdhcG9yZSIuKiwKFAoSCaVR7pynItoxEYlmLneof7yzEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"]],
+        "Places of Worship": [["Hong San Si Temple", "ChIJlSFs8gYY2jERDOr--yiByTA"], ["Masjid Kassim", "ChIJkW1jrwcY2jER4OnLefm_cJA"], ["Thian Ling Chong Toh Tong Temple", "ChIJ3dN1nQcY2jER1fFjcIdWjiI"], ["Buddhist Heritage Ctr", ""], ["Leng Teck Hood Yee Temple", "ChIJuzAerwAY2jERCFZhJZDGfss"], ["Buddhist Columbarium"], ["Masjid Mydin", "ChIJmfnlEqoi2jERx-W75VAmxDg"], ["Bethesda Chapel", "ChIJ43ylxgYY2jERsliex8IPMsQ"], ["The Buddhist Union", "ChIJPRlSAaoi2jERoHB_6mM9j1s"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/UoJ3Tr6.jpg"]
+    },
+
+    "ew7": {
+        "Attractions": [],
+        "Community Facilities": [["Kembangan-Chai Chee Community Hub", "ChIJ5107oD4Y2jERhcCJ5TIJdQk"], ["Eunos Bus Interchange", "ChIJkzCJQjAZ2jER1cvyaf_LYzo"], ["Kampong Ubi CC", "ChIJPRrhkhoY2jERMMNSzjg2Tkg"], ["Eunos Fire Post", "ChIJOTHf4-EZ2jERL3_N3kVPn4Y"], ["THK Home for Disabled @ Eunos", "ChIJsSmYBQUY2jERCmfIhVfw1d8"], ["Kwan-In Welfare Free Clinic", "ChIJ688tZgQY2jERxM-eCTlMTvw"], ["Kg Ubi NPP", "ChIJuWd0rxwY2jEROIw_2vYJpuo"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Fragrance Bldg", ""], ["Guthrie Bldg", "ChIJ_0RCBhAY2jERNjSEzprGgOU"], ["Great Eastern @ Changi", "ChIJLTxLWAUY2jER1IFJqNtjd9Q"], ["PKMS Bldg", "ChIJu8cjbSEZ2jERuDwTHckBWtk"], ["Icon @ Changi", "ChIJa4VyeT4Z2jERUk5kJlirsJA"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Mangala Vihara Bu Temple", "ChIJLSu_VwQY2jERbHH4irG3BlE"], ["Masjid Darul Aman", "ChIJidljbAUY2jERgKMgYT1QTEQ"], ["Sian Keng Tong Temple", ""]],
+        "Schools & Public Institutions": [["Management Development Institute of Singapore", "ChIJS9SQVAUY2jERgWfTJ0oQN9w"]],
+        "Shopping & Dining": [["Hexacube", "ChIJ01CoABAY2jERQyWDC06BnC8"]],
+        "Picture": ["https://i.imgur.com/1PR6Lab.png"]
+    },
+
+    "ew8": {
+        "Attractions": [],
+        "Community Facilities": [["SingPost Centre", "ChIJC8ructcZ2jER2WPSgnCqzoc"], ["Thong Teck Home For Senior Citizens", "ChIJpSxmASMY2jERrtoyRy8-qdk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Four Chain View Hotel", "ChIJl5S5fT0Y2jERwJsMUEULTa0"]],
+        "Offices & Residences": [["Paya Lebar Sq", "ChIJzxwZERgY2jER2FX37qmG49Q"], ["Certis CISCO Centre", "ChIJ1c2ORB8Y2jERETcyLlR7mSU"], ["Geylang East Industrial Estate", "ChIJv5nLhCIY2jERyg-udWBGXe4"], ["Oakwell Bldg", "ChIJ8zZxbCIY2jERkdMGaG31M90"], ["Framework Bldg", "ChIJE2gnr-gZ2jERuDg95Q71ClE"], ["Clinic For Pets", "ChIJc5GXfCIY2jERPRnwBpi2ksE"], ["Folec Technologies Ctr", ""], ["Nanyang Hwu Clan General Assn Bldg", "ChIJ-yA4tDAY2jERraUmwfuCD_k"], ["Paya Lebar Office Ctr", ""], ["NTWU Building", "ChIJ_55cRj0Y2jERI4INsGKpf4M"], ["City Plaza", "ChIJ34RyshcY2jERneNcLqsPK3o"], ["Oriental Venture Bldg", "ChIJ79aUcz0Y2jERsOIRJdWizoI"], ["Grandlink Sq", "ChIJBe1nR0QEBBARewvYudV7Yww"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Geylang United Temple", "ChIJQWNbcBkY2jERSG1YqUbGs10"], ["Sri Sivan Temple", "ChIJz46D4yIY2jERT2ClyKkbF2U"], ["Masjid Wak Tanjong", "ChIJCeDnGhgY2jER3huyMgpqjaI"], ["Foo Hai Ch'an Monastery", "ChIJAYGP5yIY2jERCu0mhtVxZxk"]],
+        "Schools & Public Institutions": [["Lifelong Learning Institute", "ChIJD7-cjRgY2jERZUJyfHaIYDY"], ["Madrasah Al-Ma'arif Al-Islamiah", "ChIJbWw2ZD0Y2jERqJ3DRdI21SM"], ["Madrasah Wak Tg Al-Islamiah", "ChIJCeDnGhgY2jER3huyMgpqjaI"]],
+        "Shopping & Dining": [["SingPost Centre", "ChIJC8ructcZ2jER2WPSgnCqzoc"], ["Paya Lebar Sq", "ChIJzxwZERgY2jER2FX37qmG49Q"], ["City Plaza", "ChIJ34RyshcY2jERneNcLqsPK3o"], ["KINEX", "ChIJYQPdBBcY2jERfCgwBWK0mp0"], ["Tg Katong Complex", "ChIJOx2heRcY2jERmT480NUwKOc"], ["Paya Lebar Quarter", "ChIJU8zODXwZ2jERNsDnX0rcqpQ"]],
+        "Picture": ["https://i.imgur.com/Svo2j2d.png"]
+    },
+
+    "ew9": {
+        "Attractions": [],
+        "Community Facilities": [["Geylang East Fire Post", "ChIJ58bEVjsY2jERkYBYWBhzjHk"], ["Singapore Buddhist Free Clinic (Head Office)", "ChIJYxum7joY2jERS1RxRUQ_w9g"], ["S'pore Badminton Hall", "ChIJQ7HqqjkY2jERzpLP127-n08"], ["Sims Pl Bus Terminal", "ChIJI2x5nOgZ2jERzpez8Skxlps"], ["SCN Centre", "ChIJ328SayUY2jER6Mq9ExRzGQs"], ["Agrow Bldg", "ChIJgxczNiUY2jER6TQexP4npR4"], ["Prosper House", "ChIJeyHiNyUY2jERqL22n4rNYoM"], ["Arcsphere", "ChIJnZQMQyUY2jEROF_aS6Db70I"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["New Cathay Hotel", "ChIJ_ao2NzoY2jERSIS8EdcpG9E"], ["Meng Yew Hotel", ""], ["Urban Hostel @ Aljunied", "ChIJlxFkODsY2jERv3Yvn4eHbl4"], ["Lai Ming Hotel Cosmoland", "ChIJhUOlzjsY2jERq_A6pxrWfw8"]],
+        "Offices & Residences": [["KH Plaza @ Aljunied", "ChIJc316UjoY2jERDKO5V2Cyg7I"], ["Yu Li Industrial Bldg", "ChIJq-t39DoY2jERLLamtcdm1Yo"], ["Fansida Bldg", "ChIJ31aRTv8Z2jEROnLhXbgLZVs"], ["Century Technology Bldg", "ChIJVeFa7DoY2jERk29wlRfLlew"], ["Citiraya Ctr", "ChIJg0f-oDsY2jERg2U3EnkfHqY"], ["XI-An Hse", "ChIJCZCq7TkZ2jERJiO31X3ew5k"], ["Elite Bldg", "ChIJV6XaVToY2jERVMR1vvNr4l8"], ["Sims 450 Ctr", "ChIJifVtmTwY2jERM-KtOz1LQno"], ["Prosper Ind Bldg", "ChIJTXyalzoY2jER9VNR9gc_kig"], ["Heidenhain Bldg", "ChIJZdqsnzoY2jERdIPpACSkvgE"], ["SPCS Bldg", "ChIJ0RuIATsY2jERBgNf9OiOpto"], ["Guilin Bldg", "ChIJu6ZOgjsY2jERP7VdISAC4rk"], ["Wah Yang (Food Industry) Bldg", "ChIJ9aAgkDoY2jERRxWjblfs76Y"], ["Greatland Bldg", "ChIJ5S6XnDoY2jER3k0ePzBUxJk"], ["D'Centennial", "ChIJ9RTw-sMZ2jERlpBlkGiqpUI"], ["Atrix", "ChIJSVrAyzoY2jERsyBpFFRSoVo"], ["Kai Xuan Ctr", "ChIJ6RLIa2IZ2jER6QLT6T0RZ-E"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Coronation Baptist Ch", "ChIJufePsTsY2jER7AXFDIuZbUg"], ["Lam Hai Fei Lai Tp", "ChIJ8_ZjCTsY2jEROEFtnC25FBY"], ["Chong Tuck Tong Chinese Tp", "ChIJUfFrtzsY2jERa4634ZhwXOA"], ["Yu Huang Zhi Zun Tp", "ChIJ9dxVfDsY2jERny2SCI8tKSk"], ["Eden Bible- Presby Ch", "ChIJO9Jq_joY2jERxUmmKgSWDww"], ["Gurdwara Pardesi Khalsa Dharmak Diwan", "ChIJQaJofzwY2jERRtKhYYsldVI"], ["Geylang Chinese Meth Ch", "ChIJxfDt3ToY2jERA4lDPVPGp14"], ["Amitabha Bu Ctr", "ChIJt_QnBjsY2jERQzElzh66iwU"], ["Gui Ci Maitreya Buddha Tp", "ChIJ50O6PzsY2jERzqiW9mgDaPg"], ["Soon Thian Keing Tp", "ChIJz32ogTwY2jERc5X01IWT12s"], ["Koon Yim Tong", "ChIJIchWmzwY2jERn5xuMW1dRf8"], ["Cheng Kak Si Temple", "ChIJ1-eOOSUY2jERMYV-0anddcA"]],
+        "Schools & Public Institutions": [["Geylang Methodist Sch (Pri)", "ChIJhQXAwCQY2jERdnNoYBxAO30"], ["Geylang Methodist Sch (Sec)", "ChIJbXmi2CQY2jERm-1d2r19ddw"]],
+        "Shopping & Dining": ["https://i.imgur.com/NiSMZhK.png"]
+    },
+
+    "ew10": {
+        "Attractions": [],
+        "Community Facilities": [["Lor 1 Geylang Bus Terminal", "ChIJq-tQRDQY2jERssSgCiSjYUQ"], ["Public Free Clinic Society", "ChIJj-UrgjkY2jERbS0ygscFrgQ"]],
+        "Historical Landmark": [["Sir Arthur's Bridge", "ChIJAbEW3Y8Z2jERlj4ztzPa4dc"]],
+        "Hotels & Hostels": [["City Backpackers Hostel", ""], ["Ideal Backpackers Hostel", ""], ["JoyFor Hostel", "ChIJ2a-inzYY2jERLUhmFqKO46I"], ["Gay World Hotel", "ChIJmU50oDYY2jERu8AJ_RjLMdk"], ["Coziee Lodge", "ChIJWRhqOjQY2jERSn7TmeXxuCA"]],
+        "Offices & Residences": [["The Grandplus", "ChIJSdLPVDQY2jERk2joMarTknA"]],
+        "Parks & Gardens": [["Kallang Pk Connector", "ChIJxZwgg1kZ2jERfsCcuEg0JC4"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/M3OczVA.png"]
+    },
+
+    "ew11": {
+        "Attractions": [],
+        "Community Facilities": [["Kg Glam NPP", "ChIJXYDrOLQZ2jERl7WNMpiZC40"], ["Jalan Besar Sports Ctr & Stadium", "ChIJY2LsCckZ2jERJrcMS91EpJU"], ["Jln Besar CC", "ChIJd4Ja-ckZ2jERhr2arEOISJg"], ["People's Association", "ChIJS4MbM8gZ2jER62aIkkm1MXM"]],
+        "Historical Landmark": [["Crawford Bridge", "ChIJ8S6ktBkZ2jERfPvyvSvxZWI"], ["Syed Alwi Bridge", "ChIJBWs_RnEZ2jERQYxAO3phkiw"], ["Victoria Bridge", "ChIJQRuQa8gZ2jER18TFwwTy8Qo"]],
+        "Hotels & Hostels": [["Backpackers @ SG", ""], ["Mercury Backpackers' Hostel", ""], ["Tresor Tavern", ""], ["Fragrance Hotel - Lavender", "ChIJv8ulM8oZ2jERxqZghJ70cTI"], ["Hotel 81 - Violet", "ChIJgSioMsoZ2jER4tQy5OcAfnA"], ["Hotel 81 - Lavender", "ChIJGaDu2MsZ2jERUf57YFRAmvk"], ["Traveller@SG", "ChIJnf5leckZ2jEREUNKKNeSUss"], ["V Hotel Lavender", "ChIJz0FeB8oZ2jERtmcw4-LitcE"], ["Gusti Bed And Breakfast", "ChIJ59LEJcoZ2jERZY1PBpLeqwU"], ["ibis budget Singapore Imperial", "ChIJW75AJsoZ2jERuRo3qs5Otpk"]],
+        "Offices & Residences": [["Textile Ctr", "ChIJyW6vvLYZ2jERInkVotWe-ww"], ["Crawford Ctr", "ChIJf4ItKrQZ2jERFmgKcSan7CY"], ["Network Courier Bldg", "ChIJMftwiMkZ2jER1BWxZIiXRqQ"], ["Kitchener Cplx", "ChIJCfW1On0Z2jERqJOVv5iXtWY"], ["Far East Refrigeration Bldg", ""], ["Lian Soon Bldg", "ChIJoz-7ickZ2jERwtfAC_sKhxw"], ["B H Bldg", "ChIJQ3rPHsoZ2jER0zbLDTa-xTw"], ["Wavelink Bldg", "ChIJPa7kG8oZ2jERgeMW-wMO9_U"], ["Meyson Bldg", "ChIJQZDmiskZ2jERhx18rJEqnRI"], ["Pico Creative Centre", "ChIJX5Ux_8oZ2jERKF9FGh9bZKQ"], ["King George's Bldg", "ChIJbfGzg8kZ2jEROMsAld6LZuE"], ["Ann Chuan Bldg", "ChIJXxBcc6UZ2jERUEHUd7TI9SY"]],
+        "Parks & Gardens": [["North Bridge Garden", "ChIJ0S36n7YZ2jERpOluPcfozFk"]],
+        "Places of Worship": [["Tai Pei Buddhist Centre", "ChIJqxxAW8oZ2jER4qLdtXp4Hk4"]],
+        "Schools & Public Institutions": [["People's Association", "ChIJS4MbM8gZ2jER62aIkkm1MXM"], ["ICA Bldg", "ChIJM-4d4bUZ2jEReqCBDPuE7Dk"]],
+        "Shopping & Dining": ["Aperia", "ChIJFx0yu8sZ2jERgoVtEwS7Igs"],
+        "Picture": ["https://i.imgur.com/rVgsC8l.png"]
+    },
+
+    "ew12": {
+        "Attractions": [["Children Little Museum", ""]],
+        "Community Facilities": [["Queen St Bus Terminal", "ChIJ_Qp2VrcZ2jERZcOv0uL_0y8"], ["Albert Ctr", "ChIJU1QEGUQZ2jER0IggYygZFSs"], ["Rochor Ctr", "ChIJ53vGIroZ2jER4cahiDvhdks"], ["Raffles Hosp", "ChIJxZfxhbAZ2jER1_HXy0rcJws"], ["National Library Bldg", "ChIJYT8lKaUZ2jERdqaITM82hGE"], ["Stamford Arts Ctr", "ChIJqwl2G7sZ2jERmKL0bNYQVvo"]],
+        "Historical Landmark": [["H.S. of Central Sikh Tp", ""], ["H.S. of Kwang Im Tong Hood Che Tp", ""]],
+        "Hotels & Hostels": [["Hotel NuVe Urbane, Lavender", "ChIJy3FnzrcZ2jERrTm1h6Jr7Z4"], ["Village Hotel Bugis", "ChIJcyN1v7AZ2jERboX4csnNjeY"], ["Adamson Inn", ""], ["Sleepy Kiwi", ""], ["InterContinental Singapore", "ChIJZRZ9yroZ2jER4R3Hm0_9Phs"], ["Hotel 81 - Bugis", "ChIJtf1ab6UZ2jER-zIcTcUHfGg"], ["Marrison Hotel", "ChIJORQx7q8Z2jERMruictHXfGU"], ["Backpacker Cozy Corner Guesthouse", "ChIJo4r1TqUZ2jERxqkrhAXSu8s"], ["Park View Hotel", "ChIJSXENi68Z2jERvaPlcGJg1PY"], ["ibis budget Singapore Bugis", "ChIJscyhaKUZ2jERMoA0Gv3a4iI"], ["Shophouse The Social Hostel", "ChIJyZGzALEZ2jER_DSGiaus8nA"]],
+        "Offices & Residences": [["Tialoc Ctr", "" ], ["The Golden Landmark", "ChIJoZxFDk0Z2jERlu7hmrhPci8" ], ["Midland Hse", "ChIJLQxX2LoZ2jER5_aLfxpNMuY" ], ["Midlink Plaza", "" ],["Chiat Hong Bldg", "" ],["ICB Enterprise Hse", "ChIJ-eCq2LoZ2jERq1SFBsLPchc" ],["Lee Kai Hse", "" ],["The Prospex", "" ],["Nth Bridge Ctr", "" ],["Wisma Alsagoff", "" ],["Uweei Bldg", "" ], ["Parkview Sq", "ChIJB-5pZrAZ2jEReCP0jDSZe1U" ], ["The 101", "ChIJ3XJw-q8Z2jERoROgn-P0_94" ], ["The Plaza CP", "" ], ["Chye Sing Bldg", "" ], ["Shaw Twrs", "" ], ["Liang Seah Pl", "ChIJs3VH_68Z2jERRDA8L9F1GUA" ], ["Boon Sing Bldg", "" ], ["The Gateway", "ChIJ3ake1q8Z2jEReGv8DdhSvEM" ], ["Heap Seng Hse", "" ], ["SPCC Bldg", "" ], ["Talib Ct", "ChIJ56QZKzAZ2jERmNwUo8ny-9o" ], ["Bulkhaul Hse", "" ], ["FM Bldg", "" ], ["Bugis Pt", "" ], ["Chan Brothers Bldg", "ChIJ0YHkRaUZ2jERSL6QgxxieRc" ], ["Hexagon Hse", "" ], ["Chua Chek Tien Bldg", "" ], ["Fu Yuen Bldg", "" ], ["Duo Twr", "ChIJcZDu8k8Z2jERg0LmmQUa1Ho" ], ["Foo Ann Bldg", "" ], ["Creative Hse", "" ]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Ch Of Our Lady Of Lourdes", "ChIJf5g2_7kZ2jERC2OuyThNcMA" ], ["Mjd Sultan", "ChIJ5fw52bAZ2jERVf74FeZV3nI" ]],
+        "Schools & Public Institutions": [["National Library Bldg", "ChIJYT8lKaUZ2jERdqaITM82hGE"], ["Stamford Arts Ctr", "ChIJqwl2G7sZ2jERmKL0bNYQVvo"], ["Stamford Pri Sch", "ChIJdSh1W7cZ2jERtsAeilYeahU" ], ["Raffles Design Inst", "ChIJ1yzDX3UZ2jERuHQCafyLFws" ]],
+        "Shopping & Dining": [["The Golden Landmark", "ChIJoZxFDk0Z2jERlu7hmrhPci8" ], ["Fu Lu Shou Cplx", "ChIJJyJqRLoZ2jERH1rScfZ4FTw" ],["Bugis+", "ChIJwSNJ77oZ2jERuX8Bl5bU2tI" ],["Bugis Junction", "ChIJxyqHo7oZ2jERNQtDRIuckqU" ],["Bugis Village", "ChIJ6fAxYroZ2jERr96IeQwdiyU" ],["Duo Galleria", "ChIJoXpYbrAZ2jER5klV-uEO2xk" ],["Bugis Cube", "ChIJe5TGTaUZ2jERK_5_SabSeuk" ], ["Albert Ctr Mkt & FC", "ChIJU1QEGUQZ2jER0IggYygZFSs" ]],
+        "Picture": ["https://i.imgur.com/tMHTAaN.png"]
+    },
+
+    "ew13": {
+        "Attractions": [["National Gallery, Singapore", "ChIJFQzeR6cZ2jERgM6--iWeY-U"], ["S'pore Philatelic Museum", "ChIJixzGhuMZ2jERpijfVdsTdFw"]],
+        "Community Facilities": [["S'pore Recreation Club", "ChIJG54AV6YZ2jEREJaczuWecw8"]],
+        "Historical Landmark": [["H.S. of Raffles Institution", ""],["Capitol Bldg", "ChIJc1XmpqYZ2jERPY-Bsk7YDQI"],["CHIJMES", "ChIJNfw8b6QZ2jEREbGYft7-Q4A"],["City Hall", "ChIJz9dNmKYZ2jER1fKcZf6c9Fg"],["Masonic Hall", ""],["Stamford Hse", "ChIJlZzZiDoZ2jERMNyNCNKS6E4"],["Supreme Ct Bldg", "ChIJj5sDUKcZ2jERlxmA4HaYWSc"], ["Cenotaph", "ChIJdRyuoacZ2jERVtOObm6P2Cg"],["Padang", "ChIJgWmcDqcZ2jERb1Ax7TgVW0A"]],
+        "Hotels & Hostels": [["Capitol Kempinski Hotel", "ChIJh37xnIQZ2jERL_64VnzUrQI"], ["Fairmont", "ChIJ-Uph06UZ2jERjKQsyQgfltg"],["Swissotel The Stamford", "ChIJfyNkh6YZ2jERjHsd_P-iL_M"],["Grand Park City Hall", "ChIJM9iKM6EZ2jERkwAJJ9fH-y4"],["Peninsula Excelsior Hotel", "ChIJDQn9K6EZ2jERWXHmI8u9_OA"]],
+        "Offices & Residences": [["Raffles City Shopping Centre & Office Tower", "ChIJ5QaXI4kZ2jER6yB_aFocFMw"], ["30 Hill St", ""],["S.C.C.C.I Bldg", ""],["Telephone Hse", "ChIJp9KEAKQZ2jEReTNU_2yEB-c"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Armenian Ch Of St. Gregory The Illuminator", "ChIJqc0-Q6EZ2jERbzBEE3qq6p0"],["Masjid Burhani", "ChIJ_xY9UaEZ2jER_qN-U_DnsoI"],["St. Andrew's Cathedral", "ChIJQQ3VvaYZ2jER3_ODimZyBjc"]],
+        "Schools & Public Institutions": [["National Gallery, Singapore", "ChIJFQzeR6cZ2jERgM6--iWeY-U"], ["S'pore Philatelic Museum", "ChIJixzGhuMZ2jERpijfVdsTdFw"]],
+        "Shopping & Dining": [["CHIJMES", "ChIJNfw8b6QZ2jEREbGYft7-Q4A"], ["Raffles City Shopping Centre & Office Tower", "ChIJ5QaXI4kZ2jER6yB_aFocFMw"],["Arcade @ The Capitol Kempinski", "ChIJh37xnIQZ2jERL_64VnzUrQI"],["Capitol Piazza", "ChIJ4UnKpqYZ2jERhkj2F-wL-qI"],["Capitol Theatre", "ChIJTcIPHqQZ2jERaAowwsw23m4"],["Excelsior Shopping Ctr", "ChIJofx2MKEZ2jERlaZeNQxPQt8"],["Funan", "ChIJqz4D-d8Z2jERj4HjyaJtGvI"],["Peninsula Plaza", "ChIJ8RANNaEZ2jERocv_-XL9ceQ"], ["Peninsula Shopping Cplx", "ChIJDQn9K6EZ2jERGfy2lsTL4gM"],["Shuttle Bus to Great World City", ""],["The Adelphi", "ChIJ41zoKKcZ2jERaJwPDSfX8zM"]],
+        "Picture": ["https://i.imgur.com/NYTaiky.png"]    
+    },
+
+    "ew14": {
+        "Attractions": [["The Arts House at The Old Parliament", "ChIJZdJB9AkZ2jERBPmjHz9bOg4"],["Esplanade Bridge", "ChIJOWk8OAgZ2jER1ln2qMzoZzA"],["Empress Pl", "EhVFbXByZXNzIFBsLCBTaW5nYXBvcmUiLiosChQKEglRZ1iUCRnaMRF_P06uM2I-3hIUChIJdZOLiiMR2jERxPWrUs9peIg"],["Merlion Jetty", "ChIJQy1A8QgZ2jERBBa7q3kj-ic"],["Asian Civilisations Museum", "ChIJoZOhmQkZ2jERehLfvKlsoCA"],["Raffles Pl Jetty", "ChIJ70DyaAkZ2jERYEmLWXctWsQ"]],
+        "Community Facilities": [],
+        "Historical Landmark": [["Customs Hse", "ChIJ26GdHQ8Z2jERkYs-Dj5OILo"],["Lau Pa Sat", "ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0"],["The Arts House at The Old Parliament", "ChIJZdJB9AkZ2jERBPmjHz9bOg4"],["Esplanade Bridge", "ChIJOWk8OAgZ2jER1ln2qMzoZzA"],["Empress Pl", "EhVFbXByZXNzIFBsLCBTaW5nYXBvcmUiLiosChQKEglRZ1iUCRnaMRF_P06uM2I-3hIUChIJdZOLiiMR2jERxPWrUs9peIg"],["H.S. of Raffles Pl", ""],["Clifford Pier", "ChIJYVWI5A8Z2jERgRZxRxt1N8s"],["H.S. of Clifford Pier", ""],["H.S. of United Overseas Bank", ""],["H.S. Of OCBC", ""],["Raffles Landing Site", "ChIJQ6QPiwkZ2jERIISQDrknWdU"],["Dalhousie Obelisk", "ChIJRbqIowkZ2jERitZMRQRGCH0"],["Lim Bo Seng Memorial", "ChIJq6ru0QkZ2jERI5XgbHAqbnA"],["Anderson Bridge", "ChIJc5ptCgkZ2jERZvFy9OGf80c"],["Cavenagh Bridge", "EhpDYXZlbmFnaCBCcmlkZ2UsIFNpbmdhcG9yZSIuKiwKFAoSCRc-UqAJGdoxEerRMgQdNrwJEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"],["Victoria Theatre & Concert Hall", "ChIJXcdP7wkZ2jERVqXr15PbrDg"],["The Quadrant At Cecil", "ChIJTXw0KAwZ2jERElvo91XVB7I"]],
+        "Hotels & Hostels": [["The Fullerton Waterboat Hse", ""],["The Fullerton Bay Hotel", "ChIJxy-B0A4Z2jERYIdc3NBhKBs"],["The Fullerton Hotel", "ChIJbxecDwkZ2jER0HC_ulAswUE"],["The Fullerton Heritage", ""],["Ascott S'pore Raffles Pl", "ChIJ0Q-YiQ4Z2jERJM0_soHE-Js"]],
+        "Offices & Residences": [["Chevron Hse", "ChIJcbtazA4Z2jERwbcZhMqFB9Y"],["Grand Bldg", ""],["Bank Of S'pore Ctr", "ChIJHfhvlSkZ2jER0KCe8o7Rbic"],["RB Capital Bldg", "ChIJXZCjjt4Z2jERNJPNUU4pW2U"],["20 Collyer Quay", "ChIJuWRuLwkZ2jERNU2ccvc0iGU"],["Royal Group Bldg", "ChIJZz9jBgwZ2jER79tolrDnjyk"],["S'pore Land Twr", "ChIJYRVrFj8a2jERFCPPyI5M38Y"],["One Raffles Place", "ChIJK9RprA4Z2jER6eXnhX7zFaU"],["Sinsov Bldg", "ChIJpxIY_gsZ2jERUNX6F5FaWTo"],["Tan Ean Kiam Bldg", "ChIJF3mD-QsZ2jERMgQM9hP9m2I"],["The Arcade", "ChIJcV-kxw4Z2jERaGtjjCZCAzw"],["Clifford Ctr", "ChIJX76ywu4Z2jER05qahs_8zGo"],["OUE Twr", "ChIJw4L-2w4Z2jER4uL95POuIe0"],["Income At Raffles", "ChIJGWA2xCAZ2jERYhE-_1qvjqQ"],["Malacca Ctr", ""],["Bharat Bldg", "ChIJ5ZP5og4Z2jER53WHUAzXjgg"],["Raffles Pl", ""], ["Ocean Financial Ctr", "ChIJg3_owA4Z2jER2inkb7fbp6o"],["OUE Bayfront", "ChIJg451-l0W2jERoUSXuEr6YPs"],["GSH Plaza", "ChIJeawsJwwZ2jERo8YcBgkvDUk"],["Republic Plaza", "ChIJORPMng4Z2jERX6H3IMYB67E"], ["Capitagreen", "ChIJvfVMzQ0Z2jERiAKk-YDo1ss"],["The Quadrant At Cecil", "ChIJTXw0KAwZ2jERElvo91XVB7I"],["Far East Finance Bldg", "ChIJL2D8gA4Z2jERG6updbsaAHI"],["Intl Factors Bldg", ""],["Grace Global Raffles", "ChIJm69PgA4Z2jERgw3xmRSatbg"],["The Hse Of Eden", "ChIJIdcoeSgZ2jERWs9HhScMnQ0"],["ASO Bldg", "ChIJ0ZdZgQ4Z2jERhMuU74YZ5mg"],["Robinson Twrs", ""],["OCBC Ctr East", "ChIJXS6sD-UZ2jER6kOxqBl_338"], ["Royal One Phillip", "ChIJ3zfIW0wZ2jERVwE9Ma2VLUQ"], ["OCBC Ctr", "ChIJ2VSgJaYZ2jERbV6HycNWDA8"],["UOB Plaza", "ChIJv1vnmjgZ2jERXRjGEO9gqng"],["Chartered Bank Bldg", ""],["HSBC Bldg", "ChIJwaqMJAkZ2jERut0mYZeSI18"],["Bank Of China Bldg", "ChIJd5CQaQkZ2jERp9yEUCAEfPE"], ["Maybank Twr", "ChIJC4Rr7ZEX2jERJrzQ83t9nTo"],["Straits Trading Bldg", "ChIJ_zH3kgwZ2jEROl7q30GjJzM"],["One Marina Blvd", "ChIJ9R1GTXYZ2jERvR-0kI_jdRw"],["Hong Leong Bldg", "ChIJ139NQs8Z2jER6jKlLKskiJw"],["AIA Twr", "ChIJIZtsn30Z2jERjAqDYrtOQKk"],["One Raffles Quay", "ChIJsRqiaQ4Z2jERf5aRETOqllI"], ["One Finlayson Green", "ChIJvTgOjw4Z2jERXT8l0WJkzE0"]],
+        "Parks & Gardens": [["Momentum", "ChIJdcZVjA4Z2jER8waB-RQ41gQ"],["Raffles Place Pk", "ChIJM5Ilsg4Z2jERUOGPJdpn0GU"],["Merlion Pk (One Fullerton)", "ChIJBTYg1g4Z2jERp_MBbu5erWY"],["Waterboat Hse Gdn", "ChIJMaWisgkZ2jERVU-WxQlOP-s"]],
+        "Places of Worship": [["Masjid Moulana Md Ali", "ChIJ4cy25wsZ2jERWgVcBzTz9r8"]],
+        "Schools & Public Institutions": [["Victoria Theatre & Concert Hall", "ChIJXcdP7wkZ2jERVqXr15PbrDg"]],
+        "Shopping & Dining": [["Raffles Xchange", "ChIJRx3TB0YZ2jER4p54eKXyoRQ"],["Change Alley", "ChIJXZONyw4Z2jER_t2qqsoJMEA"],["OUE Link", "ChIJU-W92g4Z2jERnDDzarAJWiE"],["Market St FC", "ChIJA_OqLG8Z2jERMY8dqFXc0kI"], ["Customs Hse", "ChIJ26GdHQ8Z2jERkYs-Dj5OILo"],["Lau Pa Sat", "ChIJ5Y6l4Q0Z2jERYL0KDIjT6v0"],["The Fullerton Pavilion", "ChIJgf--0wgZ2jERQqSXy2caw1U"],["The Fullerton Waterboat Hse", ""],["One Fullerton", "ChIJzf4A-j0Z2jERvwOslRXdCPQ"]],
+        "Picture": ["https://i.imgur.com/B2J3KrW.png"]
+    },
+
+    "ew15": {
+        "Attractions": [["S'pore City Gallery", "ChIJRaIcWw0Z2jERts3whuuZPsM"],["Red Dot Design Museum", "ChIJq1KHxhIZ2jER7fOxY9pR-vo"]],
+        "Community Facilities": [["Tanjong Pagar CC", "ChIJoSghZGwZ2jERh4q9jEcnnXM"],["S'pore Conference Hall", "ChIJlYMFvhMZ2jERdzbx2z_csGw"],["Marina Bay Fire Stn", "ChIJF2-OchQZ2jERzZ4q2unuuhE"],["Marina Bay NPC", "ChIJhc5aDhQZ2jERaJWcFQ163b4"],["Shenton Way Bus Terminal", "ChIJD23K620Z2jERCHj4u5Jg80Q"]],
+        "Historical Landmark": [["Palmer Hse", ""],["Bestway Bldg (H.S. of S'pore Polytechnic Site)", "ChIJ48hZQhQZ2jERgWnkOmqm2Bw"],["H.S. of Custom Hse", ""],["H.S. of Gan Eng Seng Sch", ""],["Keramat Habib Noh", ""], ["Murray Ter", "ChIJVcS_qnIZ2jER5Xp6wTuWy7s"]],
+        "Hotels & Hostels": [["Carlton City S'pore", "ChIJW-HHrWwZ2jERC16smRC_0NQ"],["Amara S'pore", "ChIJrXZUXmsZ2jERdZPWv7o3QHA"],["Orchid Hotel", "ChIJm0Ov22wZ2jER7dDa3kyxQKw"],["M Hotel S'pore", "ChIJk3SwyxQZ2jER3MLPLbxbsOw"]],
+        "Offices & Residences": [["Tg Pagar Plaza", "Eh5UYW5qb25nIFBhZ2FyIFBsYXphLCBTaW5nYXBvcmUiLiosChQKEgmTwjCRbBnaMREQ_0EJl4ZI3xIUChIJdZOLiiMR2jERxPWrUs9peIg"],["Palmer Hse", ""],["Bestway Bldg (H.S. of S'pore Polytechnic Site)", "ChIJ48hZQhQZ2jERgWnkOmqm2Bw"], ["Nehsons Bldg", "ChIJm0g8yxIZ2jER0B4g6tTzUW8"],["OAC Bldg", "ChIJjfWQE2sZ2jERJer4_MRwl7A"],["Keppel Twrs", "ChIJz-vwkWQZ2jERdny238IZfyg"],["Realty Ctr", "ChIJQ0k_T2sZ2jER5L3JBuxYEoE"],["Fuji Xerox Twrs", "ChIJOVMkuHkZ2jERZXuDHDVGi7A"],["Union Bldg", "ChIJPzDHWmsZ2jERUvvlYUIdrCw"],["St. Andrew's Centre", "ChIJgQWsbGsZ2jERhXC148sxIM0"],["Lian Huat Bldg", "ChIJwzz6WWsZ2jERuCyEQf6l1ww"],["The Duxton", ""],["PS100", "ChIJhZKzKm0Z2jERJI6X57OmKIo"],["AXA Tower", "ChIJC71VcRMZ2jERJ871f-4ywsU"],["OUE Downtown 1", "ChIJddB_G30Z2jERTtNZy8DQEI0"],["Robinson Rd", "EhZSb2JpbnNvbiBSZCwgU2luZ2Fwb3JlIi4qLAoUChIJb7JwChIZ2jERzKAVZdDT90cSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"],["Maxwell Chambers", "ChIJ5eg3MakZ2jERLl1kMCzDndk"],["V On Shenton", "ChIJne1NMhIZ2jERIV6UlmHdgNU"],["Ann Siang 47", "ChIJlYoQQw0Z2jERG999zBv2hFI"],["GB Bldg", "ChIJD4PsYxIZ2jERBAa5ukFnyvU"],["Afro Asia Bldg", "ChIJB4ydR2AZ2jERxd7Q4lwgqJI"],["Tokio Marine Ctr", "ChIJNS_jfhIZ2jERTM54Y448N1E"],["SBF Center", "ChIJ_____2oZ2jERykbKQp3Jjhw"],["Air View Bldg", "ChIJvWqCrRIZ2jERSakjU0qgxW8"],["Bangkok Bank Bldg", "ChIJz1OLhxIZ2jERjOeRmkblROY"],["Maxwell Hse", "ChIJ6X1bz9wZ2jER2VwsexmTZcA"],["Tung Ann Assn Bldg", "ChIJkQc6ehIZ2jERdnjeUk6zfYs"],["Capital Twr", "ChIJPWWwVRIZ2jERRVpILGfdguA"],["Robinson 112", "ChIJNVmScRIZ2jER8VbQpFbHOQw"],["Robinson 77", "ChIJsyMmThIZ2jER8O5OgWrM824"],["Frasers Twr", "ChIJJzjqGN4Z2jERZ3jZ2Zz448w"],["EON Shenton", "ChIJd8e5NN0Z2jERA_JlvFhsz1w"],["Twenty Anson", "ChIJSdHKWxMZ2jERfGTGLXvbVh0"],["Mapletree Anson", "ChIJde-lqRQZ2jERQqqcktS7v5I"],["Hub Synergy Pt", "ChIJtY_3tBQZ2jERALsQfWi0hpY"],["Springleaf Twr", "ChIJ60V1YBMZ2jER5-Hqxiv_iss"],["76 Shenton", "ChIJPdFtzxQZ2jER9i7MLO7Z0aE"],["Intl Plaza", "ChIJS0TJNnQZ2jERkrHxJDupC4E"],["Guoco Twr", "ChIJHVm8JRMZ2jERK8ACFl8Gp04"]],
+        "Parks & Gardens": [["Vanda Miss Joaquim Pk", "ChIJ23dP8GwZ2jERUjCTIcLQBQ4"],["Tanjong Pagar Pk", "ChIJxSlmERMZ2jERQ2mkN7LQZkI"],["Telok Ayer Park", "ChIJ72vM7hIZ2jERUlLFv-mVeH4"]],
+        "Places of Worship": [["Seng Wong Beo Tp", "ChIJkagvTRMZ2jERp51GDE58aOU"],["Poo Thor Jee Tp", "ChIJS6R8-2wZ2jERVqgiJCOykTw"],["Nei Xue Tang - A Buddhist Art Museum", "ChIJfQQHeGwZ2jER-1IhQFlzakI"],["Fairfield Meth Ch", "ChIJp_S6qHIZ2jERXTfHL7cO5gc"],["Xian Zu Gong Tp", "ChIJG-HSYw0Z2jERsSpmHCUf64M"],["Telok Ayer Chinese Meth Ch", "ChIJ9cun8hIZ2jERqsIxdB9vafo"],["Mjd Haji Muhammad Salleh", "ChIJOwvU_RQZ2jERAwtBxx3ZYQQ"],["Hock Teck See Tp", "ChIJKawP7BQZ2jER9fYScAYXTnI"]],
+        "Schools & Public Institutions": [["MND Bldg Annexe A", "ChIJA54RXw0Z2jERF3uz4ca40Eo"],["MND Bldg Annexe B", "ChIJ2yTcmRIZ2jERgAYS4CF5HT8"], ["The URA Ctr", "ChIJRaIcWw0Z2jERts3whuuZPsM"],["MND Bldg", "ChIJC4H_X1cZ2jER2qkk5W0p6kc"],["MAS Bldg", "ChIJE4V8nBQZ2jERiuiE01WwPDU"]],
+        "Shopping & Dining": [["Murray Ter", "ChIJVcS_qnIZ2jER5Xp6wTuWy7s"],["Tg Pagar Plaza", "Eh5UYW5qb25nIFBhZ2FyIFBsYXphLCBTaW5nYXBvcmUiLiosChQKEgmTwjCRbBnaMREQ_0EJl4ZI3xIUChIJdZOLiiMR2jERxPWrUs9peIg"],["100 AM", "ChIJvUUHX2sZ2jERFw3Rybv_wwY"],["Downtown Gallery", "ChIJi5p3pRMZ2jERqmLSlcFVZb0"],["Maxwell FC", "ChIJseQsTQ0Z2jERqpBTWF0Zf84"], ["OUE Downtown 2", "ChIJddB_G30Z2jERTtNZy8DQEI0"],["Amoy St FC", "ChIJ1ZbzmxIZ2jERLxbskKJNx8Q"],["Tg Pagar Xchange", "ChIJy4P1jf4Z2jERL0pE18JQ9RQ"]],
+        "Picture": ["https://i.imgur.com/r3HlLX3.png"]
+    },
+
+    "ew16": {
+        "Attractions": [],
+        "Community Facilities": [["Health Sciences Authority Bldg", "ChIJhwWcCnEZ2jERLke7USoNJcA"],["Health Promotion Board", "ChIJ_R9cHm4Z2jERsZyEKCbWqRQ"],["Health Zone", "ChIJC_M-A24Z2jERp7ajawR2v5s"],["Outram Polyclinic", "ChIJN9Gz4nEZ2jER-y_nqN5ikmA"],["Singapore General Hospital", "ChIJ1WxMlW8Z2jERlkpUYbEJYFw"],["SGH Bowyer Blk", "ChIJGYf-ynEZ2jERZpi7q_bCjPs"],["Diabetes & Metabolism Centre", "ChIJv0XDIHAZ2jERJlclvcOGVKk"],["S'pore Natl Eye Ctr", "ChIJgx6CTHAZ2jERzXg6pNLX80Y"],["Natl Cancer Ctr S'pore", "ChIJ21VQonEZ2jER0Fo2WXXYL5A"], ["Natl Dental Ctr", "ChIJG5nhBG4Z2jER9wXZcguu5Yo"],["Natl Heart Ctr S'pore", "ChIJJ6iyvHEZ2jERO8USAeSSZ7s"],["Pathology Bldg & Mortuary @ HSA", "ChIJZVnWmXEZ2jERtt37jQ-Q-1Q"],["S'pore Buddhist Free Clinic (Tg Pagar)", "ChIJCxfxCG0Z2jEREQI0k9udLe8"],["Ctrl Police Div Hqr", "ChIJ1bdV720Z2jER3m9oulH69WU"], ["Bt Merah East NPC", "ChIJK4mawgoZ2jERsivPctlY3yQ"],["Police Cantonment Cplx", "ChIJAQDA520Z2jERJzmIuf0WS4U"],["Kreta Ayer CC", "ChIJywqE63IZ2jER4NBNaHlGSv0"], ["Chin Kang Bldg", "ChIJBTdAjW0Z2jERdgpKfnDhnJU"]],
+        "Historical Landmark": [["Chin Kang Bldg", "ChIJBTdAjW0Z2jERdgpKfnDhnJU"], ["H.S. of Chin Kang Huay Kuan", ""],["H.S. of Ee Hoe Hean Club", ""],["H.S. of Outram Prison Site", ""],["H.S. of The First Public Dental Clinic Site", ""],["Jinrikisha Stn", "ChIJ5z3PqXIZ2jERanILzkwsoJA"],["Maritime Hse", "ChIJ6ePMoCYZ2jERxcXtmVVjYZU"],["SGH Museum", "ChIJgx6CTHAZ2jERxOWDyHbTI2I"], ["Bt Pasoh Bldg", "ChIJia7Ckm0Z2jERkzAW8qFYFAE"]],
+        "Hotels & Hostels": [["Dorsett S'pore", "ChIJAXS5920Z2jERTIfweC9RddI"],["Hotel 1929", "ChIJK0hRYHIZ2jERrxw0TDSz0vs"],["Hotel 81 - Cosy", "ChIJXaKRgG0Z2jERCpZy6XzjtCo"],["New Majestic Hotel", ""],["Park 22 Hotel", ""]],
+        "Offices & Residences": [["Craig Pl", "ChIJASFKD20Z2jERfNfvD6RBEu4"],["Dimensions Bldg", "ChIJLUD_-24Z2jERPoCyZRrpYVo"],["France Business Ctr", ""],["Goethe Institut", "ChIJ8Z3cbJcZ2jERjTH6N57oL5s"],["Runme Shaw Bldg", "ChIJ_YXCu20Z2jERLGozOysxZm4"],["S'pore Inst Of Architects", "ChIJoSomeG0Z2jERRZT_UiDncns"],["Oriental Plaza", "ChIJHa7C-HIZ2jERdkDytwf7y60"]],
+        "Parks & Gardens": [["Duxton Plain Pk", "ChIJKYNzcHIZ2jERAyCQV-Iajbo"]],
+        "Places of Worship": [["Sri Layan Sithi Vinayagar Tp", "ChIJCUktX3IZ2jERLYhrleJAiuw"]],
+        "Schools & Public Institutions": [["Cantonment Pri Sch", "ChIJVSyoe2wZ2jERv97i-f1Ns74"]],
+        "Shopping & Dining": [["Jean Yip Loft", "ChIJPfAUW3IZ2jERYijcuxRPHds"],["Oriental Plaza", "ChIJHa7C-HIZ2jERdkDytwf7y60"]],
+        "Picture": ["https://i.imgur.com/IO7BQEn.png"]
+    },
+
+    "ew17": {
+        "Attractions": [],
+        "Community Facilities": [["Henderson CC", "ChIJOZIFa34Z2jERL9_IhYLjUH4"],["Bt Merah West NPC", "ChIJ3yq2QX4Z2jERrAnmHl6lJks"],["Kim Seng NPP", "ChIJtZdDr3gZ2jERlm4bgEsDlDw"],["The Salvation Army Family Support Services", "ChIJmbBoWH8Z2jERL8XiUhf9vp4"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Ctrl Plaza", "ChIJEcvLJHkZ2jERylRr0orqq6M"],["Kim Pong Rd O/S", "EhZLaW0gUG9uZyBSZCwgU2luZ2Fwb3JlIi4qLAoUChIJUQQ3eXkZ2jERlc39l7Uutc0SFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Parks & Gardens": [["Henderson Pk", "ChIJzaXn9H4Z2jERIII6DMmYjPU"],["Tiong Bahru Pk", "ChIJpwd8kn8Z2jERptmG8rTWrsI"]],
+        "Places of Worship": [["Kim Lan Beo Tp", "ChIJr2YSnXwZ2jERyv9aUaBz2Ew"]],
+        "Schools & Public Institutions": [["PSB Academy Campus @ Delta", ""],["Zhangde Pri Sch", "ChIJq8HpHnwZ2jERcWjjU2EPXBI"]],
+        "Shopping & Dining": [["Beo Cres Mkt", "ChIJJ9yBsngZ2jERCE-oIdId6xg"],["Hawker Ctr", "ChIJWVBT43kZ2jERWZntWsR-pJ0"],["Tiong Bahru Plaza", "ChIJe5qyMnkZ2jERYRN7QP_pCMQ"]],
+        "Picture": ["https://i.imgur.com/otW11Fk.png"]
+    },
+
+    "ew18": {
+        "Attractions": [],
+        "Community Facilities": [["Delta Hockey Pitch", "ChIJc_LW-n4Z2jERhL3NGAlGHVM"],["Delta Sports Hall", "ChIJG9pxkCoa2jERSyubgxNCy-k"],["Delta Swimming Cplx", "ChIJVQ8bzSoa2jERbYemdYtj8kM"],["Leng Kee CC", "ChIJZ4nitywa2jERVHZmtznHoJY"],["S'pore Buddhist Free Clinic (Redhill)", "ChIJ26CLaywa2jERjDJEkqlQjVQ"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["SIS Bldg", "ChIJxwsh7Swa2jERgRPSQZ76j9w"],["Thye Hong Centre", "ChIJSdGxXGwb2jERE5zhu_dxf9s"]],
+        "Parks & Gardens": [["Alexandra Pk Connector", "ChIJp2xL6ycb2jERudi_c8iaKn8"]],
+        "Places of Worship": [["Ch Of God (Singapore)", "ChIJkynxfSsa2jER-JMvP7akmno"],["Mjd Jamiyah Ar-rabitah", "ChIJURCtQNUb2jERv8EwK2rFc_g"],["Zhen Ren Gong Tp", "ChIJXR6KcNQb2jEROItX4rhy_t4"],["Masjid Jamek Queenstown", "ChIJ978TDiwa2jERSg6ZOuH8kDA"]],
+        "Schools & Public Institutions": [["APSN (Tanglin Sch)", "ChIJPVrF6Soa2jERpZ5PGNyNvWg"],["Crescent Girls' Sch", "ChIJ5RTulSsa2jERN4w5UsB25Ws"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/4IDWI7d.jpg"]
+    },
+
+    "ew19": {
+        "Attractions": [],
+        "Community Facilities": [["Queenstown Public Lib", "ChIJ-cuboDAa2jERf6hKqh96UC0"],["Queenstown Sports & Recreation Ctr", "ChIJzY9SBDca2jER7DUKkJdZt_4"],["Queenstown Stadium", "ChIJQTfs4zYa2jERnefnGgGTe9A"],["Queenstown Swimming Cplx", "ChIJzY9SBDca2jERi-T-2j6VGxo"], ["Queenstown Community Centre", "ChIJd579PQUEBBARwgdz6iK21hE"]],
+        "Historical Landmark": [["Princess Hse", "ChIJvci9bTIa2jERaVpTOk3kY7A"]],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Alexandra Canal Linear Pk", "ChIJAcMU0DAa2jERXPtHMKJHjjA"]],
+        "Places of Worship": [["Ch Of The Good Shepherd", "ChIJA9Z1nzEa2jER6xL30AFmudU"],["True Way Presbyterian Church", "ChIJZRTZ3TMa2jERj61PdUzhheU"]],
+        "Schools & Public Institutions": [["Queenstown Pri Sch", "ChIJHZ7rsjEa2jERk8bhusIDkQ0"]],
+        "Shopping & Dining": [["Mei Ling Market & Food Centre", "ChIJCyw1YzQa2jER6EoEVDP8ywU"]],
+        "Picture": ["https://i.imgur.com/jpcEr3j.png"]
+    },
+
+    "ew20": {
+        "Attractions": [],
+        "Community Facilities": [["Alexandra NPP", "ChIJ42CR00Aa2jERvHTJPpayEZQ"],["C'wealth NPP", "ChIJ39iOiz8a2jER6Wv2o-9yeGs"],["HDB Queensway Branch Office", "ChIJY0wSmEca2jERJm-gsnyCSDk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Haw Par Technocentre", "ChIJpbqBNEca2jERwTaa-XO8K3k"],["MOE Heritage Ctr", "ChIJI57Pq0Aa2jERpyXMeXRyVKY"],["One C'wealth", "ChIJa9D8ukAa2jER20_W-fhVTZM"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Faith Meth Ch", "ChIJa93BRUca2jEROC4W5O3yD04"]],
+        "Schools & Public Institutions": [["New Town Pri Sch", "ChIJkyM8ahAEBBAR_iZRVb31ljU"]],
+        "Shopping & Dining": [["C'wealth Car Mart", "ChIJw5hffi4b2jERHneFdMhusdM"],["Commonwealth Crescent Market and Food Centre", "ChIJjbH6rj8a2jERFSEXk8L9_wY"],["Tanglin Halt Mkt", "ChIJpy3sCzga2jERsYx9rHlneYw"]],
+        "Picture": ["https://i.imgur.com/cZYaLiU.png"]
+    },
+
+    "ew21": {
+        "Attractions": [],
+        "Community Facilities": [["Buona Vista CC", "ChIJ0S3wSmoa2jER2aq7I8gFiy0"],["Buona Vista Bus Terminal", "ChIJOZ42BvUb2jERylKwV43rHgk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["BIOPOLIS", "ChIJEXHL40Ma2jERw4iNv2yzZZk"],["Centros", "ChIJnQ_D8EMa2jERZLQ-vuB309A"],["Chromos", "ChIJAQBA7UMa2jERrPMpR1EYrQ8"],["Ghim Moh Est", "ChIJoUonMWga2jERk7doZram9uk"],["Helios", "ChIJTWuf5UMa2jER0KN6hX3JAnU"],["Matrix", "ChIJGxQ4_kMa2jER69WiHv-X27M"],["MOE HQ", "ChIJFYxsk8Ab2jERq926gAtTB_s"],["Nanos", "ChIJqREo4kMa2jERm8J3P99rp0E"],["The Metropolis", "ChIJTQn6SEIa2jERQLJKjg8U-D8"]],
+        "Parks & Gardens": [["One-North Pk", "ChIJH3Xfb0Qa2jEROsA0L3hnct4"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["MOE HQ", "ChIJFYxsk8Ab2jERq926gAtTB_s"],["Civil Service College", "ChIJfWs-kGka2jERVipR6jBy6kk"],["NTU@ one-north", "ChIJI5kUf0Ma2jER8bnOzqgaa5k"]],
+        "Shopping & Dining": [["Park Avenue Rochester", "ChIJvXM_GEMa2jERz4K2sABK2Mo"],["The Star Vista", "ChIJ91hVlEIa2jERm_cxYZ2WKow"]],
+        "Picture": ["https://i.imgur.com/sH6K2UU.png"]
+    },
+
+    "ew22": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Tan Kong Tian Temple", "ChIJiWnDo2Ma2jERlIetOdlKpZ4"]],
+        "Schools & Public Institutions": [["S'pore Maritime Academy", "ChIJ0b2KS2ca2jERzplkNrhWAIw"],["Singpore Polytechnic", "ChIJFXzxL2Aa2jERnoWTOdJdVKk"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/AOuocLv.png"]
+    },
+
+    "ew23": {
+        "Attractions": [],
+        "Community Facilities": [["HDB Clementi Branch Office", "ChIJX4TjyI0a2jERZLbJWKIEaaM"],["Clementi Bus Interchange", "ChIJq8UGJo4a2jER0ypiQDLiXpg"], ["Clementi NPC", "ChIJ5wIEgo8a2jERPYtYJZPKpo4"],["Clementi NPP", "ChIJ50H29Y0a2jERpGtNyRewJok"], ["Clementi Police Div Hqr", "ChIJbYpWeI8a2jERoDDu-sPRO2A"], ["Clementi Polyclinic", "ChIJBcWH2Y0a2jERdAvj7R9VBS4"],["Clementi Sports Ctr", "ChIJgRNCmI0a2jERsaiX0wOxGlE"],["Clementi Sports Hall", "ChIJuz3KmI0a2jER94fNayea8e0"],["Public Free Clinic (Clementi Br)", "ChIJvTEJWY8a2jERTorfzq0Kc2Q"],["West Coast TC (Clementi Office)", "ChIJhShNGkQEBBAR_Hf7z2Qbo7s"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Cityvibe", "ChIJ7bV5QI4a2jER6S7nWhQ2ous"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Clementi Pri Sch", "ChIJgzPSLZAa2jERfE9_WhsbuJU"],["Clementi Town Sec Sch", "ChIJQZgPTpAa2jER9P9PQ1O8K48"],["Pei Tong Pri Sch", "ChIJPYcisoQa2jERNFMXy8mgssw"]],
+        "Shopping & Dining": [["321 Clementi", "ChIJvac86o0a2jEREdSPs9tkaes"],["The Clementi Mall", "ChIJq8UGJo4a2jER0ypiQDLiXpg"]],
+        "Picture": ["https://i.imgur.com/2xogvxa.jpg"]
+    },
+
+    "ew24": {
+        "Attractions": [],
+        "Community Facilities": [["Jurong East Bus Interchange", "ChIJIU5q7oAR2jERY7yc9316qPc"],["Jurong Regional Library", "ChIJraqq-gUQ2jERYpaqvOqNXdk"],["Ng Teng Fong General Hosp", "ChIJN6GRIgwQ2jERSCjOqPhNygU"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["CPF Jurong Bldg", "ChIJVWfmaAUQ2jER3RDrYa0Ccrw"],["Vision Exchange", "ChIJNdz7YJgR2jERdjlEUsHHj10"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["CPF Jurong Bldg", "ChIJVWfmaAUQ2jER3RDrYa0Ccrw"],["Devan Nair Institute For Employment And Employability", "ChIJN3O7bA4Q2jER9hiSRa30Pa0"],["JTC Auditorium", "ChIJi5iGsGIR2jERCsgkeazYAkY"],["The JTC Summit", "ChIJwaHnvggQ2jER37CaFMYZAXQ"]],
+        "Shopping & Dining": [["JCUBE", "ChIJh7rQjgUQ2jERSAcxrKMcMg0"],["JEM", "ChIJb20nHg8Q2jERuBnOGGnuq-s"],["Westgate", "ChIJ82AoVA8Q2jERkHnr1RPW9B4"]],
+        "Picture": ["https://i.imgur.com/XrwFngN.jpg"]
+    },
+
+    "ew25": {
+        "Attractions": [],
+        "Community Facilities": [["Loving Heart Multi-Service Centre (Jurong)", "ChIJf_Tl1yEQ2jERB2vG282YnsM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Chinese Garden", "ChIJuZ4kdB0Q2jERdp1SrojDF_I"],["Jurong Park Connector", "ChIJ904NkN8P2jERa0TC6fd70yE"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/9ggid0P.jpg"]
+    },
+
+    "ew26": {
+        "Attractions": [],
+        "Community Facilities": [["HDB Jurong West Br", "ChIJqwA_ptwP2jERWxLRXEVePHA"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Rulang Pri Sch", "ChIJ_Va9QN0P2jERdRoBJnXUvRc"],["Shuqun Pri Sch", "ChIJq6mmlt0P2jERJZ3FUoWjJWU"],["Yuan Ching Sec Sch", "ChIJc7QP2OUP2jERWYOwC5RTKAQ"],["Yuhua Sec Sch", "ChIJ1cQfVhEFBBARBg-S8fpTjKE"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/WwmUN30.png"]
+    },
+
+    "ew27": {
+        "Attractions": [],
+        "Community Facilities": [["Boon Lay Bus Interchange", "ChIJlRE-XqoP2jERcoPU8Ya_Hiw"],["Jurong Medical Ctr", "ChIJsb79QJMP2jERJCl3szIIBsM"],["Jurong West Community Bldg", "ChIJ_WXCOo8P2jER0bqZzmid2Dg"],["Jurong West Public Lib", "ChIJF3XNQ5MP2jERXeUO2D_OtYY"],["SAFRA Clubhouse (Jurong)", "ChIJy6YytPIP2jER_3zeIbByHxE"],["The Frontier CC", "ChIJd4ldQJMP2jERlQdLPkzVa4A"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Jurong Central Pk", "ChIJqVUlbe0P2jER-8gqnsq4eNk"],["Jurong West Pk Connector", "ChIJOXwacPMP2jERxTgW0ZaOFTQ"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Jurong Point", "ChIJa9YM2-wP2jERmOUStQKyiS0"]],
+        "Picture": ["https://i.imgur.com/tNRlCZ3.png"]
+    },
+
+    "ew28": {
+        "Attractions": [],
+        "Community Facilities": [["Jurong West Sports Ctr", "ChIJEwW7gpoP2jER4o0mrMTZddM"],["Jurong West Sports Hall", "ChIJYeredpAP2jERduiD1Z5dTGI"],["Jurong West Stadium", "ChIJxS2Fcx4P2jEROtX704UwwSo"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Pioneer Junction", "ChIJnUQ9_o4P2jERIjSwQ6hv7rY"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Frontier Pri Sch", "ChIJt8l8_pEP2jERTuOqhLtm25I"],["Jurong West Pri Sch", "ChIJkR1ecZEP2jERJhLeZx32rPs"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/PP0VKSf.png"]
+    },
+
+    "ew29": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Jurong Apartments", "ChIJk3UIdH4P2jERtsEpaEUBlMo"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Fairprice Hub", "ChIJyV81n4AF2jERnrHVt04CmMU"]],
+        "Picture": ["https://i.imgur.com/jlN7auj.png"]
+    },
+
+    "ew30": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/VzmhVse.png"]
+    },
+    
+    "ew31": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/oEdhRs3.png"]
+    },
+
+    "ew32": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/yw73wj5.png"]
+    },
+
+    "ew33": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/cQG54sH.png"]
+    },
+
+
+
+    "ns2": {
+        "Attractions": [],
+        "Community Facilities": [["HDB Bt Batok Br", "ChIJSWxnLj8Q2jERPo15eRkvQuc"],["Bt Batok Bus Interchange", "ChIJq2NHTz8Q2jERR6gE3NmS-ms"],["Bt Batok CC", "ChIJq6qquj4Q2jERdfw4jFnWKOw"],["Bt Batok NPP", "ChIJf3MX9D4Q2jEREop1t63IuwM"],["Bt Batok Polyclinic", "ChIJTfaPWzkQ2jERHLWx7ICU2j4"],["Bt Batok Public Lib", "ChIJxzbY1z4Q2jERJ6mezML68e8"],["Civil Service Club @ Bukit Batok", "ChIJMduSTzgQ2jERm52nxYo5Zps"],["Jurong-Clementi Town Council (Bt Batok Office)", "ChIJpQjeMT8Q2jER2OhHcu7WOLk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Bt Batok Ctrl", "Eh5CdWtpdCBCYXRvayBDZW50cmFsLCBTaW5nYXBvcmUiLiosChQKEgkZttcwPxDaMRGHosTUT36GKBIUChIJdZOLiiMR2jERxPWrUs9peIg"]],
+        "Parks & Gardens": [["Bukit Batok Central Park", "ChIJTxe5yD0Q2jERh7cnsqbLDtI"]],
+        "Places of Worship": [["Ling Hong Tong Tp & Hoon Lam Tua Peh Kong Tp", "ChIJV7BK4D8Q2jERaQHtDMhxIE4"],["Tong Tien Kung Tp", "ChIJT8HN5T8Q2jERdfBTCtSGnQA"],["Wu Lui Sien Sze Tp", "ChIJc_eD5j8Q2jERaoEaUCn0Yls"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["West Mall", "ChIJxzbY1z4Q2jER7drH__TXbOI"]],
+        "Picture": ["https://i.imgur.com/qs9r0O0.png"]
+    },
+
+    "ns3": {
+        "Attractions": [],
+        "Community Facilities": [["Bt Gombak Sports Hall", "ChIJKydd_kkQ2jERP8621RAPPz4"],["Bt Gombak Stadium", "ChIJ6xV0xUkQ2jER7vFuVPOwK3Q"],["Bukit Gombak Sports Hub", "ChIJ8TMRtrQR2jER3rE1vMu7EHs"],["Chua Chu Kang TC (Bt Gombak Br)", "ChIJ1yfVLUgQ2jERmeJ7SDdG2Vs"],["Hong Kah Nth CC", "ChIJd8eBijYQ2jERdnanSqYFOII"],["Hong Kah Nth NPP", "ChIJ7xmA1zUQ2jERxDy9IPGi4D8"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Bt Batok Hillside Nature Park", "ChIJyXEkaTAQ2jERwofXPQCBUkc"], ["Little Guilin & Bukit Batok Town Park", "ChIJPSZwE0gQ2jER6xm1qR0q1Xs"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/K1RM4Rz.png"]
+    },
+
+    "ns4": {
+        "Attractions": [],
+        "Community Facilities": [["C.C.K HDB Branch Office", "ChIJ1wpEkOkR2jER2QiWsNA8JPI"],["C.C.K. Bus Interchange", "ChIJxe0CeekR2jERTvo3i83VqUY"],["C.C.K. Public Lib", "ChIJ5-Dtl-kR2jERllI9-1NpYVY"],["Chua Chu Kang TC (Main Office)", "ChIJxwxCkOkR2jERaJ_HTBuT2FY"], ["Keat Hong CC", "ChIJVVVVVegR2jER_ncZsSw8hfM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["C.C.K. Central", "EiBDaG9hIENodSBLYW5nIENlbnRyYWwsIFNpbmdhcG9yZSIuKiwKFAoSCf2NZY7BEdoxEc8ZfyzuiB6OEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"],["Choa Chu Kang Centre", "ChIJ-UUBLJkR2jERnEieOzbeqi8"]],
+        "Parks & Gardens": [["Choa Chu Kang Pk", "ChIJRzglD-wR2jERgCmyEeAecXI"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Choa Chu Kang Xchange", ""],["Lot One Shoppers' Mall", "ChIJs5CBlukR2jER-uyFhQ2NFbU"]],
+        "Picture": ["https://i.imgur.com/irnbzAm.png"]
+    },
+
+    "ns5": {
+        "Attractions": [],
+        "Community Facilities": [["Choa Chu Kang NPC", "ChIJX82Ro_ER2jERsUF9C27FW-Q"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Stagmont Pk", "ChIJB1ziZ_IR2jERz1YXFIkUifo"],["Yew Tee Pk", "ChIJ_6ftJ_ER2jERjyRotGhn7to"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Kranji Pri Sch", "ChIJ5xcmPfIR2jERI_ueBXIcBPw"],["Unity Sec Sch", "ChIJXbqsfvYR2jERsdVhK3JQ8bE"],["Yew Tee Pri Sch", "ChIJyyRcW_MR2jERtxnlA3qyVV0"]],
+        "Shopping & Dining": [["Yew Tee Pt", "ChIJL3h_-fMR2jERaA6mW3u-wNU"],["Yew Tee Sq", "ChIJm6Oexh0R2jERMVrJ75QsnUw"]],
+        "Picture": ["https://i.imgur.com/pLLvyoT.jpg"]
+    },
+
+    "ns7": {
+        "Attractions": [["Singapore Turf Club", "ChIJe8NsqzcS2jERYuE5wHj3mMc"]],
+        "Community Facilities": [],
+        "Historical Landmark": [["Kranji War Memorial", "ChIJuwtSxDwS2jER8rdI5kRmbl0"]],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/45ZE7x4.png"]
+    },
+
+    "ns8": {
+        "Attractions": [],
+        "Community Facilities": [["Fuchun CC", "ChIJi9wyTU0S2jERfruoX_LK3Pg"],["Metta Home for the Disabled", "ChIJZ6uksbIT2jERGHSTV2EevRI"],["Orange Valley Nursing Home (Marsiling)", "ChIJN2hRRE0S2jERbNJQU2x5d8c"],["Marsiling-Yew Tee TC", "ChIJkzfUQlARBBARO61Th4oEktg"],["Woodlands Polyclinic", "ChIJt8tfslIS2jERPEE-pxioDiE"], ["Woodlands West NPC", "ChIJmUrv5AET2jERpltRQ4JNoUc"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["yo:HA @ Woodlands", "ChIJp8PIrVQS2jERR-6bigIVy6w"]],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Fuchun Pri Sch", "ChIJD5_Nga0T2jERPspBnB8c4fA"], ["Fuchun Sec Sch", "ChIJuUInd60T2jERzGq4edNYpjk"],["Marsiling Pri Sch", "ChIJsx-sb1MS2jERXRi9iGqTEEU"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/9TT5XUS.png"]
+    },
+
+    "ns9": {
+        "Attractions": [],
+        "Community Facilities": [["Woodlands Community Club", "ChIJNXybHwgT2jER6Iq_DK6z-yQ"], ["Woodlands Regional Library", "ChIJqVqJA6YT2jERen84koMFzGM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Woodlands Avenue 2", "EhpXb29kbGFuZHMgQXZlIDIsIFNpbmdhcG9yZSIuKiwKFAoSCS9EIP-lE9oxEdp2zdlhagZvEhQKEgnJjiu0ZxfaMREgpNqurPcABA"],["Woodlands Avenue 5", "EhpXb29kbGFuZHMgQXZlIDUsIFNpbmdhcG9yZSIuKiwKFAoSCYNnmi6hE9oxEQhDPfve6jK9EhQKEgnJjiu0ZxfaMREgpNqurPcABA"]],
+        "Parks & Gardens": [["Fu Shan Garden", "ChIJq80RNwgT2jERaGoh8ljsQcc"]],
+        "Places of Worship": [["Hong Tho Temple", "ChIJGdceYQcT2jERRkhWJWQbnDk"],["Shang Di Miao Chai Kong Temple", "ChIJH6PlYQcT2jERdmOW8FbgoJE"],["Sri Siva Krishna Temple", "ChIJFwL1mAAT2jERxvscjCzfLrs"],["Woodlands Evangelical Free Church", "ChIJI7ZH4gkT2jER0D0nJOxHXNI"]],
+        "Schools & Public Institutions": [["Qihua Primary School", "ChIJgTA_lRET2jERd8t4fNpAo5Q"],["Republic Polytechnic", "ChIJ14hzqgUT2jER-IIzRuD1twI"],["Riverside Secondary School", "ChIJL5WvawgT2jEReD9APXJdlFU"],["Si Ling Primary School", "ChIJ____b68T2jERSgROHat2F9k"],["Woodgrove Primary School", "ChIJuZzySKQT2jERPAqVg3lgxAw"],["Woodlands Primary School", "ChIJ5Y7if60T2jERZWTvITPnyn8"]],
+        "Shopping & Dining": [["Causeway Point", "ChIJg0iEvagT2jERLpza72gaJ08"],["Woodlands Civic Centre", "ChIJrz7PDY0T2jERFxiHZ4RSpkM"],["Woodlands Square", "EhtXb29kbGFuZHMgU3F1YXJlLCBTaW5nYXBvcmUiLiosChQKEgnRd4OIqBPaMRFfVqIe4qqV3RIUChIJdZOLiiMR2jERxPWrUs9peIg"],["Woods Square Tower 1", "ChIJ5waQNcMT2jERzY58dy1cj1c"], ["Woods Square Tower 2", "ChIJ10198QcT2jERzfWWit0lJdQ"]],
+        "Picture": ["https://i.imgur.com/0tcQZ7r.png"]
+    },
+
+    "ns10": {
+        "Attractions": [],
+        "Community Facilities": [["HCA Woodlands Ctr", "ChIJXeNcZ3UT2jERN1xvT5oghrY"],["Woodlands East NPC", "ChIJqWRGiHUT2jERbyLVKCyWUag"],["Woodlands Galaxy CC", "ChIJH8K10p8T2jERZ1EVYVpGL8c"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Woodlands Admiral Garden", "ChIJbWNwmZ8T2jERBcyTLknG5tY"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Admiralty Pri Sch", "ChIJ1WgXlHQT2jERmHpiii9mIiY"],["Greenwood Pri Sch", "ChIJwUVeAXYT2jERCvnC2iNWnZI"]],
+        "Shopping & Dining": [["Admiralty Wet Mkt & FC", "ChIJ_W5cgnUT2jERypF0N5VEDQ8"], ["Kampung Admiralty Hawker Centre", "ChIJSYCHb3UT2jERZBT2RKbXINU"]],
+        "Picture": ["https://i.imgur.com/8RWv2ox.png"]
+    },
+
+    "ns11": {
+        "Attractions": [],
+        "Community Facilities": [["HDB Sembawang Br", "ChIJOfbyIGMT2jERAQP_HR9evCw"],["Sembawang Bus Interchange", "ChIJ3UITmIoT2jERY4jsrxQOcrY"],["Sembawang Public Library", "ChIJW6IeMH0T2jERiY_tOOMSWeI"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Canberra Park", "ChIJ4YgAeX4T2jERVlOBy85Z-Wc"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Sembawang Pri Sch", "ChIJBU_CcmcT2jERgvcz6IlYtns"]],
+        "Shopping & Dining": [["Sun Plaza", "ChIJHYe2MX0T2jER6vve5JwvRvw"]],
+        "Picture": ["https://i.imgur.com/yDvzyFW.png"]
+    },
+
+    "ns12": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Canberra Link", "EhhDYW5iZXJyYSBMaW5rLCBTaW5nYXBvcmUiLiosChQKEgkTmYIunRTaMRG0DLv-uKI_nhIUChIJdZOLiiMR2jERxPWrUs9peIg"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Holy Tree Sri Balasubramaniar Temple", "ChIJK9g9SoYU2jER7jRPcWxmBOc"],["Praise Evangelical Church", "ChIJoUhpPIEU2jERXiPt4058KH4"],["Sembawang Presbyterian Church", "ChIJC6Fl4YAU2jERbTELL3XKYU4"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Canberra Plaza", "ChIJexbbYoYU2jERNnDL7LAbLn0"],["Sembawang Shopping Centre", "ChIJ5-zrBoEU2jERhLnuZ0bgvUw"]],
+        "Picture": ["https://i.imgur.com/w7xZpZa.png"]
+    },
+
+    "ns13": {
+        "Attractions": [],
+        "Community Facilities": [["Khoo Teck Puat Hospital", "ChIJr2OabmwU2jERuUi-pxC2YWk"], ["Nee Soon Ctrl CC", "ChIJVVVVVW4U2jER0VUzn_JupyI"], ["Nee Soon East CC", "ChIJVWNV5GUU2jER2Y-RPCaMni0"],["Sembawang-Nee Soon TC (Nee Soon Ctrl Office)", "ChIJG3KWzW8U2jERtUSLHTRli2M"],["Yishun Community Hospital", "ChIJz5HON2wU2jER54PKCGCh2_4"],["Yishun HDB Branch Office", "ChIJrccKSnoU2jERR1TrQFih-cQ"],["Yishun Public Library", "ChIJBacVCGMU2jERaAbVrqntPzU"],["Yishun Bus Interchange", "ChIJz7xjD_0V2jERZ4a3JxtBf1k"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Yishun Ctrl", "EhlZaXNodW4gQ2VudHJhbCwgU2luZ2Fwb3JlIi4qLAoUChIJlXgzzG4U2jERZ616LunvOTASFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Parks & Gardens": [["Khatib Bongsu Park Connector", "ChIJywjk7i8V2jERP6UhBhji4eU"],["Yishun Park", "ChIJi1mpD2oU2jERl1nZ8rZofAE"], ["Yishun Town Garden", "ChIJ-f2nYG4U2jER-QxnHHBO26k"]],
+        "Places of Worship": [["Smyrna Ably", "ChIJq8DHy3oU2jER9YYdK_z71-w"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Golden Village - Yishun Ten", "ChIJMVFih2UU2jERQODuG9VdkqY"],["Northpoint City", "ChIJ9RT-5DYV2jERKbQXNwU4m6A"]],
+        "Picture": ["https://i.imgur.com/WO1wl5V.png"]
+    },
+
+    "ns14": {
+        "Attractions": [],
+        "Community Facilities": [["Nee Soon South CC", "ChIJq6qqmhEU2jER0yE06FDEo-U"],["Nee Soon South NPP", "ChIJacLjYA0U2jERJuxIjpbmVnA"],["Nee Soon Town Council (Nee Soon South)", "ChIJ3Re-IxIU2jERCry_5ysIoGM"],["Yishun South NPC", "ChIJQz0bjhEU2jERL_bF1q_Ym7o"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Khatib Bongsu Park Connector", "ChIJywjk7i8V2jERP6UhBhji4eU"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Naval Base Sec Sch", "ChIJwcWSZmcT2jERSM2_uLfXEQc"],["Peiying Pri Sch", "ChIJ12KMrQ0U2jERmnpOrDHMB64"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/9VZ42XO.png"]
+    },
+
+    "ns15": {
+        "Attractions": [],
+        "Community Facilities": [["Ang Mo Kio Fire Stn", "ChIJJVW9d5UW2jERPlXP9hUHuM8"], ["Ang Mo Kio Nth NPC", "ChIJ0-pbOVgX2jERRkFwl3qa1Us"],["Ang Mo Kio Police Div Hqr", "ChIJTYIQfZUW2jERuZpKIVR8x_w"],["The Grassroots Club", "ChIJ4SqC8eoW2jERtqkS6tuPqy8"],["Yio Chu Kang Bus Interchange", "ChIJf5pdyQ0X2jERCryt4SXNSnM"],["Yio Chu Kang CC", "ChIJFdT088AW2jERv4-U3wAxo0E"],["Yio Chu Kang Sports & Recreation Centre", "ChIJi0DYQ5UW2jERn0N6cT87w7U"],["Yio Chu Kang Sports Hall", "ChIJd5MHRJUW2jERtnWRM_8wlDY"],["Yio Chu Kang Squash & Tennis Centre", "ChIJRTMHoeoW2jERFtq9Ooj11hA"],["Yio Chu Kang Stadium", "ChIJd3uwNpUW2jERQ8_rTlpa64U"],["Yio Chu Kang Swimming Cplx", "ChIJK0H-uOoW2jEREIHZrruEwDk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Chu Sheng Tp", "ChIJOVR_-sAW2jERkbUwOyoNxcI"],["Swee Kow Kuan Tp", "ChIJVxk7AMEW2jERlmNRA3AagII"]],
+        "Schools & Public Institutions": [["Anderson-Serangoon Junior College", "ChIJvdgYE-oW2jERvnkf1VEJSCE"],["Nanyang Polytechnic", "ChIJnSSwZOsW2jERQtnugPYP8eU"],["Presby High Sch", "ChIJpdznib8W2jERukg0dLhhDWQ"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/qCQVGI8.jpg"]
+    },
+
+    "ns16": {
+        "Attractions": [],
+        "Community Facilities": [["Ang Mo Kio Bus Interchange", "ChIJU18TDSAX2jERKSt81pkd3Fc"],["Ang Mo Kio Sth NPC", "ChIJWWeGPeQW2jERQgOvU42HnUY"],["Cheng San CC", "ChIJPYyYbeYW2jERzWoaDgHfUhw"],["Cheng San Fire Post", "ChIJz6fDCeQW2jER11ZzA8_FJYY"],["S'pore Buddhist Free Clinic (Ang Mo Kio)", "ChIJk5S0BeEW2jERFgjzGAEjoRI"],["Thong Chai Medical Instn - Ang Mo Kio", "ChIJ134_DuQW2jERgWNJci538zU"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Ang Mo Kio Town Gdn East", "ChIJTc1DguYW2jERxpNtl4koQg0"]],
+        "Places of Worship": [["Mjd Al-Muttaqin", "ChIJ8cy2becW2jERO0GLOTclYgw"]],
+        "Schools & Public Institutions": [["Deyi Sec Sch", "ChIJta6NtuMW2jERUqtA0s38gk0"],["Jing Shan Pri Sch", "ChIJXRj5nfoW2jER8caf6_TY-sk"]],
+        "Shopping & Dining": [["51 @ AMK", "ChIJ69XKl-QX2jERDas3FaZuIN0"],["AMK Hub", "ChIJT80kwuYW2jERhogn4ZW0fG4"]],
+        "Picture": ["https://i.imgur.com/LRZYAbH.jpg"]
+    },
+
+    "ns17": {
+        "Attractions": [],
+        "Community Facilities": [["Bishan HDB Branch Office", "ChIJtw1VGxQX2jERSqgR6U1X38s"],["Bishan Bus Interchange", "ChIJuxRxvRYX2jER4TeuBBgZBjU"], ["Bishan CC", "ChIJ____7xMX2jERWYaeX5Kpxcw"],["Bishan Electronic NPP", "ChIJS_B5dxQX2jER1wSOxEr8_5c"],["Bishan Public Lib", "ChIJ_yBIIRQX2jERvEDz9aXhFoU"],["Bishan Swimming Cplx", "ChIJi5ngUxcX2jERarBOvtnWIXE"],["Bishan-Toa Payoh TC (Branch Office)", "ChIJ1bJq9hMX2jERSQMvp-KbCFA"],["CPF Bishan Bldg", "ChIJqfA_IhQX2jER00EucT6EgHc"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["CPF Bishan Bldg", "ChIJqfA_IhQX2jER00EucT6EgHc"],["Mjd An-Nahdhah", "ChIJMWPWtxAX2jERxXiDPQd_2bk"],["MOE Language Ctr (Bishan)", "ChIJ_eZf6RAX2jERiIZWhP-EbCw"], ["Singapore Scout Association", "ChIJXYjBfRQX2jERfm6ny47TDfU"]],
+        "Shopping & Dining": [["Junction 8 Shopping Ctr", "ChIJb-ErmBYX2jERBl1gF7cPIj4"]],
+        "Picture": ["https://i.imgur.com/O8MV0Ba.jpg"]
+    },
+
+    "ns18": {
+        "Attractions": [],
+        "Community Facilities": [["Boon Teck NPP", "ChIJbVEXemoX2jER6AFl0oMx970"],["Onepeople.sg", "ChIJVQMxJmoX2jERiMoFINWB1ug"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["SPH News Ctr", "ChIJDbXwCGsX2jERJxviwixcxG8"],["Police Security Command", "ChIJY2X9MmkX2jERoyngraY5a-I"],["S'pore Federation Of Chinese Clan Associations Bldg", "ChIJAQAAcGgX2jERz4HZpaZBwgQ"],["TOA PAYOH IND EST", "ChIJST7fkHAX2jERHK2kLGfyi0Y"],["Toa Payoh Nth", "EhZUb2EgUGF5b2ggTiwgU2luZ2Fwb3JlIi4qLAoUChIJ7ab6yWsX2jERDPXvIDPIRfMSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"],["Yellow Pages Bldg", "ChIJIfslPHAX2jERseeqOZ_ahS4"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Toa Payoh West Market & Food Centre (Lorong 1)", "ChIJuyaJgkIX2jERcGmYw5VZHx8"]],
+        "Picture": ["https://i.imgur.com/Y2YluWM.jpg"]
+    },
+
+    "ns19": {
+        "Attractions": [["HDB Gallery", "ChIJ-QbC5uoX2jERyDRyyYNNFVQ"]],
+        "Community Facilities": [["HDB Hub", "ChIJ3yUXvGYX2jERR500RLLrS60"], ["HometeamNS -JOM @ Balestier", "ChIJ7fmAp2EX2jER11YCRT-KLbk"],["Toa Payoh HDB Branch Office", "ChIJNadbjWYX2jER0rSBWnUID3I"],["Toa Payoh Bus Interchange", "ChIJXQVNOmcX2jERTTCczVQSj7M"],["Toa Payoh Ctrl Community Bldg", "ChIJW7BptGEX2jERMRaGgsi2fNM"],["Toa Payoh NPC", "ChIJmXhgC2YX2jER9OifIfydWpQ"], ["Toa Payoh Public Library", "ChIJx-7QmZYX2jERht7ofTYcNs0"],["Toa Payoh Swimming Cplx", "ChIJl_jHWWEX2jERCHyB7HZhJrE"],["Toa Payoh West CC", "ChIJ6wMr92cX2jERQ0j8BFwdM5Y"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["HDB Hub", "ChIJ3yUXvGYX2jERR500RLLrS60"],["OrangeTee Bldg", "ChIJsY8fdzYX2jERheTbQEfksvQ"],["Toa Payoh Ctrl", "EhxUb2EgUGF5b2ggQ2VudHJhbCwgU2luZ2Fwb3JlIi4qLAoUChIJwyYaQmYX2jEROoGAoPNjIWQSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Parks & Gardens": [["Toa Payoh Town Pk", "ChIJQ86JKWEX2jERaRixYj7hl_U"]],
+        "Places of Worship": [["Toa Payoh Meth Church", "ChIJJa8BF9kZ2jERK4yIgsZzypA"]],
+        "Schools & Public Institutions": [["CHIJ Sec (Toa Payoh)", "ChIJT0ebt10X2jERi6sjw9FZ940"]],
+        "Shopping & Dining": [["Hersing Centre", "ChIJGZosMZ892jERScjC0K4_9U4"]],
+        "Picture": ["https://i.imgur.com/FPXn9Bd.jpg"]
+    },
+
+    "ns20": {
+        "Attractions": [],
+        "Community Facilities": [["Communicable Disease Ctr 2", "ChIJKcmo-twZ2jERd50H5aDGVKE"],["HEALTH CITY NOVENA", ""],["Mt Elizabeth Novena Hosp", "ChIJuXIgreAZ2jERRYNtlZEQhhA"],["National Centre for Infectious Diseases", "ChIJ8ybm1N0Z2jERvL8HvG-7XcA"],["National Neuroscience Institute", "ChIJDd114d0Z2jERSlaveoJQWgI"],["Police Heritage Ctr", "ChIJs6qqmuAZ2jERjRDen8RgMpo"],["Ren Ci Community Hospital", "ChIJe7MfFt4Z2jERICH17jjjqo0"],["Shuttle Bus to KK Hospital", ""],["Shuttle Bus to Mount Alvernia Hospital", ""],["Tan Tock Seng Hospital", "ChIJmcDhEt4Z2jERb9Y4cIoZ54k"],["Tan Tock Seng Hospital Heritage Museum", "ChIJ7fSvddcZ2jERsHSY9warYRM"],["Tuberculosis Control Unit", "ChIJL_Gfqt0Z2jER3dNON4xubng"]],
+        "Historical Landmark": [["H.S. of Tan Tock Seng Hospital", ""]],
+        "Hotels & Hostels": [["Hotel Royal", "ChIJHR8LfugZ2jERUzNAwBJc5sE"],["Oasia Hotel", "ChIJCf8FjN0Z2jERJBxAJCpiyZY"]],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Novena Park", "ChIJlR70zuAZ2jEREoYitum082k"]],
+        "Places of Worship": [["Masjid Abdul Hamid (Kg Pasiran)", "ChIJvy8l8eYZ2jERzPeTayMD3Qw"],["Novena Church (Church of St Alphonsus)", "ChIJmc4vM-cZ2jERzcyQtXQgf9k"],["Revival Centre Church", "ChIJCQHfDN0Z2jERpeO4-hQWCAw"],["Seventh-day Adventist Chinese Church", "ChIJAQAA0OYZ2jERUy1L5BDYm-s"]],
+        "Schools & Public Institutions": [["Etonhouse Pre-School (Newton)", "ChIJ____j4kZ2jERzT7EqwVIvak"],["Ministry Of Home Affairs", "ChIJhcstMd4Z2jERbpsl2pnr65c"],["New Phoenix Pk", "ChIJ60bHLN4Z2jERO4_55Snu0Tk"],["Police Headquarters", "ChIJ60bHLN4Z2jERpLoSc7jXha0"],["Revenue Hse", "ChIJnx93qucZ2jERPqxZO9Z4YP4"],["San Yu Adventist Sch", "ChIJ58ieLOEZ2jERwFXVtjVidi4"]],
+        "Shopping & Dining": [["Goldhill Plaza", "EhlHb2xkaGlsbCBQbGF6YSwgU2luZ2Fwb3JlIi4qLAoUChIJRTET6OcZ2jERgCZWFwsK9nMSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"],["Goldhill Shopping Centre", "ChIJjboBwHoZ2jERbe8OvUUSLws"],["Royal Sq At Novena ", "ChIJVWa4ADEZ2jER2ONXOeualPU"],["Square 2", "ChIJoavrZ-cZ2jEROHbTzqYlVM4"],["United Square", "ChIJRX3v4ecZ2jERD0BlqjhXKCc"],["Velocity @ Novena Sq", "ChIJVVVVcOcZ2jERuHgJL1B5Aj4"]],
+        "Picture": ["https://i.imgur.com/tNGNDMR.png"]
+    },
+
+    "ns21": {
+        "Attractions": [],
+        "Community Facilities": [["Cairnhill CC", "ChIJ6wSMeewZ2jERnRkQnVf_7-c"],["Cairnhill Fire Post", "ChIJWQk1f-wZ2jER9xh1T1Y02i0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Sheraton Twrs S'pore Hotel", "ChIJQeI7N-wZ2jERnpSwVQl2b00"]],
+        "Offices & Residences": [["Alliance Francaise De Singapour", "ChIJ4d3S6O4Z2jER9k4FRyjSNUw"],["Deans Property Ctr", ""],["Goldbell Twrs", "ChIJpTh8I-wZ2jERT1ytyoHL3YI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Beulah Hse", "ChIJdQFULu8Z2jERu6Fhlan-RLA"], ["Church Of Jesus Christ Of Latter-Day Saints", "ChIJ0UN2_e4Z2jERULPObZTB6w0"], ["Far Eastern Bible College", "ChIJ78iqMO8Z2jERyFPEBYI7VkA"],["Life Bible-Presbyterian Church", "ChIJSZRpOe8Z2jERD1rybFC8FtI"],["Newton Life Church", "ChIJ5x2tFOkZ2jEROS0p-aA5sGc"],["S'pore Hakka Methodist Church", "ChIJ8_Ig5ugZ2jERSmZlJtOIIIE"],["Sharon Bible- Presbyterian Church", "ChIJySdFN-8Z2jERvXaguy8cUl4"]],
+        "Schools & Public Institutions": [["Environment Bldg", "ChIJq6pqVewZ2jERozfG-VvmMSg"],["Ministry Of Education Language Ctr (Newton)", "ChIJZ9GS_ewZ2jERgha1--wbfmM"]],
+        "Shopping & Dining": [["Newton Food Centre", "ChIJe4wL_OsZ2jERySoDk6jlhNQ"]],
+        "Picture": ["https://i.imgur.com/1aNFNuL.jpg"]
+    },
+
+    "ns22": {
+        "Attractions": [],
+        "Community Facilities": [["Mount Elizabeth Hospital", "ChIJnUpJWpIZ2jERhpsQCRE_2-M"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Four Seasons Hotel", "ChIJqbrxYIwZ2jERV9rTVcsl1Lk"],["Grand Hyatt S'pore", "ChIJq0Qrde0Z2jERcHFh2aaynck"],["Hilton S'pore", "ChIJFQYC8YwZ2jERDRaSlDO1Q0k"],["Royal Plaza", "ChIJS2f6Z40Z2jERLavQ4p6-R5s"],["S'pore Marriott Hotel", "ChIJ7zeih40Z2jERst1twFSmrzc"]],
+        "Offices & Residences": [["Intl Bldg", "ChIJg4s6BY0Z2jER_vR-3Ma7o3A"],["Liat Twrs", "ChIJKTFrrI0Z2jER3HN21c6LmME"],["Orchard Parksuites", "ChIJvTOX_40Z2jERNzvPBZ4gm3E"],["Royal Thai Embassy", "ChIJdUg-Ho0Z2jERHSX14-YQv_0"],["Thong Teck Bldg", "ChIJm5HPDScZ2jERDi3eDkCyu5k"],["Tong Bldg", "ChIJSUJ7PZIZ2jERSnwFffzrDww"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Finnish Supplementary Sch", "ChIJufxlN44Z2jERgy3vpmW0v1Y"],["ISS Intl Sch (Elementary & Middle Sch Campus)", "ChIJcfpBZ44Z2jERr-2eV0oeiMA"]],
+        "Shopping & Dining": [["Far East Plaza", "ChIJPZTUpZIZ2jERk5GUzK_g9_0"],["Far East Shopping Ctr", "ChIJW102VIwZ2jERnOxwpL7Xju8"],["Ion Orchard", "ChIJu6qq6Y0Z2jERZQZRLwnba5k"],["ION Paterson Lk", "ChIJu6qq6Y0Z2jERZQZRLwnba5k"],["Liat Twrs", "ChIJKTFrrI0Z2jER3HN21c6LmME"],["Lucky FC", "ChIJHXFAbZIZ2jERBr4TtSBaWRU"],["Lucky Plaza", "ChIJ6xFibZIZ2jERlMTu3Bo6a9c"],["Ngee Ann City", "ChIJ_7pt85EZ2jERPfKpmuwrzys"],["Orchard Xchange", "ChIJaWvtFbcZ2jERfLabTX96ZiM"],["Pacific Plaza", "ChIJaYwP6PkZ2jERAW-lQOud-RA"],["Palais Renaissance", "ChIJq5AW6IwZ2jERLFhlkwXcXes"],["Scotts Square", "ChIJqWqdfo0Z2jER7ly1IAAHMXE"],["Shaw Ctr", "ChIJdVshco0Z2jER5H03m10YGas"],["Shaw Hse", "ChIJPwWJoI0Z2jERcpYtSDNQMDg"],["Takashimaya Shopping Ctr", "ChIJg6KI8ZEZ2jER9W7OwvUXPRs"],["Tang Plaza", "ChIJsVimj40Z2jERtAhq1JPonPU"],["T Galleria By DFS", "ChIJDakKS40Z2jERFn8iE_9IY-s"],["The Paragon", "ChIJl_sOMpIZ2jERKgmuCf4FCs0"],["Wheelock Pl", "ChIJmbzds40Z2jERALKuryaSSVI"],["Wisma Atria", "ChIJSZHC-I0Z2jERm8BlwXqhcfc"]],
+        "Picture": ["https://i.imgur.com/bnFtHgW.jpg"]
+    },
+
+    "ns23": {
+        "Attractions": [],
+        "Community Facilities": [["NYC Academy", ""],["Orchard Fountain Corner", "ChIJ4fUhFpEZ2jERQlV413IrRxY"],["Orchard NPC", "ChIJec8HUJcZ2jER2wSO1OFFlCw"],["Scape", "ChIJCW1snYkZ2jERhhP5XIO0hjo"],["Somerset Skate Pk", "ChIJJ0sYH5EZ2jERwGGJIF78HCc"],["Youth Pk", "ChIJo3KVzj0Z2jERskZeU5ICLis"]],
+        "Historical Landmark": [["H.S. of S'pore Chinese Girls' Sch", ""]],
+        "Hotels & Hostels": [["Concorde Hotel", "ChIJRe0Wq5cZ2jER5qoN9Q0znq8"],["Grand Park Orchard", "ChIJz4aYfpEZ2jERLReLeC1uvoY"],["Holiday Inn Express S'pore Orchard Rd", "ChIJzz_w1pMZ2jERvfvkp9ru9r8"],["Holiday Inn S'pore Orchard City Ctr", "ChIJXT2UkZYZ2jER2J-iMtLwUTQ"],["Hotel Jen Orchardgateway S'pore", "ChIJE49v1JAZ2jERWDP05HHNONo"],["Lloyd's Inn", "ChIJB6FalZkZ2jERJNCEIaOIiMA"],["Mandarin Orchard S'pore", "ChIJ-ejNCpEZ2jERGuHxSsq0KgU"]],
+        "Offices & Residences": [["51 Cuppage Road", "ChIJl5CrppYZ2jERTYwSQX55BfU"],["CGH Bldg", "ChIJM7QGD7kZ2jER141kVF9V18s"],["Comcentre", "ChIJkYCDr5AZ2jERQN6hXl8E8Fc"],["Devonshire Bldg", "ChIJW7tmCZoZ2jERISwpi1oTSTY"],["Faber Hse", "ChIJ0fMHXMoZ2jERlmO9JYoNxCE"],["Lanson Pl Winsland Serviced Apts", "ChIJsQy_FZcZ2jERs0T0JZqMZ8U"],["Orchard Bldg", "ChIJY27C0cAZ2jERWP8Shb94Qck"],["Pan Pacific Serviced Suites Orchard", "ChIJ3w_cJpEZ2jERA6SulPiZREo"],["Tai Wah Bldg", ""],["TripleOne Somerset", "ChIJkRdUduMZ2jERNp2OnfK5q4o"],["Winsland Hse I", "ChIJxVkL7f8Z2jERkjvonwKnUOA"],["Winsland Hse II", "ChIJySl759kZ2jERI8OQZYospA4"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Masjid Al-Falah", "ChIJuxTT15MZ2jERT3tI8PBuUFg"],["Sian Teck Tng Tp", "ChIJQdLjH5QZ2jERBa4Ovg_54sA"],["Tong Xian Tng Tp", "ChIJM_LJdJoZ2jERA5_nBDILOZs"]],
+        "Schools & Public Institutions": [["Chatsworth Intl Sch (Orchard Campus)", "ChIJiwtISQkZ2jERln1e9RiMQs0"]],
+        "Shopping & Dining": [["313 @ Somerset", "ChIJHSrGJ5EZ2jERTzbUyme7KuQ"],["Cathay Cineleisure Orchard", "ChIJ05FUL10Z2jERttsguemIjiQ"],["Cuppage Plaza", "ChIJgc6e98UZ2jERkR9VCvVMSmw"],
+        ["Cuppage Ter", "ChIJOSDEv5YZ2jERDCpLdkxbhnU"],["Killiney Rd", "EhZLaWxsaW5leSBSZCwgU2luZ2Fwb3JlIi4qLAoUChIJvbcIApoZ2jERXkSbIb_UC7kSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"],
+        ["Mandarin Gallery", "ChIJiwOzdpEZ2jER8ZBANNMQhAw"],["Midpoint Orchard", "ChIJ5SdSMZEZ2jERl25VbE5H6UE"],["OG Orchard Point", "ChIJoSMzN5EZ2jERtJ5wp5SCOCU"],
+        ["Orchard Bldg", "ChIJY27C0cAZ2jERWP8Shb94Qck"],["Orchard Central", "ChIJQfAL2JYZ2jER9v06BxkNw1k"],["Orchard Gateway @ Emerald", "ChIJfZmGM5EZ2jERgDzwv5rdA-U"],
+        ["Orchard OG", "ChIJEaoCNJEZ2jER43Cxtm2gqQE"],["Orchard Plaza", "ChIJObhvTk4Z2jERM31uLaIxrUI"],["Orchard Shopping Ctr", "ChIJ777jJQoZ2jERUSqAyBp_F2Y"],
+        ["Penang Rd O/S", "EhRQZW5hbmcgUmQsIFNpbmdhcG9yZSIuKiwKFAoSCbcdsvGXGdoxETlY0ZAAfQidEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"],
+        ["Peranakan Pl", "ChIJE4RO0pYZ2jERiO_J80tRaRg"],["The Centrepoint", "ChIJRZ1c0JYZ2jER6cpyNpOyf3M"],["The Heeren", "ChIJt2tjaZEZ2jER1-rMADMyBFQ"]],
+        "Picture": ["https://i.imgur.com/aUjWhz0.jpg"]
+    },
+
+    "ns24": {
+        "Attractions": [],
+        "Community Facilities": [["Raffles Surgictre", ""],["YMCA", "ChIJbyclJKMZ2jERFdDqoRQPLuA"]],
+        "Historical Landmark": [["Battle Box (formerly Far East Command Ctr)", "ChIJdXkrRKIZ2jERL3OFhRYeSp4"],["Edinburgh Bridge", ""],["Fort Canning Arts Centre", "ChIJVSYjJKIZ2jERpRFinATD52s"],["H.S. of Japanese Propaganda Dept Hqrs", ""],["Hse Of Tan Yeok Nee", "ChIJ1bJ6kpcZ2jERLD5vOrP5_4M"],["Macdonald Hse", "ChIJx8B6Rr0Z2jERZeUtbjfNRHI"],["SMA Hse", ""]],
+        "Hotels & Hostels": [["Hotel Fort Canning", "ChIJocILh6IZ2jERLMhZs3uVoZI"],["Hotel Supreme", "ChIJi06pUZYZ2jERW8krXJbsl5Q"]],
+        "Offices & Residences": [["Haw Par Ctr", "ChIJv2ljDZgZ2jERjmcTH8Vknhg"],["Haw Par Glass Twr", "ChIJ4yT6cJgZ2jERBr9J_EV-7X8"],["Imperial Hse", ""],["Red Cross Hse", "ChIJj3U1C5gZ2jER9dDcLJyo2bU"],["The Glass Hse", ""],["The Oxley", "ChIJ63L8_4cZ2jERMZeI1S_xlb0"],["The Rise @ Oxley", "ChIJpfd0zW0Q2jER3dzpHSKmR_4"],["United Hse", "ChIJA3J-dVwW2jERIqGYESU5PCg"]],
+        "Parks & Gardens": [["Asean Sculpture Garden", "ChIJF0F996IZ2jER9zhq9w2vtNY"],["Dhoby Ghaut Green", "ChIJUQ6szaIZ2jERKRSQdVyu-RE"],["Fort Canning Park", "ChIJVSYjJKIZ2jERpRFinATD52s"],["Istana Pk", "ChIJGeWzwMUZ2jERUmSzZCF_59M"],["The Legends Fort Canning Pk", "ChIJBXmkh6IZ2jER1XZGOzkwPlA"]],
+        "Places of Worship": [["Church Of Christ Of Malaya", "ChIJXWttOLwZ2jERm0zMr--Aceg"],["Chesed-El Synagogue", "ChIJcwYZOJgZ2jERh6OoB7zgC_w"],["Orchard Rd Presbyterian Church", "ChIJe2PiJ6MZ2jERi-nhBEPco9c"],["Wesley Methodist Church", "ChIJ8aDrIaMZ2jERqA167p17JHk"]],
+        "Schools & Public Institutions": [["Sch Of The Arts (SOTA)", "ChIJUeXKz7wZ2jERMmZROJYsRrk"], ["Singapore Management University", "ChIJGddBg6MZ2jERACsxW7Ovm_4"],["The University Of Chicago Booth Sch Of Business", ""]],
+        "Shopping & Dining": [["Dhoby Xchange", "ChIJNyu9Sb0Z2jERCdhJfZxIrRI"],["Park Mall", "ChIJFxTX8JcZ2jER4qVdsKLJZCg"],["Plaza Singapura", "ChIJR1Fyfr0Z2jERzwO-AZiJ-HM"],["S'pore Shopping Ctr", "ChIJj63eEZgZ2jERlsPDIn44YlY"],["The Cathay", "ChIJCwc9Ib0Z2jERGKkaxcJzE0c"]],
+        "Picture": ["https://i.imgur.com/MYWju4W.png"]
+    },
+
+    "ns27": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Marina One Residences", "ChIJ3VlgVRAZ2jERg7TRPG_0N5M"], ["Marina One West Tower", "ChIJdzo10ZUZ2jER5Q0oucnycXU"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/7O2qfP5.png"]
+    },
+
+    "ns28": {
+        "Attractions": [],
+        "Community Facilities": [["Marina Bay Cruise Centre Singapore", "ChIJEYbglyMZ2jERnEZdq1xtBFI"], ["Marina South Pier", "ChIJBzn5UR8Z2jERZA4snZcCZR0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/uIyxLKc.png"]
+    },
+
+
+
+    
+    "ne1": {
+        "Attractions": [["Sentosa", "ChIJRYMSeKwe2jERAR2QXVU39vg"]],
+        "Community Facilities": [["HarbourFront Bus Interchange", "ChIJ-S8VbDMb2jER1BqN670pvHA"],["HarbourFront Cruise Centre & Ferry Terminal", "ChIJGXXAPOMb2jERysallYC1SaY"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Bay Hotel S'pore", "ChIJQWIS51gZ2jERbGM30TPwYxc"]],
+        "Offices & Residences": [["Bank Of America Merrill Lynch Harbourfront", "ChIJY4v5EhUb2jER_WxhRp9OBLo"],["Harbourfront Twr One", "ChIJEYpGNuIb2jERh4qA3i6XDdg"],["Harbourfront Twr Two", "ChIJc1zpTOIb2jER3FiNtIQyWfw"], ["Keppel Bay Twr", "ChIJP6PJcWsZ2jER0IchbiiRjbs"],["King's Dock", "ChIJm1E6R-Ab2jERT58Tq-lloPo"],["St. James Power Stn", "ChIJ1VO7IVkZ2jERBm7au3IHB0I"],["Telok Blangah Hse", "ChIJa9AqMV8Z2jERPitBaHaJbqI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Mjd Temenggong Daeng Ibrahim", "ChIJeeS_KF8Z2jERlZSfB5Mj7X0"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Harbourfront Centre", "ChIJ5Qx1aOIb2jERwQsRlRdHaWM"],["Seah Im FC", "ChIJ3_Lpm-Eb2jERLpMzVFxi_vs"],["VivoCity", "ChIJK7xLl1gZ2jERP_GdUY9XNLo"]],
+        "Picture": ["https://i.imgur.com/XWvgESa.png"]
+    },
+
+    "ne4": {
+        "Attractions": [["Buddha Tooth Relic Temple & Museum", "ChIJ0bwmznIZ2jEREOCMNggtIBk"],["Chinatown Heritage Ctr", "ChIJ3eg6SXMZ2jERCxutt4adUyY"],["Chinatown Visitor Centre", "ChIJFdQLwXIZ2jER9wNiQtdD9gc"]],
+        "Community Facilities": [["Ann Kway Association", "ChIJVWzmBXMZ2jERKtIPe3miklc"],["Family & Juvenile Courts", "ChIJNcYvJHUZ2jERcmUXr53utCw"],["HomeTeamNS @ Chinatown", "ChIJz_47aa0Z2jER8GC6W0C_Iz8"],["Kreta Ayer People's Theatre", "ChIJ87ci7nIZ2jERCORCejxwJsU"],["library@chinatown", "ChIJ2zOiSwsZ2jERY2Wt9PYlO_A"],["Small Claims Tribunals", "ChIJv5vGHXUZ2jERdAw06gS3Xpg"],["State Courts", "ChIJ66orHHUZ2jERsytRwQhf1d8"],["The Majestic", "ChIJfSYyn3QZ2jERzxX0wJK1Sp4"]],
+        "Historical Landmark": [["H.S. of Sook Ching Ctr", "ChIJkYXhvAwZ2jERb3E70mQr3DU"]],
+        "Hotels & Hostels": [["5footway. Inn Project Ann Siang", "ChIJyRYPKQ0Z2jERyiIEF6Y-cTY"],["5footway. Inn Project Chinatown 1", "ChIJB-nXRXMZ2jER_FVp3a-hLjY"],["5footway. Inn Project Chinatown 2", "ChIJR2RWxAwZ2jERxnKGHN1jOdY"],["5footway. Inn Project Chinatown 3", ""],["5footway. Inn Project Chinatown 4", ""],["Backpackers Inn Chinatown", "ChIJUWfrsAwZ2jERyJDADPiIb4I"],["Beary Best! Hostel", "ChIJ-x0_D48Z2jERnX3Ac3Kix84"],["Bliss Hotel S'pore", "ChIJ48dSqHQZ2jERezyfMJmZfNA"],["Dragon Court Hotel", "ChIJC2tyUnMZ2jEROXycnWvbz8I"],["H Hostel @ Chinatown", "ChIJk5aqMg0Z2jERHqGwMzLgn9Y"],["Hotel 81 - Chinatown", "ChIJXazBp3QZ2jERUuWWbCypJTM"],["iStay.Inn", "ChIJeZv_wwwZ2jERm8EMSyezy3o"],["Porcelain Hotel", "ChIJU9MmV3MZ2jERR9VidbXrRtE"],["Santa Grand Hotel Lai Chun Yuen", "ChIJpxVTSnMZ2jERahjVkp_zq9g"],["The Inn at Temple St", "ChIJz7vCOHMZ2jERpU02xW42jTg"],["The Scarlet Hotel", "ChIJedOwSA0Z2jER2MzP7abeptc"],["The Southbridge Hotel", "ChIJpc_euAwZ2jER-6AtSZ4spRQ"],["Wink Capsule Hostel", "ChIJhRfsUHMZ2jERk4TeSNwDH8w"]],
+        "Offices & Residences": [["CES Ctr", "ChIJEzAhROgZ2jERqIX7h2x4AYQ"],["Great Eastern Ctr", "ChIJ_YJGdwsZ2jERdpM8038US68"],["Manhattan Hse", "ChIJIw-bd5MZ2jER9pe3Cm7rQd0"],["The Platinum", "ChIJ6XM_VXMZ2jERzESqVFyEFNM"]],
+        "Parks & Gardens": [["Pearl's Hill City Pk", "ChIJm3qlB3QZ2jERxBP4Sxulkiw"]],
+        "Places of Worship": [["Buddha Tooth Relic Temple & Museum", "ChIJ0bwmznIZ2jEREOCMNggtIBk"],["Masjid Jamae (Chulia)", "ChIJVQ7VtwwZ2jERJiI42tiD34w"],["Sri Mariamman Temple", "ChIJ0yjU0QwZ2jER6gg0ImuCTRU"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Central Mall", "ChIJUT3-h90Z2jERf10Gvlu0dCA"],["China Sq Central", "ChIJEQiFiAwZ2jEReuQmLljMR7s"],["Chinatown Complex", "ChIJAenlH3MZ2jERqjoWXlxEH6w"],["Chinatown Point", "ChIJBXC7TAsZ2jERdpAi-2uczMQ"],["Chinatown Street Markets", "ChIJ44PnOnMZ2jERDhzYwdX5qI4"],["Fook Hai Bldg", "ChIJiTsmEnEZ2jERFHutpeR7-0Y"],["Furama City Ctr S'pore/ Shopping Ctr", "ChIJl5o20XQZ2jERXcn6d-k0YEI"],["Hong Lim Cplx", "ChIJtcJ9nwwZ2jER6VVZzSbA4bA"],["Hong Lim Mkt & FC", "ChIJRwKzawsZ2jERKxpszLl54EU"],["Lucky Chinatown", "ChIJWbS5XRwZ2jERAc34umUVB2E"],["Nankin Row", "ChIJUTnRgwwZ2jERG4WJTVyUGIk"],["New Bridge Ctr", "ChIJZzMfDnMZ2jERZGYtqf2QiN8"],["OG People's Park", "ChIJxVpBl3QZ2jERgpFFg4bPFKA"],["Pagoda House", "ChIJq6rONXMZ2jERJ7zYe9ZCWZU"],["Pagoda Street", "EhRQYWdvZGEgU3QsIFNpbmdhcG9yZSIuKiwKFAoSCY_tgElzGdoxEVX3fSy0Kg3KEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"],["People's Park FC", "ChIJARv2j3QZ2jERquLdsXGisU4"],["People's Pk Cplx", "ChIJUbBZdnMZ2jERwGxmDy7DZg0"],["People's Pk Ctr", "ChIJBdA3z3QZ2jERmV_pjB0ci0c"],["Yue Hwa Bldg (Nam Tin)", "ChIJV1DConQZ2jER44wCQOW9now"]],
+        "Picture": ["https://i.imgur.com/5vMFeSF.png"]
+    },
+
+    "ne5": {
+        "Attractions": [["Clarke Quay", "ChIJnXwAOKAZ2jERAs-MHs1aDgI"],["Clarke Quay Jetty", "ChIJ4ddWE6AZ2jERsWZK8-xeBaE"],["G-MAX Reverse Bungy", "ChIJKSw8ep8Z2jERq02DQye5Hv0"],["GX-5 Xtreme Swing", "ChIJh1oKRKAZ2jERL8youMF2lPY"],["Liang Court Jetty", ""],["Riverside Pt Jetty", "ChIJIyHR_58Z2jERGs8ou1UQWKg"]],
+        "Community Facilities": [["Central Fire Stn/ Civil Defence Heritage Gallery", "ChIJ6xWwP6EZ2jERsBColKPEvrQ"],["Former Thong Chai Medical Institution", "ChIJoVtyzwoZ2jERnVuPZ_d9whM"],["Kreta Ayer NPP", "ChIJuR8BAwsZ2jERWQBgH9OokCw"]],
+        "Historical Landmark": [["Coleman Bridge", "ChIJL4Q6iaAZ2jERic-_jhl73yQ"],["Elgin Bridge", "ChIJv1c5CwoZ2jERsqUqh64A1TQ"],["H.S. Of Omar Kampong Malacca Mosque", ""],["Ord Bridge", "ChIJ3bo9m58Z2jER4oFPCBoceZA"],["Read Bridge (Malacca Bridge)", "ChIJsV8nAaAZ2jERz9cGea4WVfI"]],
+        "Hotels & Hostels": [["5footway.inn Project Boat Quay", "ChIJ0ZxlEwoZ2jERbYAeFEdwqSw"],["Blissful Loft", "ChIJ6bwu8goZ2jERBAZg8D8V6m8"],["City Backpackers @ Clarke Quay", "ChIJmxO78woZ2jERnRSWE_Gh9ZM"],["Fragrance Hotel - Riverside", ""],
+        ["Hotel Clover 5 Hongkong St", "ChIJEa8gWAoZ2jEROVPAdmJsGT4"],["Hotel Clover The Arts", "ChIJpRNRWgoZ2jERBJQ6xOXF8RE"],
+        ["Jayleen 1918 Hotel", "ChIJ5_OtXwoZ2jERynI_T8NyhLM"],["Park Regis S'pore", "ChIJwas0SnUZ2jERZ5k9uwMQX1I"],["Park Royal Collection Pickering", "ChIJo8cvPgsZ2jERzUp0v52SdI0"],["Swissotel Merchant Court", "ChIJjS4cuwoZ2jERCTeN-k9LUIE"]],
+        "Offices & Residences": [["APBC Offices Bldg", ""],["Central Square", "ChIJr4AranUZ2jERDYNqQLv3NlQ"],["CMO Bldg", "ChIJceGZXAoZ2jER2bXO8UTjXZs"],
+        ["Dynasty Travel Hub", "ChIJT8LhjgoZ2jERAU8koAhDIvA"],["Golden Castle Bldg", "ChIJdSbHVAoZ2jERpkMh92PAywU"],["Greatwood Bldg", "ChIJNaXjXQoZ2jERIHZTAMkBRoM"],
+        ["High St Ctr", "ChIJxaePlaAZ2jER1J4n58uKRNs"],["High St Plaza", "ChIJc7n4v6AZ2jERuYd92Zhs68A"],["IFPAS Bldg", "ChIJV9F_WAoZ2jERD6f23_DhFA8"],
+        ["Juta Bldg", "ChIJAQDQfQoZ2jERNewtoFa1UsU"],["Kingly Bldg", "ChIJPV7pQgoZ2jERrOdoWmSanLQ"],["Leung Kai Fook Bldg", "ChIJ1R0vqwsZ2jERa-1wuKeDLI4"],
+        ["Lew Bldg", "ChIJw7g25AoZ2jERjdBIFVnQJSo"],["Merchant Sq", "ChIJ056mXnUZ2jERnHWJA4PRqXU"],["Merchants Bldg", "ChIJk5KIVAoZ2jERQgs2X-bauRc"],
+        ["Ministry Of Manpower Bldg", "ChIJI_jKL3UZ2jER73dXUTStmhs"],["MMI Bldg", "ChIJuQCWVQoZ2jERqxiiwZST1w8"],["One George St", "ChIJq6oapwsZ2jERj9w80n6M7lg"],["One Upp Pickering", "ChIJWQ2kEgsZ2jERoHTT4VDTAVI"],
+        ["Pickering Operations Cplx", "ChIJ8VI2mAsZ2jERdlJDXxH2PbU"],["Solarise Bldg", ""],["TET Bldg", "ChIJU9jAVwoZ2jER2xyEnuUIDSU"],["The Co Bldg (U/C)", ""],
+        ["The Novelty Hse", "ChIJq9IH9AoZ2jERKNScZLAE2EQ"],["The Riverside Piazza", "ChIJ1bCBKtEZ2jERQ13yJsL72bU"],["The Treasury", "ChIJYSnl2qAZ2jERrQ3cGPVuSoc"],
+        ["TKH Bldg", "ChIJp78x0GoZ2jERwBNgldQn9m4"],["Wong Shee Fun Bldg", "ChIJ6SmtVQoZ2jERvZ9xZ1OMAFQ"]],
+        "Parks & Gardens": [["Hong Lim Pk", "ChIJ____GwsZ2jERGJbKgdy3fOo"],["Read Cres Pk", "ChIJq7N-rQoZ2jERPsJ6Hq_AErk"],["The Foothills Fort Canning Pk", "ChIJvWiqxaEZ2jERwCs1LMP-Yj0"]],
+        "Places of Worship": [["Masjid Omar Kampong Melaka", "ChIJnyE2NnUZ2jERklFJj-63LC4"],["Tan Si Chong Su (Po Chiak Keng Tp)", "ChIJF09k2J8Z2jERQE5GyFE-aT4"]],
+        "Schools & Public Institutions": [["Ministry Of Manpower Bldg", "ChIJI_jKL3UZ2jER73dXUTStmhs"],["Parliament Hse", "ChIJHdfUq6AZ2jER3KFO3DZmou0"],["The Treasury", "ChIJYSnl2qAZ2jERrQ3cGPVuSoc"]],
+        "Shopping & Dining": [["Havelock 2", "ChIJyQ8DgWIZ2jERJyuRh581sco"],["Riverside Point", "ChIJleHRO_wZ2jERDtVEaVmZLxw"], ["The Central", "ChIJ18C-mwoZ2jERlpSawcucgk0"],["The Riverwalk", "ChIJkz0XeAoZ2jERBMX4yyGQbgQ"]],
+        "Picture": ["https://i.imgur.com/N39s3uP.png"]
+    },
+
+    "ne7": {
+        "Attractions": [["Land Transport Gallery", "ChIJ1fNekcAZ2jERh7BZtZcL19c"],["Little India", "ChIJpeUFx7gZ2jERm6KzXQVkAVk"]],
+        "Community Facilities": [["KK Women's And Children's Hospital", "ChIJH5IKscEZ2jERYTIB8wGuMoM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Ibis Budget Singapore Selegie", "ChIJObxCsL4Z2jERF5ZUjJPyIcg"],["G4 Station Backpackers Hostel", "ChIJfS7Qx74Z2jERQ0s7sK7uuhM"],
+        ["Grand Imperial Hotel", ""],["Hangout @ Mt. Emily", "ChIJ5eazgL4Z2jER5V-cJY0iA5k"],["Hotel 81 - Selegie", "ChIJH6VSr74Z2jERaJEBPLssVYE"],
+        ["Park 22 Hotel Little India", "ChIJM7ZHq7gZ2jERK1JL3gQj9vY"],["Santa Grand Hotel Little India", "ChIJ2R_ffccZ2jERYo7-aSYBYjU"]],
+        "Offices & Residences": [["Alfa Ctr", "ChIJ9Rp_hr8Z2jERkz6ehcE3NmQ"],["Boon Siew Bldg", "ChIJMSQxbvoZ2jERTLF9j0hCaHk"],
+        ["Rex Hse", "ChIJ6-mndb8Z2jERtfANXZsMlmQ"],["Selegie Ctr", "ChIJU338w74Z2jERpmfdPnVgSaM"],["Tan Kong Tien Bldg", "ChIJa4iQnL8Z2jERNoy0UqmTY9k"]],
+        "Parks & Gardens": [["Mt Emily Pk", "ChIJAWPFX74Z2jERMNOp5yKm234"]],
+        "Places of Worship": [["Covenant Presby Ch", "ChIJRdK3PccZ2jER57F9bXTsHYY"],["Foochow Meth Ch", "ChIJyXgVP8cZ2jER0PESspc3QF4"],["Gurdwara Sri Guru Singh Sabha", ""],
+        ["S'pore Gujarati Bhavan", ""],["Shree Lakshmi Narayan Temple", "ChIJm24AVscZ2jERT-pXGYQbg_E"],["Sri Veerama Kaliamman Temple", "ChIJ8zLPY8cZ2jEROE-GeGiS7GQ"],
+        ["The Christian Assembly Hall", "ChIJ97EQIrwZ2jERiBns3zz__tQ"]],
+        "Schools & Public Institutions": [["Land Transport Authority", "ChIJT-O49cAZ2jER9NDnrDyQ5hQ"],["Land Transport Gallery", "ChIJ1fNekcAZ2jERh7BZtZcL19c"],["LTA Academy", "ChIJT-O49cAZ2jER9NDnrDyQ5hQ"]],
+        "Shopping & Dining": [["Mackenzie Motor Vehicles Trading Ctr", "ChIJMc8r574Z2jERCGZV4EII4TM"],["Zhujiao Ctr (Tekka Market)", "ChIJT5ZbR_gZ2jERp0bAffbr6-g"]],
+        "Picture": ["https://i.imgur.com/aa6SZZb.png"]
+    },
+
+    "ne8": {
+        "Attractions": [["Museum Of Shanghai Toys", ""]],
+        "Community Facilities": [["Cairnhill NPP", "ChIJPb7KbcQZ2jERJw499Z3MRMg"],["Civil Service Club @ Tessensohn", "ChIJoeHVis8Z2jERUgqAB-z3CLQ"],["Connexion", "ChIJueQF0MUZ2jERW7NbEgs-_A4"],
+        ["Farrer Pk Fields", "ChIJr19tFcEZ2jERhkxQ4JIkxsw"],["Farrer Pk Tennis Ctr", "ChIJr19tFcEZ2jER-zH3GrwOljo"],["Farrer Sq", "ChIJYbeadcYZ2jERLLahemFUN9E"],
+        ["Lembu Rd O/S", "ChIJ40ocMLAZ2jERNDQJ5py1gIw"],["Pek Kio CC", "ChIJ55REQMMZ2jERqWwBo3e9uFo"],["Rowell Rd O/S", "ChIJr7Cd1usZ2jERPoLVfvmqLmA"],
+        ["S'pore Indian Fine Arts Society", "ChIJnzMhTcQZ2jER_CO_ix4r9-U"],["The Hindu Ctr", "ChIJbVaSRcQZ2jERC2eI-V6cyyw"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["ABC Premium Hostel", "ChIJiyr9NcQZ2jERB53w98_9Vhw"],["Aqueen Hotel Kitchener", "ChIJO0gKQsgZ2jERQYDFOxWhDig"],
+        ["Arianna Hotel", "ChIJGcGX3ccZ2jERSfxfEjCZOwE"],["Asia Star Hotel", "ChIJg9cfZ4YZ2jERklHdrtLplK0"],["Asphodel Inn", "ChIJ4WCuhM8Z2jERlbOajVtnJ2Y"],
+        ["Broadway Hotel", "ChIJaayhILkZ2jER_E0X70FdzSM"],["Classique Hotel", "ChIJB3vSXMgZ2jERLjx4pOi6IGA"],["Cultural Hotel", ""],
+        ["Fernloft Hostel (Little India)", "ChIJl-Uv9sgZ2jERN-PAEk_XM8g"],["Fortuna Hotel", "ChIJH6VIbcYZ2jERzkPoIUQBNv8"],["Golden Royal Hotel", "ChIJVVVVxccZ2jERCXtD9jR9Ntk"],
+        ["Grand C Hotel", "ChIJ9a_LKcYZ2jEROpGj7tw1_qQ"],["Marrison @ Desker", "ChIJtSx_wscZ2jERt33mHlcMvFM"],["New Society Backpackers' Hotel", "ChIJQQNb9sgZ2jERcIyuYTwKg9w"],
+        ["Parkroyal On Kitchener Rd", "ChIJxb_xL8YZ2jERVFvEcbhwuaM"],["Penta Hotel", "ChIJj1FmX8YZ2jERWCw2QLTBY1c"],["Royal India Hotel", "ChIJt26_3McZ2jERkgzLgw1uu20"],
+        ["Tai Hoe Hotel", "ChIJd8WPgcgZ2jERzw_4yNw5c8s"],["The Claremont Hotel", "ChIJlYGPasYZ2jER6Xg0Y1UTGu4"],["Travellers Inn", ""],["Tresor Tavern Hostel", ""]],
+        "Offices & Residences": [["Allenby Hse", "ChIJfVMJ4MgZ2jERychxyp-3tB0"],["Chin Che Bldg", ""],["CRU Ctr", ""],["Foochow Bldg", "ChIJU_4HRsgZ2jERsP9cU8V0Zp8"],
+        ["Futsing Association Bldg", "ChIJTw_f_cgZ2jERv76kvp0-rL8"],["Goodland Bldg", "ChIJiy2cVsYZ2jERSSwzfMBsoJA"],["Ho Tat Song Bldg", ""],
+        ["Owen 88", "ChIJ1c0jNcQZ2jER6g2dnuoWYj8"],["Premier Security Bldg", "ChIJj0ocgMgZ2jER8ehkDtJe9Nk"],["Reliance Bldg", "ChIJLc2jK8kZ2jERKUzXs02mkw0"],
+        ["SPA Bldg", "ChIJlcLf0scZ2jEREPleak6_B9s"],["SRG Bldg", ""],["The Citron Residences", "ChIJ2UYLa3oZ2jERRcGfsUXeTz8"],
+        ["Trads Bldg", "ChIJj7IZrMUZ2jERcfWXOsz-cEM"],["Verdun Hse", "ChIJKZMh1McZ2jERlqO1WqeS12U"],["Wellness Bldg", "ChIJD6mKm8cZ2jERVrDDm6sM_nY"],["Wu De Bldg", "ChIJYfYlE88Z2jERiJUvQqzd8jM"]],
+        "Parks & Gardens": [["City Green", "ChIJEyJMGsYZ2jERdc426SOr4a4"]],
+        "Places of Worship": [["Hock Siew Tong Tp", "ChIJ43G0f88Z2jERikfaLFOwoAc"],["Jiang De Tang Tp", "ChIJ9QgLJcUZ2jERp0jjSrpc2Us"],
+        ["Leong San See Tp", "ChIJM3Jlhs8Z2jERtlqD6NV8xgg"],["Masjid Anggulia", "ChIJ2dsoTsYZ2jERPIZLxHv7Vtg"],
+        ["Qing De Gong Tp", ""],["Sakaya Muni Buddha Gaya Tp", "ChIJSwVgeM8Z2jERfldmTAVtnyA"],["Sri Srinivasa Perumal Tp", "ChIJS4JLYM8Z2jERUetgLiSW_Q8"]],
+        "Schools & Public Institutions": [["Farrer Pk Pri Sch", "ChIJq6qqGsQZ2jERYhC7USm6L2s"],["Khalsa Kindergarten", "ChIJHdr1Hs8Z2jERUJOHVmiwQ7o"]],
+        "Shopping & Dining": [["City Sq Mall", "ChIJZ1omp8gZ2jERgDUAb_hBKLY"],["Jln Besar Plaza", "ChIJLeCG0eEZ2jERg37fJ0lxQiI"],
+        ["Mustafa Ctr", "ChIJo7SpNMYZ2jER15JNmTE6Ne0"],["Serangoon Plaza", ""]],
+        "Picture": ["https://i.imgur.com/vPJKBTx.png"]
+    },
+
+    "ne9": {
+        "Attractions": [],
+        "Community Facilities": [["Boon Keng Fire Post", "ChIJG5vbSM4Z2jERZEVNKCoDI1Y"],["Kallang CC", "ChIJVVVVBdIZ2jERvblaxcflgVc"],["Kallang NPP", "ChIJ4Sbua9EZ2jERFbqfWk8XWPY"],["Kwong Wai Shiu Hosp & Nursing Home", "ChIJf5M91dEZ2jERteS9fG4Qhc0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Gap Year Hostel", "ChIJmWlfS84Z2jER_e79dFy8ahg"],["Michaels Backpackers", "ChIJx554984Z2jERXxS0UfxJh9I"],["Moni Gallery Hostel", "ChIJKQq2s88Z2jERDzaZvDv_cos"],["Rucksack Inn @ Lavender", "ChIJIwsA9M4Z2jERMd243JM6HjU"],["The Hive Singapore Hostel", "ChIJwUZKyM8Z2jERxHcfGkuJ2EQ"]],
+        "Offices & Residences": [["Genova Bldg", "ChIJ7VlNdc4Z2jERS5i54Wha9dg"],["Hyflux Innovation Ctr", "ChIJAQBk7dEZ2jER6hnW3y8hXvs"],["I Devt Bldg", "ChIJt8AaCs4Z2jEREfQPHDUzD20"],["Kian Hua Bldg", "ChIJyf5nVxUEBBARMIFy7FTHMog"],["Micron Semiconductor Asia", "ChIJy9ciXNIZ2jERQOPcYB-lPU0"],["Min Ghee Bldg", "ChIJrR53J_IZ2jERC3-Qe8gB10I"]],
+        "Parks & Gardens": [["St. George's Pk", "ChIJx7oG0yIZ2jERLf_GCmKA3NY"],["Whampoa Pk Connector", ""]],
+        "Places of Worship": [["Beo San Hood Chor Tp", "ChIJMznOwc8Z2jERnTDg0b9lgs8"],["Central Sikh Tp", "ChIJKaBwu9EZ2jERPvVKw_xMzVs"]],
+        "Schools & Public Institutions": [["Bendemeer Primary School", "ChIJTwvxgdMZ2jERFkmolswEuI8"], ["Hong Wen School", "ChIJP7EphrYZ2jERRp2LWDUR4CA"]],
+        "Shopping & Dining": [["Bendemeer Shopping Centre", "ChIJB4Kz8rUZ2jERnPoOEQ-BomY"],["Gain City", "ChIJoeApXtEZ2jEROmkaafeSC40"],["Luzerne", "ChIJS61E2KcZ2jERv1iUo9uFX0A"]],
+        "Picture": ["https://i.imgur.com/rYluQfD.png"]
+    },
+
+    "ne10": {
+        "Attractions": [],
+        "Community Facilities": [["Potong Pasir CC", "ChIJjVfWj3gX2jERHP9kSEkgmOM"],["Potong Pasir NPP", "ChIJnW6fjngX2jER7PtUlfVjcr8"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["50@Macpherson", "ChIJWWj-WoAX2jERdne_mvV6eIk"],["Poiz Residences", "ChIJa5M54XgX2jERPC_eiOpVbWY"],["The Venue Residences", "ChIJf5NdyIEX2jERO7flrTWRf7Q"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Ch Of The Ascension", "ChIJeZCmEH8X2jERZUaYW3F_5qo"],["Chapel Of The Resurrection", "ChIJvbR4H38X2jERQ2HqTznLKvc"],["Diocesan Ctr Bldg", "ChIJUXcYGn8X2jERGqR1lox0eH4"],["Masjid Alkaff Upp Serangoon", "ChIJg8KrUYIX2jER5Euj2K9TvWM"],["Sri Siva Durga Tp", "ChIJ3waWx3gX2jER1ewFTLu_zsk"]],
+        "Schools & Public Institutions": [["Cedar Girls' Sec Sch", "ChIJOWsoiYQX2jER9tBMhXyx8zA"], ["Cedar Pri Sch", "ChIJ585BLYUX2jERM1DFFqnFSm8"], ["St. Andrew's Junior College", "ChIJuxPYdnkX2jERGZ5cvcNOvJs"],["St. Andrew's Junior Sch", "ChIJJV7b1XgX2jEROHq3MAeWcLU"], ["St. Andrew's Sec Sch", "ChIJUyNUM38X2jERxwmryew2_9Q"]],
+        "Shopping & Dining": [["Poiz Centre", "ChIJV2n_PgoX2jERwpy8Mk8mhaY"],["The Venue Shoppes", "ChIJaw8Vz4EX2jERAPULtWTK_Go"]],
+        "Picture": ["https://i.imgur.com/2bMJ7t4.png"]
+    },
+
+    "ne11": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["S'pore Power Trg Inst", "ChIJdYWJFZ4X2jER40OCangxD2Q"],["Stamford American Intl Sch", "ChIJv_ZCXw4X2jERExsN529WJOQ"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/hFlqiAH.png"]
+    },
+
+    "ne12": {
+        "Attractions": [],
+        "Community Facilities": [["Braddell Heights Fire Post", "ChIJNbGih6YX2jER4duW-aAWzpM"],["Braddell Hts CC", "ChIJV-vzmikX2jERtLf26OLoYN8"],["Braddell Hts Community Hub", "ChIJmQeZ9aYX2jER30weWxDGHCc"],["ECON Medicare Ctr & Nursing Home (Recreation)", "ChIJCwIq2p8X2jERreEtTOjkd7g"],["Marine Parade TC (Serangoon Office)", "ChIJCXh6SKYX2jERJsnRVNn695s"],["Serangoon Bus Interchange", "ChIJMXDlIwwX2jEREBbvhRu4HyQ"],["Serangoon NPC", "ChIJo_ADBqcX2jERaelpKPuk7_0"],["Serangoon Public Library", "ChIJxyAVvKYX2jERaDNkoSoZUEs"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Serangoon Ctrl", "EhxTZXJhbmdvb24gQ2VudHJhbCwgU2luZ2Fwb3JlIi4qLAoUChIJ-ZXdgqYX2jERguSk0fWfyEcSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Paya Lebar Methodist Church", "ChIJNedmqaUX2jEREIiAqbCYIYo"]],
+        "Schools & Public Institutions": [["Fudan Xinsida Chinese Institute", "ChIJQW9lGaQX2jERIVJOIJCYgdU"],["St. Gabriel's Sec Sch", "ChIJyVZuRqIX2jERnq6uQOp7hc0"],["Zhonghua Sec Sch", "ChIJjUsZsaAX2jERhzPkFdishq"]],
+        "Shopping & Dining": [["nex", "ChIJeRqAraYX2jERQpyIAXSU1SU"]],
+        "Picture": ["https://i.imgur.com/ytioYse.png"]
+    },
+
+    "ne13": {
+        "Attractions": [],
+        "Community Facilities": [["Kovan Sports Ctr", "ChIJeT86M7EX2jERHcMzaGlulwE"],["Paya Lebar Kovan CC", "ChIJjZmLx7YX2jERHvqG7bqaBpE"],["The Helping Hand", "ChIJ-Rj0orEX2jER7xIiakV9FqU"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Champagnat House", "ChIJZQIxMLIX2jER9KzKWAO0WHg"],["Simon Plaza", "ChIJw6v2dKQX2jER0ynCMrlGXYk"]],
+        "Parks & Gardens": [["Richards Ave Park", "ChIJfUZqUrIX2jERKObwx9vfNqA"]],
+        "Places of Worship": [["Glad Tidings Church", "ChIJgQdU5bQX2jERwS4XOBwsyvg"],["Kwan Siang Tng Bu Temple", ""],["Lin Chee Cheng Sia Temple", "ChIJVVVVTbIX2jERno_JA80kNUc"],["Phok Kiu Siang Tng Temple", "ChIJK04nQ7MX2jERDP6fwj9faH8"],["St. Paul's Church", "ChIJZTOOnbEX2jER8gzTGioJR8o"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Heartland Mall-Kovan", "ChIJ1V9s-bMX2jERQL59mMdHw7I"],["Kovan Mkt & FC", ""],["Simon Plaza", "ChIJw6v2dKQX2jER0ynCMrlGXYk"]],
+        "Picture": ["https://i.imgur.com/mYGtNzi.png"]
+    },
+
+    "ne14": {
+        "Attractions": [],
+        "Community Facilities": [["Aljunied-Hougang TC (Main Office)", "ChIJe3hckkoW2jERXF2etoz_RAY"],["Cheng San Public Lib", "ChIJ____lzcW2jERaMtIA3adoKc"],["Hougang HDB Branch Office", "ChIJpSkolzcW2jERnGWwSNacAUM"],["Hougang Polyclinic", "ChIJjxmhpEkW2jERQycW9teOLRc"],["Punggol CC", "ChIJxZko9l0X2jERxiYyThifaTs"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Hougang Ctrl", "EhpIb3VnYW5nIENlbnRyYWwsIFNpbmdhcG9yZSIuKiwKFAoSCcUivjM2FtoxEePie4UJ_eqZEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"],["The Midtown", "ChIJqTFk4TYW2jERZ25NvywuXMY"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Holy Innocents' High Sch", "ChIJT25XPzcW2jERBBvuNTGjVno"],["Holy Innocents' Pri Sch", "ChIJac8oOvAW2jERTa3TBXSRrts"],["Montfort Junior Sch", "ChIJaZgcr0cW2jERlouvKKLEfFI"],["Montfort Sec Sch", "ChIJW13e10cW2jERLHgvnIRAmjs"]],
+        "Shopping & Dining": [["Hougang Mall", "ChIJTzOjnDcW2jERHyoyj5LFmQ4"],["Kang Kar Mall", "ChIJI0x7aQsX2jERpKnjZ6nfvjQ"],["The Midtown", "ChIJqTFk4TYW2jERZ25NvywuXMY"]],
+        "Picture": ["https://i.imgur.com/FwQNFQm.png"]
+    },
+
+    "ne15": {
+        "Attractions": [],
+        "Community Facilities": [["Sengkang Fire Stn", "ChIJOdD_Xj4W2jERaHQDni1x4oQ"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Compassvale Ancilla Pk", "ChIJnbelJhUW2jERyV70BCSlilQ"]],
+        "Places of Worship": [["Masjid Al-Mawaddah", "ChIJjxyKj9MQ2jERAZtNj46JHgA"],["Pu Ti Bu Tp", "ChIJ0dJUej4W2jERpvI9txrzxEo"]],
+        "Schools & Public Institutions": [["North Vista Pri Sch", "ChIJPfi59RUW2jER10kPK44FGtU"],["North Vista Sec Sch", "ChIJ5Szukj0W2jERQ9wG42kfcEM"],["Palm View Pri Sch", "ChIJGRxIxmoW2jERJAN0jt53xX8"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/Mr53OaX.png"]
+    },
+
+    "ne16": {
+        "Attractions": [],
+        "Community Facilities": [["Sengkang Bus Interchange", "ChIJ_VEF0lcX2jER_3M1H97XqjE"],["Sengkang CC", "ChIJRVcadg0W2jERQLUnN_6QBCw"],["Sengkang Community Hub", "ChIJk1SbnQ0W2jERwGPH5MMn68Y"],["Sengkang NPC", "ChIJlwnHnA0W2jERHAXX8Zgb4ME"],["Sengkang Polyclinic", "ChIJB9iPfg0W2jERGGrB_OlJLX8"],["Sengkang Public Library", "ChIJc5DHexIW2jERw5Y42SBlW9Q"],["Thong Chai Medical Instn - Seng Kang", "ChIJlwnHnA0W2jER-Tvax75SRR0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Sengkang Ctrl", "EhtTZW5na2FuZyBDZW50cmFsLCBTaW5nYXBvcmUiLiosChQKEgmvgyUEFRbaMRHJevjFLuOdxBIUChIJdZOLiiMR2jERxPWrUs9peIg"]],
+        "Parks & Gardens": [["Sengkang Sculpture Pk", "ChIJPTQ6JgwW2jERCqBz2mBg-zk"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Compassvale Pri Sch", "ChIJezOWjg4W2jERhHhT9rwRPzU"]],
+        "Shopping & Dining": [["Compass One", "ChIJy5hMcg8X2jERZ88iA4l4aBY"],["Kopitiam Sq", "ChIJXyvahRIW2jERDi2gmslkVE8"]],
+        "Picture": ["https://i.imgur.com/5E4k08B.png"]
+    },
+
+    "ne17": {
+        "Attractions": [],
+        "Community Facilities": [["Punggol Bus Interchange", "ChIJO_j-KOMV2jERLn_gOzF3QXk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Mjd Al-Islah", "ChIJk7G-oOIV2jERvvG2AAaqpyw"]],
+        "Schools & Public Institutions": [["Punggol View Pri Sch", "ChIJU59Ij_wV2jERKi4TI1acUpY"]],
+        "Shopping & Dining": [["Waterway Point", "ChIJLTCPpuQV2jERYMYF_2uprDE"]],
+        "Picture": ["https://i.imgur.com/zRIl0VE.png"]
+    },
+
+    "cc2": {
+        "Attractions": [["8Q", "ChIJB0fevaQZ2jERCSQzB8iAY70"],["National Museum Of Singapore", "ChIJD1u-EaMZ2jERaLhNfFkR45I"],["Peranakan Museum", "ChIJWZX956MZ2jERIGdnbs_SgMw"],["Singapore Art Museum", "ChIJW8o1nqQZ2jERynZN2M1BODM"]],
+        "Community Facilities": [["Bras Basah Cplx", "ChIJtxaD8KQZ2jERgCmvEt9PdiU"],["China Cultural Centre", "ChIJay7tyaQZ2jERWNrDcsNLV_w"],["Central Public Library", "ChIJJfVEO6UZ2jERq7ZasSTiEgg"],
+        ["Dance Ensemble S'pore", "ChIJzczqUbsZ2jERiYK-7Iqz7_w"],["Drama Centre", "ChIJqx4LJqUZ2jERP7htHLwGIag"],["National Design Centre", "ChIJ_0OT1boZ2jERNo5iqK_Rk4Y"],
+        ["PoMo", "ChIJh1pNjbwZ2jERjYcoTtp_CFk"],["Singapore Calligraphy Centre", "ChIJA6BbU7sZ2jER6ssIPYpMFEE"],["Selegie Arts Centre", "ChIJ9_7nI7cZ2jERwa3AfgzAbOk"],["The Substation", "ChIJ--i46aMZ2jER3zhOrf1hpFM"]],
+        "Historical Landmark": [["H.S. of Birthplace of The Boys' Brigade In Singapore", ""],["H.S. of Gate of Hope", ""],
+        ["H.S. of Kempeitai East District Branch", "ChIJ_WQSl7EZ2jERRTEeSgfTLRA"],["H.S. of Raffles Girls' Sch", ""],["H.S. of United Chinese Library", "ChIJbXFv6aMZ2jERRnWV4WKXp2Q"],
+        ["Keramat Iskandar Syah", ""],["Vanguard Bldg", "ChIJh8SH8qMZ2jERLcCiNSU6GFc"]],
+        "Hotels & Hostels": [["Bayview Hotel S'pore", "ChIJfamXS4MZ2jERUORyIzUogYU"],["Carlton Hotel", "ChIJoeV2WKQZ2jERvqFd1_XG4jg"],["Hotel Bencoolen", "ChIJqytKobwZ2jER1RlaYLYwXec"],
+        ["Hotel Grand Pacific", "ChIJg-3x6aQZ2jERpqJFaDNkabQ"],["Hotel Royal @ Queens", "ChIJoSIklaQZ2jERgKc2lL92rAA"],["Oxford Hotel", "ChIJ-ZXjsKQZ2jERiW-kI2l6wpg"],
+        ["Rendezvous Grand Hotel S'pore", "ChIJPevdorwZ2jER-r7lLFI-Poc"],["Strand Hotel", "ChIJF-8-srwZ2jERhn9mpTQylp4"],["V Hotel Bencoolen", "ChIJ2wX5qLwZ2jER6kEMQq6qcUs"],["Victoria Hotel", "ChIJL7IA6aQZ2jERqEEWKMAuenU"]],
+        "Offices & Residences": [["Bencoolen House", "ChIJXx2Nr7wZ2jERuInFygZ4d10"],["BOC Plaza", "ChIJ5Tp4O7sZ2jERog2xHTwf2RQ"],["Bylands Bldg", "ChIJISMtG9gZ2jER1kJQM92x3vk"],
+        ["GSM Bldg", "ChIJG6OSPbsZ2jERCrl7oaTgJdc"],["KH Kea Bldg", "ChIJJTvF52UZ2jERJ_A1Vl5OVbU"],["Manulife Centre", "ChIJ-1viUKMZ2jER7etB1DMaCzc"],
+        ["NTUC Income Ctr", "ChIJM7lkuLwZ2jERCAAr9FWquP8"],["NTUC Trade Union House / LearningHub", "ChIJPQ7ej6QZ2jERvyyQtm-pRPQ"],["Odeon Twrs", "ChIJm_e8Du0Z2jERm2rpafpQoHs"],
+        ["Prinsep Pl", "ChIJ0chGlrwZ2jERWy923QH0_F8"],["S'pore Council Of Women's Organization Ctr", "ChIJj6qoRrsZ2jERsMOrFMUSXk8"],["Siakson Bldg", "ChIJVaxxHaUZ2jERuxoo-8z6Xw0"],
+        ["Tan Chong Tower", "ChIJQ9Inz6QZ2jERp7I__5JGoTc"]],
+        "Parks & Gardens": [["Stamford Green", "ChIJkX8Jn6MZ2jERL3CyBt8H9zc"]],
+        "Places of Worship": [["Bible House", "ChIJi0s1GH8X2jERelvmtj5fQEE"],["Cathedral Of The Good Shepherd", "ChIJd1u7YqQZ2jERreK_g33tkIg"], ["Catholic Centre", "ChIJScWvsqQZ2jEREey2yUnFbV4"],
+        ["Church Of Saints Peter & Paul", "ChIJH5zWr6QZ2jEReT47mH8mgVA"],["Gospel Assembly Ch", ""],["Grace (SCC) Ch", "ChIJkUH0xaQZ2jERNM1uMH5ImSQ"],
+        ["Kum Yan Meth Ch", "ChIJp85ulKQZ2jERbD4nP9gbPgQ"],["Maghain Aboth Synagogue", "ChIJc3Wuq6QZ2jERYH1Op8S-DL0"],["Masjid Bencoolen", "ChIJa39LprwZ2jERSc3XYzYKTUg"],["St. Joseph's Church", "ChIJnaOoLLsZ2jER5wDxYYi6Rl4"]],
+        "Schools & Public Institutions": [["NAFA Campus 1", "ChIJfcHMb7sZ2jERc49syyUVZAs"],["NAFA Campus 2", "ChIJyVAUZrsZ2jERler8onFpwag"],["NAFA Campus 3", "ChIJ0VYDmbsZ2jERQsH9QvXPK_E"],
+        ["NAFA Campus V", "ChIJW_YE0aQZ2jERBoqaTJP9A6w"],["National Library Board", "ChIJKaGsJKUZ2jERxa8yhKrdPfI"],["Registry Of Marriages", "ChIJaTBs16MZ2jERtM2tLXzjjyU"],
+        ["S'pore Management University", "ChIJGddBg6MZ2jERACsxW7Ovm_4"]],
+        "Shopping & Dining": [["Parklane Shopping Mall", "ChIJ77IWi94Z2jERf9Jx6rdK8O0"],["Stamford Court", "ChIJvcww8aMZ2jERk26KU8oktC0"],
+        ["Sunshine Plaza", "ChIJ8SlfersZ2jERBFr9KkRI4oA"],["Waterloo Centre", "ChIJ5b9USLsZ2jERLHiICrHNYfY"]],
+        "Picture": ["https://i.imgur.com/N8kHaPQ.png"]
+    },
+
+    "cc3": {
+        "Attractions": [["Esplanade - Theatres On The Bay", "ChIJSeUa7KcZ2jERNVg2CvmlVbk"],["Marina Bayfront", "ChIJxRSmIrkZ2jERg7eg9RvIhu4"],["Mint Museum Of Toys", "ChIJW7B7zRIZ2jERINTI_uV1O-A"]],
+        "Community Facilities": [["Library @ Esplanade", "ChIJVx1N8KcZ2jERVo5J9pA7JMI"]],
+        "Historical Landmark": [["Civilian War Memorial", "ChIJw10lcqYZ2jERTvrSjFnHjts"],["War Memorial Pk", "ChIJx-khbKYZ2jERPU7H9VFoUlg"]],
+        "Hotels & Hostels": [["Adonis Hotel", "ChIJzYo2cqUZ2jERNK5di9Ug7GU"],["JW Marriott Hotel Singapore South Beach", "ChIJoUuF-qUZ2jERb2BhLN6CcZQ"],["Marina Mandarin", "ChIJ-czABaYZ2jERMjZvu9ZINys"],["Naumi Hotel", "ChIJha8gn6UZ2jERGvxowvZkPXs"],["Raffles Hotel Singapore", "ChIJwUTKu6UZ2jERwt5ctkU4f2Q"]],
+        "Offices & Residences": [["An Chuan Bldg", "ChIJXxBcc6UZ2jERUEHUd7TI9SY"],["Beach Ctr", "ChIJVY_8nKUZ2jERBNXMo9cMpZ4"],["Evershine & Century Complex", "ChIJtRoAe6UZ2jER9htDctGskbQ"],["Junxin Bldg", ""],["Kheng Chiu Bldg", "ChIJG7mXe6UZ2jERItLB7RRTCak"],["Lubritrade Bldg", "ChIJF4_oEaUZ2jERq7-yGfDsnJo"],["Marketing Inst Of S'pore", "ChIJM7lkuLwZ2jER6lYu7lvGJB8"],["One Raffles Link", "ChIJfe-eJaYZ2jERFROq75pvoqc"],["South Beach Tower", "ChIJ5d4egK8Z2jERU-EieyArjnY"],["Suntec Twr 5", "ChIJz0mKDm4Z2jERFx3okULOckM"],["Talib Ctr", "ChIJ56QZKzAZ2jERmNwUo8ny-9o"]],
+        "Parks & Gardens": [["Tan Kim Seng Fountain", "ChIJo2oJrqcZ2jERm5MKwpEZ2lk"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Citylink Mall", "ChIJCeMaMKYZ2jER7P0rzkEtRbE"],["Esplanade Mall", "ChIJg3Da6ssZ2jERH-1dbXrgOAE"],["Esplanade Xchange", "ChIJj1GfBaYZ2jER9VdyOe0KKcY"],["Marina Square", "ChIJ9UKUtjsZ2jER-VszUURb3LI"],["Raffles Hotel Shopping Arcade", "ChIJre7RzqUZ2jERiSpTzfJgJGE"],["Suntec S'pore Intl Convention & Exhibition Ctr", "ChIJ8yvdOK8Z2jERx1TP2rKMPtY"],["The Post", "ChIJt1BIbaUZ2jERO7kwZyqLLMw"]],
+        "Picture": ["https://i.imgur.com/axlHaHQ.png"]
+    },
+
+    "cc4": {
+        "Attractions": [["Fountain Of Wealth", "ChIJMVWhBq8Z2jERfXNX2sESxDk"],["Singapore Flyer", "ChIJzVHFNqkZ2jERboLN2YrltH8"],["The Pit Bldg", "ChIJM5PnSKoZ2jERM3ITdWLI4hc"]],
+        "Community Facilities": [["Marina Ctr Bus Terminal", "ChIJnRZLMO8Z2jERS7M3L4aOv-E"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Conrad Centennial S'pore", "ChIJD2ws16gZ2jERc-UCGfcV-eo"],["Mandarin Oriental", "ChIJt7a1YKgZ2jER1U6XOjXyMCA"],["The Pan Pacific Hotel S'pore", "ChIJsQvJ8KgZ2jER9PL5Qty0i9Y"],["The Ritz-Carlton", "ChIJOek7q6kZ2jERX8_FX0BTcq4"]],
+        "Offices & Residences": [["Centennial Twr", "ChIJmQbGM6kZ2jERinjjels42og"],["Millenia Twr", "ChIJ36OUIKkZ2jERyjP3GdiCNsE"],["Suntec Twr 1", "ChIJ20X__K4Z2jERRE8GRs-d8HE"],["Suntec Twr 2", "ChIJac4E_q4Z2jERoByV20Ox_OY"],["Suntec Twr 3", "ChIJsfZb_K4Z2jER2AByEY5aLKE"],["Suntec Twr 4", "ChIJVSrdHa8Z2jERSlTPCx1bEDE"],["Suntec Twr 5", "ChIJz0mKDm4Z2jERFx3okULOckM"]],
+        "Parks & Gardens": [["Youth Olympic Park", "ChIJs9ou2akZ2jERCq21-091JMk"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Marina Square", "ChIJ9UKUtjsZ2jER-VszUURb3LI"],["Millenia Walk", "ChIJo_z7IqkZ2jERE1tkSZmYR8o"],["Suntec City", "ChIJ20X__K4Z2jERRE8GRs-d8HE"]],
+        "Picture": ["https://i.imgur.com/1J6tgNL.png"]
+    },
+
+    "cc5": {
+        "Attractions": [["Sultan Gate", "EhZTdWx0YW4gR2F0ZSwgU2luZ2Fwb3JlIi4qLAoUChIJ-1H9FLEZ2jER31GlIfAcbRMSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Community Facilities": [["Aliwal Arts Ctr", "ChIJxesQRrEZ2jERzpjX3BIaAGc"],["Kampong Glam CC", "ChIJq6qqcrEZ2jERtJYskj9TJiA"],["St. John Hqr", "ChIJd79ZwLMZ2jERuC8Z_AQ8efU"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Destination Singapore Beach Road", "ChIJjXUsjrMZ2jERneTbTKph_-o"],["Five Stones Hostel At Beach Rd", "ChIJVXQ9VwoZ2jERJNgXSdTFN9s"],["Hotel Clover 33 Jln Sultan", "ChIJI5snXLEZ2jERGHps1qXzs34"],["Pan Pacific Serviced Suites Beach Rd", "ChIJtVjEtrEZ2jERpHnP2DeAku0"],["Park Royal On Beach Rd", "ChIJt810vrEZ2jER8ZNpC3LwLdU"],["The Pod Boutique Capsule Hotel", "ChIJv3oMC7EZ2jER2kSvNGCPTiQ"]],
+        "Offices & Residences": [["Chenn Leonn Bldg", "ChIJF76NaLEZ2jERsiHJe2nGoIg"],["The Concourse", "ChIJbR0U0bMZ2jERqrMU9z7Muyo"]],
+        "Parks & Gardens": [["Kg Glam Park", "ChIJv5k68LMZ2jERjzuL7-zzZ9s"]],
+        "Places of Worship": [["Masjid Hajjah Fatimah", "ChIJI15m97MZ2jERI3pwY4tc-1o"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["City Gate", "ChIJCfVRneYZ2jERw2hFWLvg3ts"],["Golden Mile Cplx", "ChIJaXNYf7MZ2jERkka4Xw9X3S0"],["Golden Mile FC", "ChIJ04DTdbQZ2jERFt4kBQi-E60"],["Golden Mile Twr", "ChIJaXNYf7MZ2jERlrNOvRaZTMI"],["Sultan Plaza", "ChIJ38pFVLEZ2jER0bD640NeLqs"]],
+        "Picture": ["https://i.imgur.com/JfjWmRs.png"]
+    },
+
+    "cc6": {
+        "Attractions": [],
+        "Community Facilities": [["Kallang Field", "ChIJu-i6P0YY2jERtTZmMnxxZJI"],["Kallang Practice Track", "ChIJM8r3eEgY2jERpsZo98mOyJ0"],["Kallang Theatre", "ChIJT3U3wk4Y2jERmCRw9cW9ue0"],["National Stadium", "ChIJzXv2ZkkY2jERVY85XZJtKS0"],["OCBC Aquatic Ctr", "ChIJXeRlM0oY2jER-vwZcI04k7k"],["OCBC Arena", "ChIJO9HYGkkY2jERF88ndZmK10o"],["S'pore Indoor Stadium", "ChIJUxeahk4Y2jERbNR-9Fzh2_I"],["S'pore Sports Museum", "ChIJ6TfRJUwY2jERzZlFMhLB0bA"],["SINGAPORE SPORTS HUB", "ChIJS1VVRUkY2jERZrb4Xm1Yqhk"],["Sport Singapore", "ChIJsfEbX0YY2jERWVwT6OYys3k"],["Sports Hub Library", "ChIJfXk-ok4Y2jERUpwT6Pz4kaQ"],["Water Sports Ctr", "ChIJeW5kOkwY2jERvjcAB7TfHDY"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Tanjong Rhu Suspension Bridge", "ChIJ4UjJ_E0Y2jERylpEqpAvZaI"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Sport Singapore", "ChIJsfEbX0YY2jERWVwT6OYys3k"]],
+        "Shopping & Dining": [["Kallang Wave Mall", "ChIJjQcl90sY2jER0d9ui1pFp9s"],["Leisure Park Kallang", "ChIJLd1Z2E4Y2jERUHJ7xqnUnoI"]],
+        "Picture": ["https://i.imgur.com/zlEKmJP.png"]
+    },
+
+    "cc7": {
+        "Attractions": [],
+        "Community Facilities": [["Goodman Arts Ctr", "ChIJJ3nM0UYY2jERXLcI-qydyZ0"],["Jamiyah Childrens' Home (darul Ma'wa)", "ChIJd0DbggUY2jERgtmFX7cY65s"],["Kallang Netball Ctr", "ChIJgaZg2EcY2jERs5s0ZpoHy6o"],["Kallang Squash & Tennis Ctr", "ChIJBQ991UcY2jERjKDOMV8Rqpk"],["S'pore Association For The Deaf", "ChIJvzii_0cY2jERlsoBqpgVCKY"],["S'pore Cricket Assn", "ChIJW_pvdTgY2jER4h5D4RvK46M"]],
+        "Historical Landmark": [["H.S. of S'pore Badminton Hall", "ChIJHdAUrTkY2jERStU0SLfrLC8"]],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Mountbatten Sq", "ChIJhY3zdTgY2jERCjaljCylR04"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Chen Li Presbyterian Church", "ChIJSZBIMjgY2jERkPngoUEH_Y4"]],
+        "Schools & Public Institutions": [["Hanbridge Institute", "ChIJQXQAdRMZ2jER4HSSjvJSZms"],["Mountbatten Voc Sch", ""],["S'pore Sch For The Deaf", ""]],
+        "Shopping & Dining": [["Kallang Estate Mkt & FC", "ChIJ5Vc8XkcY2jERCkeymcZzTOw"]],
+        "Picture": ["https://i.imgur.com/mqTp5s0.png"]
+    },
+
+    "cc8": {
+        "Attractions": [],
+        "Community Facilities": [["Geylang NPC", "ChIJy2sEqooX2jERQ6zE-a-spzE"],["Mountbatten CC", ""],["Mountbatten NPP", "ChIJh7sTfkAY2jERXJuMyor3foQ"],["Police Logistics Dept (Police Logistics Base)", "ChIJmyV-Aj4Y2jERjka0daqlFL4"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Geylang Pk Connector", "EiFHZXlsYW5nIFBhcmsgQ29ubmVjdG9yLCBTaW5nYXBvcmUiLiosChQKEgkHaSluTxjaMRErYueLAQF6-hIUChIJdZOLiiMR2jERxPWrUs9peIg"]],
+        "Places of Worship": [["Chin Lien Bible Seminary", "ChIJK8Js8hUY2jERUmrHu6_xqdY"]],
+        "Schools & Public Institutions": [["Broadrick Sec Sch", "ChIJgxoe5j8Y2jER-IXbEoimW5Q"],["Etonhouse Intl Sch (Broadrick)", "ChIJdbsKSEAY2jERPX327azFbns"],["Kong Hwa Sch", "ChIJxfJIYj4Y2jERZowtD673UDI"]],
+        "Shopping & Dining": [["Old Airport Road FC & Shopping Mall", "ChIJWzTvXEcY2jERvSzB8XNKKCk"]],
+        "Picture": ["https://i.imgur.com/QJxvnkE.png"]
+    },
+
+    "cc10": {
+        "Attractions": [],
+        "Community Facilities": [["MacPherson Moral and Family Service Centre", "ChIJcZGNQCEY2jERYLFwtIaRPAU"],["Macpherson NPP", "ChIJB_JaAyEY2jERrkGFzL4_Vb0"],["Public Transport Security Command", "ChIJZR15qooX2jERJYCc2gxLGkM"],["Society of Sheng Hong Welfare Services", "ChIJ____T_UX2jERbuxL8OY3BWg"],["Traffic Police", "ChIJ28DTsvQX2jERHwn0Id9BDE4"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["AZ @ Paya Lebar", "ChIJl8wStooX2jERsmF5Y4VHb3g"],["Aztech", "ChIJbfo_XfUX2jERBXBeHVNWLH4"],["Kampong Ubi Industrial Estate", "ChIJOySrrPUX2jERd5pidru6_ds"],["Lion Industrial", "ChIJEVTXjh8Y2jERtGpwsM7f7Lk"],["Oneten Paya Lebar", "ChIJdZACgh8Y2jER870GNpNDzLQ"],["Paya Ubi Industrial Park", "ChIJKX9e4h0Y2jERrqthRhniZO0"],["Ubi Techpark", "ChIJH_hnBB4Y2jERgF3OpTEVDQ4"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Cheng Hong Siang Tng Temple", "ChIJx1g55B8Y2jERepPMCT3JXII"],["Da Sheng Kong Temple", "ChIJ_URh1YoX2jERhMFDELGJD0A"],["Fang Huo Yuan Temple", "ChIJE_uX1YoX2jERQ5ZSKz92Olc"],["Kim Hong Temple", "ChIJixcU8B8Y2jERorZaJDGy944"],["Seng Hong Temple", "ChIJD0JQ_R8Y2jERQ9b0vxXtpjQ"],["Tien Sen Tua Temple", "ChIJwbVm0ooX2jERQfjwtEIAU4M"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Circuit Rd Market and Food Centre", "ChIJWyvlS4oX2jER59oh3wlADJc"]],
+        "Picture": ["https://i.imgur.com/jGpnIpS.png"]
+    },
+
+    "cc11": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Asiawide Ind Bldg", "ChIJIwCc0pgX2jERNU7z7UaWIVc"],["Bay Bldg", "ChIJK2pwDI4X2jERFcYSvQydazc"],["Cemtex Ind Bldg", "ChIJ5_VTKJIX2jERC8olSB6fuqs"],
+        ["Centro Bianco", "ChIJgT9XapIX2jERCvB9tUURrSc"],["Charles & Keith Bldg", "ChIJyx2RXK0X2jERJwxKwNt90zo"],["Charles & Keith Group HQ", "ChIJ_zT5opIX2jERPLCV5u5qeLM"],
+        ["Chin Lim Ind Bldg", "ChIJ80RB_JEX2jERAxw0w5-YWmU"],["Citimac Cplx", "ChIJwQe9rY0X2jERe6xW9Zwt5dw"],["Crescendas Print Media Hub", "ChIJ3b6Wo5MX2jER5lA260NnWX0"],
+        ["D' Lithium", "ChIJv2lzipEX2jER0UNTcJaVTbI"],["Diamond Ind Bldg", "ChIJb0aDToMX2jERm9WbvEQOUXQ"],["Etrek", "ChIJtx6QkpEX2jERAdh4C5GCHXs"],["Food Empire Bldg", "ChIJzYi7IagX2jERsk_ns0d1cj8"],
+        ["Golden Season", "ChIJG97l6I0X2jERxmsukoiScCE"],["Harper Kitchen", "ChIJDa0vvo0X2jERwHBjN6aD7IU"],["Harrison Ind Bldg", "ChIJybZndR0X2jERufaMNGmPWdQ"],
+        ["Hock Hin Ind Bldg", "ChIJ4bddmw8X2jERzOwiUFl9EFQ"],["Invest Ho Properties Pte Ltd", "ChIJsx9F5o0X2jERKCvBU15l1zE"],["Irving Ind Bldg", ""],
+        ["J'Forte", "ChIJSb8hyPMX2jER4L2kjwpn1Ak"],["Jackson Design Hub", "ChIJAQBA65IX2jERan5OlkoZ-mk"],["Kapo Factory Bldg", "ChIJSfg6PJIX2jERx_PaW8jzkqg"],
+        ["Khong Guan Flour Milling", "ChIJfVme5Y0X2jERBkkpHMCFzF0"],["Khong Guan Ind Bldg", "ChIJcWX1CY4X2jERuUroFCWyfDQ"],["Kim Chuan Depot (SMRT)", "ChIJzzw6CpQX2jERWqi_t05nlr8"],
+        ["Lee King Hwa Bldg", "ChIJSRaox5IX2jERqeCswuVpBxk"],["Leong Huat Bldg", "ChIJq7zJhY0X2jERgbxjd4yF22Q"],["LHK 2", "ChIJO6g70y0X2jERBmQTiD83hR4"],
+        ["Lian Beng Resources", "ChIJ15lw95EX2jERGkVe_bYVImA"],["Lian Cheong Ind Bldg", "ChIJG37ZfJEX2jERS4mAVV5tchU"],["Lin Ho Bldg", "ChIJPaGw6Y0X2jERMXJM1-fGssE"],
+        ["Luxasia Bldg", "ChIJKzkmTuwX2jEReFSJEkIl3FQ"],["Mactaggart Bldg", "ChIJVVUFDo4X2jERW1-4FpPJgVc"],["Malaysia Dairy Industries", "ChIJ____f44X2jERjkHSSCdOpWI"],
+        ["Natural Cool Lifestyle Hub", "ChIJAVDKH5MX2jERr0tcNmdWdmU"],["Noel Bldg", "ChIJVVUVwI0X2jERpHB2OtrlNp8"],["Novelty Bizcentre", "ChIJoRvjMS0X2jERVCOC6y5BcGs"],
+        ["One Howard", ""],["OXLEY BIZHUB", "ChIJuSv5yIwX2jERZsd6bHg0vZA"],["Pak Chong Bldg", "ChIJy8piGZIX2jERBQDn-V3V-fU"],["Paya Lebar Used Car Ctr", "ChIJlQUy8o0X2jERToa-uZ-_KKw"],
+        ["Pixel Red", "ChIJ__8_qJMX2jERxOOs9-VS6AQ"],["Re&S Bldg", "ChIJF-uER40X2jERwrW3g8646Oc"],["Sakae Bldg", "ChIJ____b40X2jERpwNE_mLnTUs"],
+        ["Sarika Connoisseur Bldg", "ChIJMQwd940X2jERbl4iuHZAi8Q"],["Scorpio East", "ChIJVVWl4JIX2jER8zOQ1Sk166k"],["Sulisam Bldg", "ChIJ27yg7Y0X2jER6IrSLSHbZiA"],
+        ["Tai Seng Industrial Estate", "ChIJeWPOtewX2jERmlYdEtQcsN0"],["Tai Seng Point", "ChIJIVjlbZIX2jERwzauud5sy1o"],["Tat Wan Bldg", "ChIJMTxIe5IX2jERD2mpbhD4LZM"],
+        ["Tata Communications Exchange", "ChIJp_73RY0X2jER7xWt9ox_c1I"],["Tee Yih Jia Food Bldg", "ChIJHeRiAY4X2jERKUh4SAejxiw"],["Teo Ind Bldg", "ChIJMWWO8ZEX2jERrOYIRqcprzk"],
+        ["The Commerze @Irving", "ChIJ-5jzvdIX2jERgNrWVrtBJAs"],["Tong Yuan Bldg", "ChIJr91_jJEX2jERah1dawxXCkw"],["Trivex", "ChIJ55hn2UcX2jERhKdJN0JWkEI"],
+        ["TSH Ctre", ""],["Yan Xian Bldg", "ChIJR-9dEY4X2jERAM1XwaBwAPg"],["Yun Chee Bldg", ""],["Yun Chee Bldg 2", ""]],
+        "Parks & Gardens": [["Paya Lebar Pk Connector", "ChIJTQKqNbMX2jERffQ7cu5kx0o"]],
+        "Places of Worship": [["Full Gospel Assembly @ Playfair", "ChIJHzKAxY0X2jERWja2bLzDcIQ"],["Jin Long Si Temple", "ChIJZZnMEJMX2jER5U_bch-gRmc"],["Trinity @ Paya Lebar", "ChIJVcOHhIwX2jERG4LFscQYsI0"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["18 Tai Seng", "ChIJJ1TqVy8X2jERsMiBSFsz6jQ"],["Breadtalk IHQ", "ChIJp77eP40X2jERqBp3UcROGas"]],
+        "Picture": ["https://i.imgur.com/yOBkDVM.png"]
+    },
+
+    "cc12": {
+        "Attractions": [],
+        "Community Facilities": [["Gurkha Contingent", "ChIJiTQ2CvIX2jEReYUd_OeDLV0"],["Ramakrishna Mission S'pore", "ChIJNT6i8ZcX2jERe4ecH3U7NFQ"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Bartley Christian Ch", "ChIJI6GxnZYX2jER13D7aiACsCo"],["Bethany Independent- Presby Ch", "ChIJAw5K0JcX2jERA2DXI51A0Tg"],["Paya Lebar Chinese Meth Ch", "ChIJyV2GIeUZ2jERy9Ru0trZW4A"]],
+        "Schools & Public Institutions": [["Bartley Sec Sch", "ChIJh9c405YX2jER60tXZ8rxoes"],["Maris Stella High Sch", "ChIJTU9ZuJkX2jERup6pD3ylnCY"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/9uk3UGz.png"]
+    },
+
+    "cc14": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["New Tech Pk", "ChIJu0zzyw4X2jER0OFD7UBXQaM"]],
+        "Parks & Gardens": [["Chiltern Dr Interim Park", "ChIJvfkEdQwX2jER7GDhba-ia_I"]],
+        "Places of Worship": [["Bethesda Church", "ChIJWdePBAoX2jER5TDVxOGaco4"],["Bethesda Ctr", "ChIJHUyXMTMX2jERoF0ZrF21X-0"]],
+        "Schools & Public Institutions": [["Nanyang Jnr College", "ChIJ7aAp7AkX2jERMXPZER1KuCU"],["St. Gabriel's Pri Sch", "ChIJwV6fAAwX2jERLjygu8u0u1Q"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/aa1hIzI.png"]
+    },
+
+    "cc16": {
+        "Attractions": [],
+        "Community Facilities": [["Bishan Fire Stn", "ChIJFY9vMDkX2jERcaUcCDWotHk"],["St Theresa's Home", "ChIJ8ZVmlDgX2jERRNJb9FSZBOQ"],["Thomson CC", "ChIJUToLTDoX2jERaTc592SsmsY"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["APS Ind Bldg", "ChIJKe8DNDwX2jER_BAveMvSetY"],["Foo Wah Ind Bldg", "ChIJxW7rzj0X2jER7lU9JfpJHbE"],["Halcyon 2", "ChIJkf08JjwX2jERHlkfMfaMkD0"],["Halcyon Bldg", "ChIJ-WyQ05wX2jERfveM_lkztXY"],["Kong Beng Ind Bldg", "ChIJafNagD4X2jER01ub1nv0PZI"],["Mapex", "ChIJlenXZIkX2jERYnwl2obqQbM"],["Printset Ind Bldg", ""],["Robert Bosch SEA Regional Hqrs", "ChIJEYLuBD8X2jERS0SJZp8ZNJs"],["Tailee Ind Bldg", "ChIJy5lcZHgX2jERo8zBPdZsvFg"],["Tat Ann Bldg", "ChIJc8QdiT4X2jER4Nr4-EWQ2CU"],["Wedge Mt Ind Bldg", "ChIJg9WHMEkX2jER9cr0JHEj_kE"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Hai Lam Sua Tee Kong Toa Temple", "ChIJJ7CELzoX2jERX74xwcvjL2A"]],
+        "Schools & Public Institutions": [["Raffles Institution", "ChIJx9MvzT8X2jERLvSR1fntFoI"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/Vmff6Lp.png"]
+    },
+
+    "cc17": {
+        "Attractions": [],
+        "Community Facilities": [["SAVH (Singapore Association of the Visually Handicapped", "ChIJycmlnUMX2jERKDit16sWgqU"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/naVYXnB.png"]
+    },
+
+    "cc19": {
+        "Attractions": [],
+        "Community Facilities": [["Bt Timah NPC", "ChIJq6o6ZAYa2jERqo485avm1Cw"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["College Green Hostel", "ChIJ1xiN50Ab2jER5JwCQtU6baU"]],
+        "Offices & Residences": [["French Embassy", "ChIJQf_GngYa2jERa5_vjqTDFJM"]],
+        "Parks & Gardens": [["Jacob Ballas Children's Garden", "ChIJM8FcNhka2jER-7g-ZTXCpyk"],["Singapore Botanic Gdns", "ChIJvWDbfRwa2jERgNnTOpAU3-o"],["University Rd Pk", "ChIJNUYD6wAa2jERjatBYJ0RwCc"]],
+        "Places of Worship": [["Bethlehem Bible-Presbyterian Church", "ChIJbz8SwwYa2jERUxi-Kmd-d1o"],["Gospel Light Christian Church", "ChIJm2Dz6bAb2jEReMh6nRKnUW0"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Adam Road Food Centre", "ChIJv4Mk4QYa2jERlGncaOIvpW4"],["Serene Ctr", "ChIJHVLCmgYa2jERzRfP7gF6JiA"]],
+        "Picture": ["https://i.imgur.com/uyyZkCl.png"]
+    },
+
+    "cc20": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Church Of St. Ignatius", "ChIJMb5mGQ4a2jERLo4-n5cZltk"],["S'pore Intl Baptist Church", "ChIJD4FtLw4a2jERU0zWaJnqvLc"],["St. John's Chapel", "ChIJ____dw8a2jER1GMwUD2IcTs"]],
+        "Schools & Public Institutions": [["St. Margaret's Sec Sch", "ChIJH2pxgw8a2jERX5BLcr7qwiM"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/GpZVMJL.png"]
+    },
+
+    "cc21": {
+        "Attractions": [["Holland Village", "ChIJIQ4seGoa2jERoXJVVkJefFs"]],
+        "Community Facilities": [["Buona Vista NPP", "ChIJzeD5Imoa2jERih3LNGr2MSM"],["The Veterinary Clinic", "ChIJmw2esmsa2jERotpPhPgeSRU"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Holland Village Pk", "ChIJ_y1WZuYb2jERCGErKL5en3Q"]],
+        "Places of Worship": [["St. James' Ch", "ChIJ_24LZGsa2jERhj45UVUYpu4"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Holland Rd Shopping Ctr", "ChIJdaebOlQb2jER3_TYSDr4w5U"],["Holland Village Market & Food Centre", "ChIJGc8TpWsa2jERSFrowt5WsTA"]],
+        "Picture": ["https://i.imgur.com/pRoBsIq.png"]
+    },
+
+    "cc23": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Ayer Rajah Amenity Ctr", "ChIJl_XQgZQP2jERbWZyKSIsSrY"],["AYER RAJAH IND EST", "ChIJ_4VX4E0a2jERlaxdHKUO4xU"],["Connexis", "ChIJfdOyV0Ua2jERLiowyd8iX7U"],["Four Acres S'pore", "ChIJ_5Ip70Qa2jERHiRlTCQ2RNU"],["FUSIONOPOLIS", "ChIJcU10PEUa2jERETOYmt1zpiE"],["Galaxis", "ChIJLYFWFUUa2jERk8MOGSiGt90"],["Gemalto Bldg", "ChIJyXw4LU4a2jERIfl8_FfTFyg"],["Innovis", "ChIJa0-KkU8a2jERfrU03WhE1RQ"],["Kinesis", "ChIJp9Apm08a2jERQPz68qHxpiY"],["Nexus @ one-north", "ChIJMd1IC84b2jERZA7EIc-mQ3s"],["Pixel", "ChIJl3lHq0Ua2jERr20xRRAm90c"],["Sandcrawler", "ChIJSxwIdEUa2jERVR9YQaZiVXI"],["Solaris", "ChIJCx92d08a2jERt2tJtmAoS7U"],["Symbiosis", "ChIJTfbJ9k8a2jERx5ujCyOjxg8"],["Synthesis", "ChIJ_99EfEUa2jERcqUJiEapSBw"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Aldersgate Methodist Church", "ChIJReOG5Voa2jERVyLj3hdX0TE"]],
+        "Schools & Public Institutions": [["Anglo-Chinese Jnr College", "ChIJESRAQ1sa2jERlSmmrDCCriw"],["Fairfield Methodist Sch (Pri)", "ChIJ-UtF31oa2jER2fW9Tw7KxOg"],["Fairfield Methodist Sch (Sec)", "ChIJjw7yEFsa2jERufHDVg2XpLg"],["INSEAD", "ChIJ8eTHu1oa2jERVeJAE0wUowU"]],
+        "Shopping & Dining": [["Ayer Rajah Food Court", "ChIJw0otw08a2jERY0Q6JSnblgY"],["Blk 33 Dover Rd Mkt & FC", ""]],
+        "Picture": ["https://i.imgur.com/L6xVoWm.png"]
+    },
+
+    "cc24": {
+        "Attractions": [],
+        "Community Facilities": [["National University Hospital", "ChIJuyTjgFEa2jERowxaZ0BLc7k"],["NUH Medical Ctr", "ChIJkSBPN1Ia2jERllvgpQCjbXI"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Ascent", "ChIJnY-A-QMb2jERDG3dRBivM8g"],["DNV GL Technology Ctr", "ChIJ5aLhXU0a2jERInp9K6uLSeA"],["S'pore Post Ayer Rajah Delivery Base", "ChIJOWhxFk4a2jERjdnWipASjC4"],["S'PORE SCIENCE PK I", "ChIJl92YzVQa2jER0P5lmVLc5gY"],["TUV SUD PSB Bldg", "ChIJWZg_DrMb2jERml8hR3_23_c"],["The Faraday", ""],["The Fleming", ""],["The Franklin", "ChIJCVpNfE0a2jERQnYteIcAb9I"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["National University of Singapore", "ChIJ2QJCeFYa2jERa434wdYIjUg"],["Yong Loo Lin Sch of Medicine", "ChIJrdJNVgQEBBAR0vgJwZfmiIg"]],
+        "Shopping & Dining": [["One@KentRidge", "ChIJBfpIMFIa2jER0kicxx7NJvk"]],
+        "Picture": ["https://i.imgur.com/1Q7LujT.png"]
+    },
+
+    "cc25": {
+        "Attractions": [["Haw Par Villa", "ChIJ9ak4I6wb2jERO6x4oAUh_-g"]],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["CSIT Bldg", "ChIJG0O2aqwb2jERmY1kMatDkzA"],["Pasir Panjang Wharve Bldg", "EiZQYXNpciBQYW5qYW5nIFdoYXJ2ZXMgQXZlIDEsIFNpbmdhcG9yZSIuKiwKFAoSCbebB4e7G9oxEfwumXQjA3QwEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"],["PSA Vista", "ChIJB7UIFqkb2jERIvdUyCZlFnk"],["The Kendall", "ChIJnX_STqwb2jER0NRnkMy5D08"],["Westway", "ChIJVVWVMakb2jER_0QNRNyQdxc"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["CSIT Bldg", "ChIJG0O2aqwb2jERmY1kMatDkzA"],["ICA Pasir Panjang Scanning Stn", "ChIJyW3A5qgb2jER91GD2Xa6wig"],["PSA Institute", "ChIJI41qF6kb2jER-edukfxe4CQ"],["S'pore Customs Pasir Panjang Export Inspection Stn", "ChIJq8lD6GIb2jERVb2UjzhgLAQ"]],
+        "Shopping & Dining": [["Pasir Panjang Wholesale Centre", "ChIJ6R_GngAb2jERFArJ0J54yi8"],["West Coast Car Mart", "ChIJAQAASKkb2jERITexVKW_gBU"]],
+        "Picture": ["https://i.imgur.com/OyOmicU.png"]
+    },
+
+    "cc26": {
+        "Attractions": [],
+        "Community Facilities": [["Breakthrough Missions", "ChIJcf_XvnQZ2jERn0pmzhIPUwU"],["Pasir Panjang NPP", "ChIJlyc4rr4b2jERmqNVxURDHMI"],["Soka Youth Ctr", "ChIJb5F6t7sb2jERDsIISu6ePr0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Citilink Warehouse Complex", "ChIJ-d_1Lrkb2jER8rwZjdv5SwM"],["Golden Agri Plaza", "ChIJLfPHFbkb2jERGKY_CZVQ6WM"],["PASIR PANJANG DISTRIPARK", ""]],
+        "Parks & Gardens": [["Pasir Panjang Park", "ChIJe9TtLK8b2jERsDsL2VHhTrI"]],
+        "Places of Worship": [["Phoh Teck Siang Tng Temple", "ChIJzbxZN7kb2jERdwPziQ89NnI"]],
+        "Schools & Public Institutions": [["Currency House", "ChIJuQzXsb4b2jERl6Di0kd8gxw"]],
+        "Shopping & Dining": [["Pasir Panjang FC", "ChIJf3Yu7bsb2jERADDFSroHkq0"]],
+        "Picture": ["https://i.imgur.com/4dBI3Go.png"]
+    },
+
+    "cc27": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Alexandra Technopark", "ChIJCeg1pscb2jERbF9DXXwWpSM"],["Mapletree Business City", "ChIJEY27wcEb2jERZ_Evi19g6-A"],["Maritime & Port Authority of Singapore", "ChIJa_FjG8Eb2jERrVi45c1Dr8A"]],
+        "Parks & Gardens": [["HortPark", "ChIJC_hOgcgb2jERfF9HNB10xfI"], ["Labrador Nature Reserve", "ChIJOXfMU-ob2jERylk7sJHYvIY"], ["Labrador Park", "ChIJoy3rj-sb2jERA_wMVazFAiI"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Maritime & Port Authority of Singapore", "ChIJa_FjG8Eb2jERrVi45c1Dr8A"]],
+        "Shopping & Dining": [["Alexandra Retail Centre", "ChIJwz3yHMEb2jERHclcbs5KL4A"]],
+        "Picture": ["https://i.imgur.com/8jiMDQK.jpg"]
+    },
+
+    "cc28": {
+        "Attractions": [],
+        "Community Facilities": [["Keppel Club", "ChIJ2QdCQegb2jERpeuye8JoFDw"],["Moral Welfare Home", "ChIJWfL8EN0b2jERay_dj20jh-c"],["PSA Club", "ChIJA4m0mecb2jERrbJ42wtffyo"],["Telok Blangah NPP", "ChIJcfM2v0Qb2jERKZMMXpSHnQY"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Henderson Waves", "ChIJ-Xun5tsb2jERLnl4x0cPqR0"],["Southern Ridges", "ChIJO1VVxd8b2jERTvL6uurcNWY"]],
+        "Places of Worship": [["Ban Siew San Kuan Imm Tong", "ChIJDYLC5dwb2jERQy3S9zZ6ftY"],["Koon Seng Ting Temple", "ChIJzXjc4Nwb2jER2ftvdQiBvlw"],["Pasir Panjang Tamil Methodist Church", "ChIJq5difucb2jERjE8Qnz6akwI"],["Ting Kong Temple", "ChIJ4-BXucIb2jER4GyyX4wAQUQ"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/9Q3oNk0.jpg"]
+    },
+
+    "ce1": {
+        "Attractions": [["Colonial Garden", "ChIJd39QZQMZ2jERJyLmW96aVl0"],["Crystal Pavilion North", ""],["Crystal Pavilion South", ""],["Dragonfly Bridge", "ChIJ0VVAhgMZ2jERKLvEySk5ANA"],["Garden Bay Bridge", ""],["Gardens By The Bay", "ChIJMxZ-kwQZ2jERdsqftXeWCWI"],["Lions Bridge", ""],["Lower Boardwalk", ""],["Marina Bay City Gallery", "ChIJhQIQWAUZ2jERAwam7hYMZj8"],["Marina Bay Sands (ArtScience Museum)", "ChIJnWdQKQQZ2jERScXuKeFHyIE"],["Marina Bay Sands (Casino)", "ChIJ91XwZNUZ2jERAXeaVLmaR3o"],["Marina Bay Sands (Mastercard Theatres)", "ChIJh2CnkgYZ2jERVmpfHgxedH8"],["Marina Bay Sands S'pore", "ChIJA5LATO4Z2jER111V-v6abAI"],["Mist Walk", "ChIJXw-xj4IZ2jERGJ6kMZb2Aw0"],["Sands Expo And Convention Ctr", "ChIJLVQTqQUZ2jERNSyXbiCto4E"],["Sands SkyPark", "ChIJOeEf9S2vewIRM0B9a06CKwg"],["The Shoppes At Marina Bay Sands", "ChIJ__EU0QUZ2jERgKqbByZoXqs"]],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Marina Bay Sands S'pore", "ChIJA5LATO4Z2jER111V-v6abAI"]],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Colonial Garden", "ChIJd39QZQMZ2jERJyLmW96aVl0"],["Dragonfly Bridge", "ChIJ0VVAhgMZ2jERKLvEySk5ANA"],["Garden Bay Bridge", ""],["Gardens By The Bay", "ChIJMxZ-kwQZ2jERdsqftXeWCWI"],["Lions Bridge", ""], ["Malay Gdn", ""]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["The Shoppes At Marina Bay Sands", "ChIJ__EU0QUZ2jERgKqbByZoXqs"]],
+        "Picture": ["https://i.imgur.com/RhFbFoZ.jpg"]
+    },
+
+
+
+    "dt1": {
+        "Attractions": [],
+        "Community Facilities": [["Bt Panjang Public Library", "ChIJAQAASKMR2jER1rsyt_ipOM0"],["ECON Medicare Ctr & Nursing Home (Choa Chu Kang)", "ChIJz-GlirsR2jERVuqrxG2jfuM"],["Senja Soka Ctr", "ChIJq6qqer0R2jERCFddUVEZbV4"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Bt Panjang Gospel Chapel", "ChIJTem27LsR2jERozC8OtRmLss"],["Sri Murugan Hill Tp", "ChIJH8Ewv7oR2jERCPyGg6yf6rQ"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Bt Panjang Plaza", "ChIJe3kTN6MR2jERr5FbmFCuxPI"],["Junction 10", "ChIJQSyjW7wR2jERvUB8B9ktx20"]],
+        "Picture": ["https://i.imgur.com/chTVWn1.jpg"]
+    },
+    
+    "dt2": {
+        "Attractions": [],
+        "Community Facilities": [["Boys' Town S'pore", "ChIJ61N6jq4R2jERiRU5cE_eogI"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Hazel Park Open Space", "ChIJJU9tKrAR2jERoiuKuxD-O-A"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Assumption English School", "ChIJd4xTzK0R2jER0hHm9en5cEM"],["Assumption Pathway Sch", "ChIJGWsKZa4R2jERTiCpYl3ppIA"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/Lj7fX2i.jpg"]
+    },
+
+    "dt3": {
+        "Attractions": [],
+        "Community Facilities": [["Hillview Community Club", "ChIJAcs3hFIQ2jERyK9SYBlkYKc"],["Praisehaven, The Salvation Army", "ChIJn3djC1MQ2jERUF1W76OrdM8"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Bukit Panjang Methodist Church", "ChIJP0Q_uFMQ2jER_SpVuz0TLV0"],["Trinity Theological College", "ChIJHyNXllMQ2jERS-B2llIPal4"]],
+        "Schools & Public Institutions": [["MOE Dairy Farm Adventure Centre", "ChIJd33bhlQQ2jER9iF1uENKZKU"],["St. Francis Methodist School", "ChIJedrcmVMQ2jERCnbk-hB09S8"]],
+        "Shopping & Dining": [["HillV2", "ChIJ3Zrkj1IQ2jER7alm3mrpVPQ"],["The Rail Mall", "ChIJSX0T2lMQ2jERa6Ixq0d5hkA"]],
+        "Picture": ["https://i.imgur.com/ytXwDR2.jpg"]
+    },
+
+    "dt5": {
+        "Attractions": [],
+        "Community Facilities": [["Bt Timah NPP", "ChIJq_eUbWIQ2jER_kigNWUCr_0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["JK Bldg", "ChIJN1hvPWIQ2jERhk6oNS7F4CA"],["Kar Yeng Five Districts General Assn Bldg", "ChIJncGKpooQ2jERut441iiHsIA"],["Kilat Ctr", "ChIJ5_6_el8R2jERbLtvuOOeNrs"],["Sim Lian Building", "ChIJH50vFmAQ2jER0PFdvZWuuhE"],["Sweebi House", "ChIJ7Ynki1kR2jERFS60WKQAVXI"],["UOB Ctr", "ChIJU-Hrb4oQ2jERanNXd33cfco"]],
+        "Parks & Gardens": [["Hoover Park", "ChIJyfX7W2AQ2jERk-3vxTfK55w"]],
+        "Places of Worship": [["Beeh Low See Temple", "ChIJI3tAQ2IQ2jERqUsdnRHqOn8"],["Bt Timah Tua Pek Kong Temple", "ChIJUb1g92EQ2jER0NJpBBBS8WQ"], ["Church Of Singapore (Bt Timah)", "ChIJY-x7pIoQ2jER_U6QGVdhLwM"],["Glory Presbyterian Church", "ChIJ6-xCKYgQ2jERXfJE_vZ8vXw"],["Mahabodhi Monastery", "ChIJ__-P82EQ2jERn9t_YDyQFLU"]],
+        "Schools & Public Institutions": [["Dimensions Intl College (Bt Timah Campus)", "ChIJt6Gj7WEQ2jERoq9FNXOIzP4"],["Pei Hwa Presby Pri Sch", "ChIJi65qMIgQ2jERUJGg6gDYA4k"]],
+        "Shopping & Dining": [["Beauty World Ctr", "ChIJHwZEaooQ2jERTAhWTymqJUw"],["Beauty World Plaza", "ChIJ36a-E6AR2jERRUwpIkxtbS8"],["Bt Timah Market  & Food Centre", "ChIJwQ8GHooQ2jER5Ucy4Sx80Wk"],["Bt Timah Plaza", "ChIJ_SyS-3sR2jERJiN0mIkzEW8"],["Bt Timah Shopping Ctr", "ChIJqWjW8KQR2jERocb7FcKBFQc"]],
+        "Picture": ["https://i.imgur.com/sfOGExJ.png"]
+    },
+
+    "dt6": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [["Old Bt Timah Railway Stn", "ChIJDxgV1oUQ2jER3jyxzs5AyZw"]],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Sime Darby Ctr", "ChIJ1S4qfY8Q2jERgb68gskzUbo"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Covenant Community Meth Ch", "ChIJxzb3Upsa2jERi-HDd0EJ3PE"]],
+        "Schools & Public Institutions": [["Methodist Girls' Sch", "ChIJHXJrRIQQ2jERD8eh3iLTz8s"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/23JdJ7r.png"]
+    },
+
+    "dt7": {
+        "Attractions": [["Horsecity", "ChIJ47HUrJkQ2jER7SbmzOEVSE4"]],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Guthrie House", "ChIJm4FN5MoR2jER2GHX6oHY6bU"], ["Sixth Ave Ctr", "ChIJ4QuYA2AR2jERu3UYcs2z_dU"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Etonhouse Zhong Hua Pre-Sch", "ChIJR_xL4aAQ2jERneiaFiNSFmw"]],
+        "Shopping & Dining": [["Second Ave Junction", "ChIJ3Wd2xqEQ2jERF5qZP76srqY"],["Sixth Ave Ctr", "ChIJ4QuYA2AR2jERu3UYcs2z_dU"]],
+        "Picture": ["https://i.imgur.com/bxMZYN8.png"]
+    },
+
+    "dt8": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Duchess Park", "ChIJ4SxicQka2jERkF58tsKLHWo"],["Bougainvillea Park", "ChIJz_LlfqcQ2jERY47PB29X2Xc"]],
+        "Places of Worship": [["Kuan Yin San Temple", ""],["Poh Ming Tse Temple", "ChIJu_5WdAga2jERuDTzFBsJmi4"]],
+        "Schools & Public Institutions": [["Hwa Chong Institution", "ChIJbY_Puwka2jERLeaVt3kXb9M"],["Nanyang Girls' High School", "ChIJkdwXaaEQ2jERWUng9MnBNG4"],["National Junior College", "ChIJ61lTU6EQ2jERiBDECMxHYFY"], ["Raffles Girls' Primary School", "ChIJ4xur9KYQ2jERlbDlNmIrpBI"]],
+        "Shopping & Dining": [["Coronation Shopping Plaza", "ChIJ08duKAYa2jER47-5U4ZdgAo"],["Coronation Arcade", "ChIJ_f__LwYa2jER2XByCWwWhz8"]],
+        "Picture": ["https://i.imgur.com/3G2xxK2.png"]
+    },
+
+    "dt10": {
+        "Attractions": [],
+        "Community Facilities": [["Raffles Town Club", "ChIJ04oiK_kZ2jERzdkIJqFBeXk"],["Tanglin CC", "ChIJcZP7mv4Z2jER5NRL8KNN9G8"],["Whitley NPP", ""]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Malcolm Park", "ChIJ-ftgvP4Z2jERmGf_lr5FJmg"]],
+        "Places of Worship": [["Masjid Ba'alwi", "ChIJXYPHlfgZ2jERe5AveQeC7_0"]],
+        "Schools & Public Institutions": [["Singapore Chinese Girls' Sch", "ChIJTWmHvPsZ2jERkQKp5z4AY_o"], ["St Joseph's Institution", "ChIJsdJjDBEX2jERgqvhdmZpPoE"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/F464EZA.png"]
+    },
+
+    "dt13": {
+        "Attractions": [],
+        "Community Facilities": [["Indian Heritage Ctr", "ChIJlShO3LgZ2jER4Xlf4Yo-jbs"]],
+        "Historical Landmark": [["H.S. of Methodist Girls' Sch", "ChIJTUN9FLwZ2jERiVAr6v2R2ps"],["H.S. of Middle Rd Ch/ Christian Inst", ""]],
+        "Hotels & Hostels": [["Bunc Hostel", "ChIJs0o6tbkZ2jERHNJ2Vz9rKPA"],["Checkers Backpackers Inn", "ChIJKxVAG7kZ2jER-4nWisJlVxw"],["Footprints Hostel", "ChIJY5kZU7gZ2jERX_YPlQAmYc0"],["Haising Hotel", "ChIJOzNhubkZ2jERwV2qRNL9lWY"],["Hotel 81 - Dickson", "ChIJW7D4sLkZ2jERVbhISOQ1SEQ"],["Hotel 81 - Rochor", "ChIJXXYhhbkZ2jERtHgxelu8RMA"],["Hotel G", "ChIJo8sHeLsZ2jERyUhNBqWbiGM"],["Ibis S'pore On Bencoolen", "ChIJrUXjprsZ2jERQHST3UvTYFg"],["Mayo Inn", "ChIJIakSmrkZ2jERhd7hqCe4GdI"],["Moon 23 Hotel", "ChIJc4PprbkZ2jERx2zLPzzd_ME"],["Parc Sovereign Hotel (Albert Street)", "ChIJm1mrUbkZ2jERyV8SbVhowEc"],["Perak Hotel", "ChIJY_b6CLkZ2jERy0-ylqPkztY"],["Phil Inn", "ChIJbWc4ibwZ2jER3U11xpq9YjM"],["Sandpiper Hotel", "ChIJCU8pqLkZ2jERYcWIZVJ0C0k"],["SMU Residences @ Prinsep", "ChIJs2ZV7bsZ2jER_Y1zErQwv3s"],["South East Asia Hotel", "ChIJ____r7sZ2jERv13OgMWzTjw"],["Summer View Hotel", "ChIJkaiCvrsZ2jER5wWScU4X87E"],["The Daulat", "ChIJ4Zz7D7kZ2jERqAKjdUObLpc"],["Village Hotel Albert Court", "ChIJJ4BLSbkZ2jERGvpVZU1MPKM"],["Wanderlust Hotel", "ChIJU502sbkZ2jERX16vKXj9ock"]],
+        "Offices & Residences": [["David Elias Bldg", "ChIJjRfxdrwZ2jERltlADvn5deE"],["Jothi's Traditional Charm", "ChIJyYsRrbgZ2jERiChqIX1urRY"],["Keng Soon Auto Pte Ltd", "ChIJ2zr8kbsZ2jERywIhrHFhHWo"],["Peace Ctr", "ChIJbzCidcsZ2jER0NiabRDWJTg"],["Sim Lim Twr", "ChIJwXOZkbkZ2jER54XBxm8gT5Y"],["Sin Thai Hin Bldg", "ChIJrZXq7LsZ2jERD2c7iUBX2Zg"],["Skyline", "ChIJAQAkrLsZ2jER53CCBFSCqM4"],["The Bencoolen", ""]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Ch Of The True Light", "ChIJm48UrLkZ2jER3VuSPKosul8"],["Gurdwara Khalsa Dharmak Sabha", "ChIJWwNrGrwZ2jERfJeUlCMO19E"],["Kg Kapor Meth Church", "ChIJp8J_Y7gZ2jEReCgWCVRi7nI"],["Kwan Im Tong Hood Cho Temple", "ChIJSXU0BrsZ2jER4HhOboVXKJ0"],["Masjid Abdul Gafoor", "ChIJkUACobkZ2jERw_wkt--ro-0"],["Prinsep St Presby Ch", "ChIJUZNTjLsZ2jERqTe6E5tk-pM"],["S'pore Life Ch", "ChIJj6fl6bsZ2jERnjn64SuVh-U"],["Sri Krishnan Tp", "ChIJ59O6CbsZ2jERJFd7efQNtZE"],["Tamil Meth Ch", "ChIJ8zMK9bsZ2jERgEYDeL5KlTY"]],
+        "Schools & Public Institutions": [["LaSalle College Of The Arts", "ChIJRbtK5bsZ2jERnDd0Le_s0A4"],["NAFA Campus 3", "ChIJ0VYDmbsZ2jERQsH9QvXPK_E"]],
+        "Shopping & Dining": [["Albert Centre", "ChIJU1QEGUQZ2jER0IggYygZFSs"],["Burlington Sq", "ChIJOcxCxLsZ2jERz3-Dm4IPvWk"],["Fortune Ctr", "ChIJjZfJEvQZ2jERk-cl2XeNhlE"],["Little India Arcade", "ChIJh1P4ybgZ2jERs1cDC4eUvFg"],["OG Albert Cplx", "ChIJy7i1M7oZ2jERzOPX6GDhBDw"],["Sim Lim Sq", "ChIJB5c91rsZ2jERPX9_QUwrSsc"],["The Verge", ""],["Wilkie Edge", "ChIJM8-oCXMZ2jERZCfWFKnN1T0"]],
+        "Picture": ["https://i.imgur.com/iHbFUBF.png"]
+    },
+
+    "dt17": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["The Westin S'pore", "ChIJWbwoihEZ2jER8DDLCxrd38o"]],
+        "Offices & Residences": [["Asia Sq Twr 1", "ChIJPfww7hEZ2jERE6CxH83TCqI"],["Asia Sq Twr 2", "ChIJE1UVihEZ2jER_A6qtF_v_Io"],["DBS Asia Central", "ChIJH8u5SV8Z2jER6Gsd2wRq3r8"],["MARINA BAY FINANCIAL CENTRE", "ChIJnZ-s4A8Z2jERh-KIGiAk0vo"],["Marina One", "ChIJAfNHohEZ2jERTNigrUSCDcE"],["SGX Centre", "ChIJD2ltDxIZ2jERLbXRhzrP_ig"],["Shenton House", "ChIJAQDAIhIZ2jERwKyoPHLukD8"]],
+        "Parks & Gardens": [["The Lawn @ Marina Bay", "ChIJYVWI5A8Z2jERLlmpK-mGy5w"],["The Promontory @ Marina Bay", "ChIJU7bnwg8Z2jERyjH86RPmKSQ"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["Marina Bay Link Mall", "ChIJHXaCig4Z2jER6U4Qy8aX7Co"]],
+        "Picture": ["https://i.imgur.com/YSPm8Xg.png"]
+    },
+
+    "dt18": {
+        "Attractions": [],
+        "Community Facilities": [["Nagore Dargah Indian Muslim Heritage Ctr", "ChIJ5Tu8pw0Z2jERvBUhK00QkT8"]],
+        "Historical Landmark": [["H.S. of Anglo- Chinese Sch", ""],["H.S. of Chui Eng Free Sch Site", "ChIJqbWDXQwZ2jERj7m-srhCkFQ"],["H.S. of Fuk Tak Chi & Fuk Tai Chi Museum", "ChIJSQv4eg0Z2jERc2v3-CNAdPs"],["H.S. of Pondok Peranakan Gelam Club", ""]],
+        "Hotels & Hostels": [["Amoy Hotel", "ChIJzYOzRgwZ2jERM3h3MIvqrts"],["Sofitel So S'pore", "ChIJi1zf9g0Z2jER1XU6X90povg"]],
+        "Offices & Residences": [["BEA Bldg", "ChIJQ8_UMGQZ2jERjUfQXEmgHSs"],["Capital Sq", "ChIJ7SDvdQwZ2jERVI2_pW7JeXY"],["Cecil Bldg", "ChIJe6gliA0Z2jERUlwkR74pUwM"],
+        ["City House", "ChIJx0m4xQ0Z2jERr6uwsuK0BvU"],["Far Eastern Bank Bldg", "ChIJz1f6hg0Z2jER50qoIBFdIcE"],["Finexis Bldg", "ChIJw4QLdRIZ2jERVjT3qCqZ1D4"],
+        ["IOB Bldg", "ChIJp5JLyw0Z2jERVdlNRoQYUlg"],["ISCA House", "ChIJM6wjMwwZ2jERXawcQyBv_50"],["Keck Seng Twr", "ChIJcRnacfcZ2jERuVzQ_7LNz80"],
+        ["Liberty House", "ChIJdcuvIA0Z2jERf4cLbvOSiUg"],["MYP Plaza", "ChIJH_IuiQ0Z2jERRoDj3dYYpr8"],["OCBC Centre South", "ChIJa-G4jQsZ2jERdgABGk70zkI"],
+        ["PIL Bldg", "ChIJ8-uvkA0Z2jERDfisWWvG4hU"],["Prudential Twr", "ChIJTdOMnXQZ2jERPdlHMIAuJg8"],["RHB Bank Bldg", "ChIJPw6Ki20Y2jERmsSLeQXhOdQ"],
+        ["Robinson Ctr", "ChIJ8fDhcuYW2jERf7H1qiN0kGg"],["Robinson Pt", "ChIJ14AyPHYZ2jERLYxScc-bAZw"],["Samsung Hub", "ChIJ-dk2riQZ2jERrINW6xmcC7I"],["SICCI Bldg", "ChIJCWrUog0Z2jERTqWh2bh7kVk"],
+        ["SIF Bldg", "ChIJt9Ayb-8Z2jERSz1utLvTq78"],["The Globe", "ChIJV0jy32cZ2jERAh1-rw0pPBE"],["The Octagon", "ChIJ56w-6w0Z2jERyRU-bjw8_58"],["Tong Eng Bldg", "ChIJp75qOcYZ2jERC3ZBsr1no0c"],
+        ["TPI Bldg", "ChIJt3dbt88Z2jERYOGS0UWRGCs"],["Wing On Life Bldg", "ChIJHwtihQ0Z2jERPM0KJzFycEs"]],
+        "Parks & Gardens": [["Ann Siang Hill Pk", "ChIJXU3eag0Z2jERddOqx_rVYlo"],["Telok Ayer Green", "ChIJdbV67xIZ2jER6LIocOIgio8"]],
+        "Places of Worship": [["Mjd Al-Abrar", "ChIJUZDccA0Z2jERiewjf42jwBo"],["S'pore 'Yu Huang Gong' Tp Of Heavenly Jade Emperor", "ChIJi8Azpw0Z2jERvtbfL82GuME"],["Thian Hock Keng Temple", "ChIJ9e68CQ0Z2jER4G80iFVcJgo"],["Yueh Hai Ching Tp", "ChIJi4SXYoAZ2jERa2qGW44CqJw"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [["China Sq Food Centre", "ChIJe3PoOAwZ2jERjAYalhanvus"]],
+        "Picture": ["https://i.imgur.com/z3EEdU0.png"]
+    },
+
+    "dt20": {
+        "Attractions": [],
+        "Community Facilities": [["Fort Canning Arts Centre", "ChIJXVEaZ58Z2jERj3zBU4-2-Zs"],["Singapore Repertory Theatre", "ChIJvy9f4p4Z2jER0tat9Xc_gR8"],["The Legends", "ChIJBXmkh6IZ2jER1XZGOzkwPlA"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Hotel Fort Canning", "ChIJocILh6IZ2jERLMhZs3uVoZI"],["Hotel Swissotel Merchant Court", "ChIJjS4cuwoZ2jERCTeN-k9LUIE"]],
+        "Offices & Residences": [["Teochew Building", "ChIJt5rtkpgZ2jERUuLPypx1nZA"]],
+        "Parks & Gardens": [["Fort Canning Park", "ChIJVSYjJKIZ2jERpRFinATD52s"],["Robertson Quay", "EhlSb2JlcnRzb24gUXVheSwgU2luZ2Fwb3JlIi4qLAoUChIJIX6wyp0Z2jERXBArtuk8cAgSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"],["The Foothills", "ChIJvWiqxaEZ2jERwCs1LMP-Yj0"]],
+        "Places of Worship": [["Church of the Sacred Heart", "ChIJD7vwipgZ2jER76xBojb9Li0"],["Sri Thendayupathani Temple", "ChIJq-n-yJgZ2jEROm7mN2JMTpE"]],
+        "Schools & Public Institutions": [["SHRM College", "ChIJ2Se9YZgZ2jERRO4d7yqcVvw"]],
+        "Shopping & Dining": [["Clarke Quay", "ChIJnXwAOKAZ2jERAs-MHs1aDgI"],["Robertson Walk", "ChIJtarv-54Z2jERdEoeyBoLjTY"],["UE Shopping Mall/Square", "ChIJ1aJWIZ8Z2jERTCHI96-9fNQ"]],
+        "Picture": ["https://i.imgur.com/aa9Eh5N.png"]
+    },
+
+    "dt21": {
+        "Attractions": [["National Museum of Singapore", "ChIJD1u-EaMZ2jERaLhNfFkR45I"],["Singapore Art Museum", "ChIJW8o1nqQZ2jERynZN2M1BODM"]],
+        "Community Facilities": [["China Cultural Centre", "ChIJay7tyaQZ2jERWNrDcsNLV_w"],["Selegie Arts Centre", "ChIJ9_7nI7cZ2jERwa3AfgzAbOk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [["Rendezvous Hotel", "ChIJPevdorwZ2jER-r7lLFI-Poc"]],
+        "Offices & Residences": [["Manulife Centre", "ChIJ-1viUKMZ2jER7etB1DMaCzc"],["Peace Centre", "ChIJbzCidcsZ2jER0NiabRDWJTg"],["Prinsep House", "ChIJp0uGfzoZ2jERz034vhU7waQ"],["Singapore Council of Women's Organisations", "ChIJj6qoRrsZ2jERsMOrFMUSXk8"],["Waterloo Centre", "ChIJ5b9USLsZ2jERLHiICrHNYfY"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Cathedral of the Good Shepherd", "ChIJd1u7YqQZ2jERreK_g33tkIg"],["Church of Saints Peter and Paul", "ChIJH5zWr6QZ2jEReT47mH8mgVA"],["Church of St Joseph", "ChIJnaOoLLsZ2jER5wDxYYi6Rl4"],["Maghain Aboth Synagogue", "ChIJc3Wuq6QZ2jERYH1Op8S-DL0"],["Masjid Bencoolen", "ChIJa39LprwZ2jERSc3XYzYKTUg"],["Orchard Presbyterian Church", "ChIJe2PiJ6MZ2jERi-nhBEPco9c"],["Wesley Methodist Church", "ChIJ8aDrIaMZ2jERqA167p17JHk"]],
+        "Schools & Public Institutions": [["NAFA Campus", "ChIJfcHMb7sZ2jERc49syyUVZAs"],["Singapore Management University", "ChIJMdYZ7aQZ2jERKD69hQC-Asc"],["SOTA ", "ChIJUeXKz7wZ2jERMmZROJYsRrk"]],
+        "Shopping & Dining": [["Fortune Centre", "ChIJjZfJEvQZ2jERk-cl2XeNhlE"],["Parklane Shopping Mall", "ChIJ77IWi94Z2jERf9Jx6rdK8O0"],["PoMo", "ChIJh1pNjbwZ2jERjYcoTtp_CFk"],["Sunshine Plaza", "ChIJ8SlfersZ2jERBFr9KkRI4oA"],["The Cathay", "ChIJCwc9Ib0Z2jERGKkaxcJzE0c"]],
+        "Picture": ["https://i.imgur.com/KhliyPj.png"]
+    },
+
+    "dt22": {
+        "Attractions": [],
+        "Community Facilities": [["Queen Street Bus Terminal", "ChIJ_Qp2VrcZ2jERZcOv0uL_0y8"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Sim Lim Tower", "ChIJwXOZkbkZ2jER54XBxm8gT5Y"],["Singapore Aftercare Association", "ChIJB01lAbkZ2jERjXHSxw8nVDY"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Church of the True Light", "ChIJm48UrLkZ2jER3VuSPKosul8"],["Kampong Kapor Methodist Church", "ChIJp8J_Y7gZ2jEReCgWCVRi7nI"],["Masjid Abdul Gafoor", "ChIJkUACobkZ2jERw_wkt--ro-0"]],
+        "Schools & Public Institutions": [["Madrasah Aljunied Al-Islamiah", "ChIJt2qxbLcZ2jERER2IltwtPL0"],["Stamford Primary School", "ChIJdSh1W7cZ2jERtsAeilYeahU"]],
+        "Shopping & Dining": [["Albert Complex", "ChIJB5o5MroZ2jERb6gEmZY3TBw"],["Sim Lim Square", "ChIJB5c91rsZ2jERPX9_QUwrSsc"]],
+        "Picture": ["https://i.imgur.com/VZqJqNW.png"]
+    },
+
+    "dt23": {
+        "Attractions": [],
+        "Community Facilities": [["Jalan Besar Sports Centre & Stadium", "ChIJY2LsCckZ2jERJrcMS91EpJU"],["Jalan Besar Swimming Complex", "ChIJnSRpSmoZ2jERLjrZyToN7P8"],["Singapore Casket", "ChIJA9agTckZ2jERZpTwg6UZTdQ"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["BS Bendemeer Centre", "ChIJgcPyh84Z2jERk3YfHpfoSuo"],["CT Hub @ Kallng", "ChIJkx407MsZ2jERCp-kihJw4fg"],["Pek Chuan Building", "ChIJDfOzV8kZ2jERKNrTgwEZ8CQ"],["Vanguard Campus", "ChIJ3XBxeswZ2jERhuGHmtBmYRg"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Holy Trinity Church (Anglican)", "ChIJfSVPXLQZ2jER2iubT_Aw-PA"]],
+        "Schools & Public Institutions": [["Auston Institute of Management", "ChIJz1cnkwoZ2jERoAmz2sZy60U"]],
+        "Shopping & Dining": [["Banchong Cafe", "ChIJ34NLSnIZ2jERudO6PukpCUM"]],
+        "Picture": ["https://i.imgur.com/i0vnn5H.png"]
+    },
+
+    "dt24": {
+        "Attractions": [],
+        "Community Facilities": [["Baptist Golden Age Home", "ChIJwUumKy0Y2jERPl5Lu2K6-T4"],["Geylang West CC", "ChIJOa5WOTIY2jER3vTbKwtyREo"],["Jalan Besar Town Council", "ChIJuWmwfSsY2jERgZpUK_EvXHw"],["Kallang Basin Swimming Complex", "ChIJYYmRvisY2jER_H6ce3o6PIA"],["Kolam Ayer Community Club", "ChIJq6qq-ioY2jERuPweaO8nY08"],["Kolam Ayer NPP", "ChIJN5P3gSsY2jER-ffMxtiQVEc"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Automobile Association of Singapore (AAS)", "ChIJmc9ChywY2jER9l5W73_7f-w"],["GB Point", "ChIJ0a6eMrgZ2jERAc8wNT1QCvY"],["Geylang Bahru Industrial Estate", "ChIJDyxqJCwY2jERYSJ8vjIUl8U"],["Singapore College of Traditional Chinese Medicine", "ChIJVVVVpSwY2jERnlU-zDrJtaQ"],["Singapore Life Saving Society", "ChIJVVVV7SsY2jERi94NvIQ4Hvs"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["MOM Services Centre", "ChIJAQ5PpyoY2jER_Q4T2EkXGhA"],["The Winstedt School", "ChIJcU7QBesZ2jERGMJggQBSsZM"]],
+        "Shopping & Dining": [["Geylang Bahru Market & Food Centre", "ChIJQ267nCwY2jERq6h4pL45NYU"]],
+        "Picture": ["https://i.imgur.com/dtKZiy0.png"]
+    },
+
+    "dt25": {
+        "Attractions": [],
+        "Community Facilities": [["Canossa Convent", "ChIJmyX9gCcY2jERXkBYulssYOA"],["Canossaville Children's Home", "ChIJK4PpLIgX2jERxLshO9XQiow"],["Darul Ihsan Orphanage", "ChIJo2SekScY2jERcDgLdPmFhQw"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Church of St Stephen", "ChIJa8n7ZCcY2jER_G4Q1bNGqNk"],["Grace Baptist Church", "ChIJBzhZnCcY2jERoWcnQpfBCgw"],["Masjid Sallim Mattar", "ChIJ-Uh5jScY2jERb-qxKRanisc"]],
+        "Schools & Public Institutions": [["Canossa Convent Primary School", "ChIJmyX9gCcY2jERXkBYulssYOA"],["Canossian School", "ChIJaUs9iCcY2jERr53dNkoZMAU"],["Lion City Sailors Football Academy", "ChIJPa2hBCcY2jEROJngZ5W0iHQ"],["St Margaret's Primary School (Temp)", "ChIJeRJ4bb4Z2jER4193i8GbelU"]],
+        "Shopping & Dining": [["Circuit Road Market & Food Centre", "ChIJWyvlS4oX2jER59oh3wlADJc"]],
+        "Picture": ["https://i.imgur.com/14jYdmX.jpg"]
+    },
+
+    "dt27": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Automobile Megamart", "ChIJfS5YyfAX2jERDpTYxae1wHM"],["CES Building", "ChIJo5sUa_YX2jERyUv8-nZS7sU"],["E-Park @ Ubi", "ChIJx2KDdLMX2jERFltDs3BIWIA"],["Excalibur Centre", "ChIJXZ5WafYX2jER5FlQQB96Aiw"],["Frontier", "ChIJaSP-lPMX2jER0VQ3uOScWQA"],["Fulco Building", "ChIJhdLfcOUX2jERrT3bPnKmYCQ"],["Hola Centre", "ChIJyXnyY_YX2jER33Esh1BF8kQ"],["Kah Motors", "ChIJGzQS-fEX2jERCOFmJ6EcePE"],["Kai Lim @ Ubi", "ChIJMVNL3_MX2jERWCe_CLkYYJk"],["Kampong Ubi Industrial Estate", "ChIJOySrrPUX2jERd5pidru6_ds"],["Olympia Industrial Building", "ChIJm1Er1_AX2jER8cOEDX4Xcs0"],["Serial System Building", "ChIJs33V3fMX2jERPviagatxQEg"],["Techniques Centre", "ChIJD4aX0S8X2jERMD2EOaLB5bg"],["The Besco Building", "ChIJj4zEOR4Y2jERqNFmcm7FVsc"],["Think One Building", "ChIJB7g8v_AX2jERHo_8YhN6cVI"],["Ubi Car Mall", "ChIJP4tJ18cX2jERRUplKWTRtCU"],["Ubi Techpark", "ChIJH_hnBB4Y2jERgF3OpTEVDQ4"],["Ubiplex 1", "ChIJ63J3nvYX2jER4sS-cbsH0qw"],["Wui Hong Building", "ChIJZU6xE28X2jERL5GX0uoaZ1I"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Maha Bodhi School", "ChIJndsDefcX2jERpQWfx_rmDGE"],["Manjusri Secondary School", "ChIJGd3-kPcX2jEREyKEY8kzMaI"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/7bhnw4R.jpg"]
+    },
+
+    "dt28": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Eunos Techpark", "ChIJI6emwPoX2jERXu3kBlCtjRY"],["Kaki Bukit Techpark 1 and 2", "ChIJG-ZenMkX2jERHI8_IHLK-cg"],["Shun Li Industrial Park", "ChIJq-dbUuIX2jER3xMzHPwlG_o"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Chong Teck Siang Tng Temple", "ChIJa_kR-_sX2jERnfKOzJiydXs"],["Masjid Alkaff Kampung Melayu", "ChIJRcgxouIX2jERcDz0m3hPvyQ"]],
+        "Schools & Public Institutions": [["Telok Kurau Primary School", "ChIJOxRLKvwX2jERGQQLU4UtOV4"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/NCFXakR.png"]
+    },
+
+    "dt29": {
+        "Attractions": [],
+        "Community Facilities": [["Eunos NPP", "ChIJAQ8_3Fc92jERV8UjX9kw_3w"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Advanex", "ChIJ0zIsU1g92jERVOpgSHkVETU"],["Bedok Industrial Park C", "ChIJKRzWOFg92jER6Onxx8Menbo"],["Dou Yee Building", "ChIJDc5wWlg92jERxup-jOOAbDY"]],
+        "Parks & Gardens": [["Bedok Town Park", "ChIJf7-nelA92jERV0jVMjWeteQ"],["Siglap Park Connector", "EiBTaWdsYXAgUGFyayBDb25uZWN0b3IsIFNpbmdhcG9yZSIuKiwKFAoSCaVR7pynItoxEYlmLneof7yzEhQKEgl1k4uKIxHaMRHE9atSz2l4iA"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Damai Primary School", "ChIJjTYHCVo92jERjIfiXqn_ZJg"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/CKt0ivm.png"]
+    },
+
+    "dt30": {
+        "Attractions": [],
+        "Community Facilities": [["Muhammadiyah Welfare Home", "ChIJAXGss0g92jERTbh25X05Vkk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Bedok Reservoir Park", "ChIJw62n3Vo92jERl8c1cg9hXzE"],["Bedok Town Park", "ChIJf7-nelA92jERV0jVMjWeteQ"]],
+        "Places of Worship": [["Seu Teck Sean Tong Yiang Sin Sia (Temple)", "ChIJU96BHkk92jERMaCA5wJBv-g"]],
+        "Schools & Public Institutions": [["Bedok Green Secondary School", "ChIJRWdWjkg92jERRufzDBhUm48"],["Damai Secondary School", "ChIJPboXJkU92jERdTeTNouJaOQ"],["Red Swastika School", "ChIJn72--Eg92jERVU3gFQSmmZg"],["Temasek Polytechnic", "ChIJcWfV_mk92jERlqKEnZLi8os"],["Yu Neng Primary School", "ChIJs4GPyEg92jER-NW5xUNAVXA"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/NLXmBrw.png"]
+    },
+
+    "dt31": {
+        "Attractions": [],
+        "Community Facilities": [["Jamiyah Home for the Aged (Darul Takim)", "ChIJbT8WthQ92jERLLCqp0bvkAE"],["SAFRA Clubhouse (Tampines)", "ChIJlf54ihU92jER5LP1xulqZMI"],["Singapore SOKA Association HQ", "ChIJf7BIwmw92jER5hxAkQDVk_E"],["Tampines NPC", "ChIJRSBSPxU92jER9fjK42-SkXA"],["Tampines SOKA Centre", "ChIJf7BIwmw92jER5hxAkQDVk_E"],["Tampines West CC", "ChIJ6REwZGs92jERLIndYr15iNE"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Tampines Park Connector", "ChIJOQIT2hk92jERtiKW9AFFGOQ"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Junyuan Primary School", "ChIJwwqW7hQ92jERyaEmKbcVLSE"],["Saint Hilda's Primary School", "ChIJ9zd1B0EFBBAR9qx_GhbrJhA"],["Saint Hilda's Secondary School", "ChIJdxDVsGw92jERAtnidZa73xw"],["Temasek Polytechnic", "ChIJcWfV_mk92jERlqKEnZLi8os"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/hU3pprJ.jpg"]
+    },
+
+    "dt33": {
+        "Attractions": [],
+        "Community Facilities": [["Tampines East CC", "ChIJHUdUUBs92jERPczmLaekY60"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Tampines North Park", "ChIJaz-jUQQ92jERTgN-TWpaUbo"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Dunman Secondary School", "ChIJVQFL2gA92jERBSa0CMNVVPA"],["Ngee Ann Secondary School", "ChIJ4dRFNgM92jERpiiGM9jfBrM"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/JJFqbWW.jpg"]
+    },
+
+    "dt34": {
+        "Attractions": [],
+        "Community Facilities": [["Singapore EXPO", "ChIJgU5qayg92jERoeC9afgWF68"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Jalan Pergam", "EhVKbG4gUGVyZ2FtLCBTaW5nYXBvcmUiLiosChQKEgndV_MI4DzaMRGIimmnrG9xDhIUChIJdZOLiiMR2jERxPWrUs9peIg"],["Jalan Tiga Ratus", "EhlKbG4gVGlnYSBSYXR1cywgU2luZ2Fwb3JlIi4qLAoUChIJ7ZFykCA92jERY6W7SNPpZFcSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"],["Upper Changi Road East", "EhxVcHBlciBDaGFuZ2kgUmQgRSwgU2luZ2Fwb3JlIi4qLAoUChIJDXWBOiE92jERP2jsSTLV-hESFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Changi Bethany Church", "ChIJXyGdcd882jERqYxjINHglTQ"]],
+        "Schools & Public Institutions": [["Singapore University of Technology and Design", "ChIJy2Dymdg82jERGFUCbbzKvpk"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/esEBvC4.jpg"]
+    },
+
+    "te1": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Republic Polytechnic", "ChIJ14hzqgUT2jER-IIzRuD1twI"], ["Singapore Institute of Technology", "ChIJ09SDgQYT2jERjLkOsp2YvVg"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/bWXe8vV.jpg"]
+    },
+
+    "te3": {
+        "Attractions": [],
+        "Community Facilities": [["ACE The Place CC", "ChIJzb2egbsT2jERcq5yvbCJ7yY"], ["Woodlands Health Campus", ""]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Vista Park", "ChIJhUIfLL0T2jERJKtgGsKrEAw"]],
+        "Places of Worship": [["BW Monastery", "ChIJTefSzLwT2jERG8NxUUBpMxo"], ["Covenant Evangelical Free Church", "ChIJkfj-NKMT2jERILcXZn-gJCU"], ["Light of Christ Church", "ChIJC_8jC7wT2jER-2Okt8GYmNA"], ["Masjid Yusof Ishak", "ChIJM9m0N7wT2jERLK8l5tbWlRM"]],
+        "Schools & Public Institutions": [["Christ Church Sec Sch", "ChIJ0wJO9LsT2jERcbPlpLT7gPY"], ["Innova Primary School", "ChIJ3fyEPLsT2jERSC4tfq0_Y_g"], ["Singapore Sports School", "ChIJ46Nqy7sT2jERtbm1OJhbUVo"], ["Woodgrove Secondary School", "ChIJxTTIQ70T2jERe28Kgjsxdy8"]],
+        "Shopping & Dining": [["Vista Point", "ChIJTW4fr5wT2jEReGufQu0QfWQ"]],
+        "Picture": ["https://i.imgur.com/wFBM6LO.png"]
+    },
+
+    "bp2": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Uttamayanmuni Buddhist Temple", "ChIJR_HUBMQR2jERiIRaXgQGsXg"]],
+        "Schools & Public Institutions": [["Chua Chu Kang Primary School", "ChIJpR_olcQR2jERpiolhW9hXws"], ["South View Primary School", "ChIJ8Z1dj8ER2jERKBp5h_WFtrM"]],
+        "Shopping & Dining": [["Keat Hong Shopping Centre", "ChIJxyo7LVYR2jERqlNRm9RkBUM"]],
+        "Picture": ["https://i.imgur.com/PR6ende.png"]
+    },
+
+    "bp3": {
+        "Attractions": [],
+        "Community Facilities": [["Choa Chu Kang Community Centre", "ChIJJYncfsAR2jERVE0WPGMg8Bg"], ["Choa Chu Kang Polyclinic", "ChIJW1axjb8R2jERYKqQVcmPwj0"], ["Leong Hwa Chan Si Temple – NKF Dialysis Centre", "ChIJYSHiSccR2jERQzYS1bEuXIY"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Al-Khair Mosque", "ChIJSdS9OsAR2jERTXFNlJIG2iA"], ["Choa Chu Kang Combined Temple", "ChIJ0xe1ye8R2jERYck9AKD6qMY"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/pkpft8G.png"]
+    },
+
+    "bp4": {
+        "Attractions": [],
+        "Community Facilities": [["Choa Chu Kang Neighbourhood Police Post", "ChIJSytqTL8R2jERl_aAUsfsh_8"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Methodist Church of Incarnation", "ChIJjd4RP78R2jERf3b4J0eeU1k"]],
+        "Schools & Public Institutions": [["ITE College West", "ChIJHxfJeecR2jERy04VMjd1fM0"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/evRFrFa.png"]
+    },
+
+    "bp5": {
+        "Attractions": [],
+        "Community Facilities": [["Bukit Panjang Post Office", "ChIJo9AjErwR2jER_R490kdkMO8"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Bukit Panjang Gospel Chapel", "ChIJTem27LsR2jERozC8OtRmLss"]],
+        "Schools & Public Institutions": [["Teck Whye Primary School", "ChIJ3cskXpUR2jERdU9fhheLjng"], ["Teck Whye Secondary School", "ChIJe5r-9JUR2jERqq2Ga_xE6HU"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/4Xx5rA3.png"]
+    },
+
+    "bp7": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Korean Church in Singapore", "ChIJKSX376QR2jER8z8EgtvEr7M"]],
+        "Schools & Public Institutions": [["Fajar Secondary School", "ChIJu-q0UakR2jER8lWWCgRXvQ8"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/w8xIume.png"]
+    },
+
+    "bp8": {
+        "Attractions": [],
+        "Community Facilities": [["Bukit Panjang Community Club", "ChIJJWt786YR2jERcIgIkdUxv_0"], ["Bukit Panjang Neighbourhood Police Post", "ChIJNd9v7KYR2jERFagfg-dsnX0"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Bukit Panjang Primary School", "ChIJLYS9rqgR2jERu6jj_I969Gw"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/O3Du9UH.png"]
+    },
+
+    "bp9": {
+        "Attractions": [],
+        "Community Facilities": [["Holland-Bukit Panjang Town Council (Bangkit)", "ChIJcVqc0KAR2jERVYuJ1ayb0DA"], ["New Creation Church – NKF Dialysis Centre", "ChIJoY8vZKcR2jERh3JopoWwN-s"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Zhenghua Park", "ChIJW0wCIAcR2jERAEOR0GhMljA"]],
+        "Places of Worship": [["Al-Iman Mosque", "ChIJK0xjKacR2jERiBZn3arHHi4"]],
+        "Schools & Public Institutions": [["Beacon Primary School", "ChIJPzs1lZ8R2jER9rjspOQpzio"], ["Greenridge Secondary School", "ChIJS4GFPqAR2jERQGJOjeXgYz8"], ["Zhenghua Primary School", "ChIJJR5v3qMR2jER9QZ49ia1PWE"]],
+        "Shopping & Dining": [["Bangkit Market", "ChIJkXRszaAR2jEROQL4rhmhElg"]],
+        "Picture": ["https://i.imgur.com/Fv9OPbg.png"]
+    },
+
+    "bp10": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Chi Hock Keng Temple", "ChIJyyFrrpgR2jERe-AxQK5jMds"]],
+        "Schools & Public Institutions": [["Fajar Shopping Centre", "ChIJM7Kvx3QZ2jER7umUFjan98g"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/sdPRova.png"]
+    },
+
+    "bp11": {
+        "Attractions": [],
+        "Community Facilities": [["Bukit Panjang Neighbourhood Police Centre", "ChIJ1TiejZ4R2jERoxavgZ0fl4o"], ["Zhenghua Community Club", "ChIJn3ut854R2jERfkj909V6YhA"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Greenridge Primary School", "ChIJJXbrIZkR2jERQOapX1-lQWY"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/8p7M9Fm.png"]
+    },
+
+    "bp12": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Convenant Evangelical Church (Bukit Panjang)", "ChIJW5hcVtYb2jERTixv16nyZzE"]],
+        "Schools & Public Institutions": [["Zhenghua Secondary School", "ChIJaWCuP5oR2jER1GwEhrFXAoA"]],
+        "Shopping & Dining": [["Greenridge Shopping Centre", "ChIJOVkoVXAR2jERO-rsgB51laI"]],
+        "Picture": ["https://i.imgur.com/K5ZNXLK.png"]
+    },
+
+    "bp13": {
+        "Attractions": [],
+        "Community Facilities": [["Senja Soka Centre", "ChIJq6qqer0R2jERCFddUVEZbV4"], ["Senja-Cashew CC", "ChIJs45bbr0R2jERwByR91EdWqw"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["West View Primary School", "ChIJ52ZRhr0R2jERzrJbrhEZw8U"], ["West Spring Secondary School", "ChIJZS8GNJER2jERSd-ue7liC-Q"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/dfSnZb8.png"]
+    },
+
+    "se1": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["HDB Compassvale Green", "ChIJ5SIpOg8W2jER4Ur8ggcd-Ro"], ["HDB Compassvale Haven", "ChIJhWFb-A4W2jERoz2TKrA4Rn0"], ["HDB Compassvale Lodge", "ChIJCV8aam0X2jERsUt0TABjMVE"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["St Anne's Church", "ChIJq6qqGhAW2jERcvUiW4zs-sU"]],
+        "Schools & Public Institutions": [["Compassvale Primary School", "ChIJezOWjg4W2jERhHhT9rwRPzU"], ["Compassvale Secondary School", "ChIJk8CdLAkW2jERdy-WT67Bhjw"], ["CHIJ St. Joseph's Convent", "ChIJAyk0HRAW2jER9_UCjt9w8Wc"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/A7KGyLv.png"]
+    },
+
+    "se2": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Rivervale Delta", "ChIJi4gBNo0X2jERu2MW6YaqaSs"], ["Rivervale Gateway", "ChIJYZJuhwUW2jERYKPiw7sz2Ys"], ["Rivervale Green", "ChIJHQCgNhsW2jER5A81cuHGrKc"], ["Rivervale Place", "ChIJ9zgi5BoW2jER7p70hFfDb-Y"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Arulmigu Velmurugan Gnanamuneeswarar Temple", "ChIJu7ZXhhsW2jERIrsz6gV3oSE"], ["Chong Hua Tong Tou Teck Hwee", "ChIJBVtJmhsW2jERBGww7_i94H4"], ["Sengkang Combined Temple", "ChIJ636KoRsW2jERmgbIWkSvrMM"]],
+        "Schools & Public Institutions": [["CHIJ St. Joseph's Convent", "ChIJAyk0HRAW2jER9_UCjt9w8Wc"], ["Rivervale Primary School", "ChIJnVhRDgUW2jERzmxuhCYAlso"]],
+        "Shopping & Dining": [["Rivervale Mall", "ChIJmQIrNAUW2jER6VgPAnslDhU"]],
+        "Picture": ["https://i.imgur.com/GIcxTVp.png"]
+    },
+
+    "se3": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Rivervale Bank", "ChIJY5aLltUX2jERV373PIN1YCs"], ["Rivervale Gardens", "ChIJ9VWpixcW2jERG3SJ-xlXgLA"],["Rivervale Grove", "ChIJqYdeBBgW2jERgaZOLDldYpQ"],["Rivervale Place", "ChIJ9zgi5BoW2jER7p70hFfDb-Y"],["Rivervale Plains", "ChIJmX4etMgX2jER0uEaHTfDiFw"],["Rivervale View", "ChIJE6RguRsW2jERzQX_X1SNU6Q"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Arulmigu Velmurugan Gnanamuneeswarar Temple", "ChIJu7ZXhhsW2jERIrsz6gV3oSE"], ["Chong Hua Tong Tou Teck Hwee", "ChIJBVtJmhsW2jERBGww7_i94H4"], ["Sengkang Combined Temple", "ChIJ636KoRsW2jERmgbIWkSvrMM"]],
+        "Schools & Public Institutions": [["North Spring Primary School", "ChIJvbHdGhoW2jERI_CVwIDyBCw"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/5L1AmLe.png"]
+    },
+
+    "se4": {
+        "Attractions": [],
+        "Community Facilities": [["HDB Sengkang Branch", "ChIJDaggbhcW2jERbhodAtNmN2Y"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Sungei Serangoon Park Connector", "ChIJ97XwOBkW2jERCiB_3QrxKrI"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["North Vista Sec Sch", "ChIJ5Szukj0W2jERQ9wG42kfcEM"]],
+        "Shopping & Dining": [["Rivervale Plaza", "ChIJg6GcaBcW2jER_Vyx8tDZ1JU"]],
+        "Picture": ["https://i.imgur.com/bY4dkrX.png"]
+    },
+
+    "se5": {
+        "Attractions": [],
+        "Community Facilities": [["Sengkang Town Council", "ChIJH43ARQ4W2jERJJTVRdkKfCM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["North Vista Pri Sch", "ChIJPfi59RUW2jER10kPK44FGtU"],["North Vista Sec Sch", "ChIJ5Szukj0W2jERQ9wG42kfcEM"],["Sengkang Sec Sch", "ChIJNZ4hxhYW2jERHX12R6Oy190"] ],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/cgzsVyf.png"]
+    },
+
+    "sw1": {
+        "Attractions": [],
+        "Community Facilities": [["Sengkang General Hospital", "ChIJW5hcVtYb2jER81BIRMJ0RjQ"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["The Vales", "ChIJn9pBdwsW2jERCrA4avAGBu8"],["Treasure Chest", "ChIJcaifKAsW2jERLCIkEYQ8YZk"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/UsThid8.png"]
+    },
+
+    "sw2": {
+        "Attractions": [],
+        "Community Facilities": [["Anchorvale CC", "ChIJgz37DHQW2jERqjPlPqDQ9cE"], ["Sengkang Sports Centre", "ChIJ7UrY8HMW2jER3ouFYG5edII"], ["Sengkang Hockey Stadium", "ChIJb58I6HMW2jERrCH7tQnI89E"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Sengkang Floating Wetland", "ChIJi54MXHEW2jER92P0bUk92Ik"],["Sengkang Riverside Park", "ChIJ0ZnzsXUW2jER9IrUeleR7To"]],
+        "Places of Worship": [["Nanyang Thong Hong Siang Tng Temple", "ChIJf5qT3HIW2jER1BzlSq9JqH4"], ["Puat Jit Buddhist Temple", "ChIJM6r6w3IW2jERbWRr8CPJJEE"]],
+        "Schools & Public Institutions": [["Springdale Primary School", "ChIJaUmn4mwW2jERGhgUYMpvCO4"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/OV6bqpl.png"]
+    },
+
+    "sw3": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Sengkang Floating Wetland", "ChIJi54MXHEW2jER92P0bUk92Ik"],["Sengkang Riverside Park", "ChIJ0ZnzsXUW2jER9IrUeleR7To"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/uaCJj4d.png"]
+    },
+
+    "sw4": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["High Park Residences", "ChIJoQwMgUYX2jERYfGGrA1QZ4Y"], ["Jalan Kayu Estate", "ChIJVVrxa38W2jERPBWfC5BrvnI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Abundant Grace Presbyterian Church", "ChIJd3mJs34W2jERvtLaira3Yx8"]],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/zjb1Vpv.png"]
+    },
+
+    "sw5": {
+        "Attractions": [],
+        "Community Facilities": [["Ang Mo Kio Town Council (Sengkang West Office)", "ChIJvQlU4mQW2jERXuQNL_jwRjk"],["Ju Eng Home for Senior Citizens", "ChIJyZajjXwW2jER_bjIpMWs25k"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Jalan Kayu Joint Temple", "ChIJ0d7rCg0W2jER53lkSDPwTaQ"]],
+        "Schools & Public Institutions": [["Fernvale Primary School", "ChIJ9THAg2QW2jERo7a2We99yus"],["MINDS-Fernvale Gardens School", "ChIJPRn2kmQW2jERIN3Xc_Zv1J8"],["Pei Hwa Sec Sch", "ChIJhcXuImUW2jERs8y3Ohdg0s8"],["Sengkang Green Primary School", "ChIJRxl_SHsW2jERt4fJgZ35dA4"]],
+        "Shopping & Dining": [["The Seletar Mall", "ChIJRwKG2mQW2jER13VL9P5QOws"]],
+        "Picture": ["https://i.imgur.com/JmltvHt.png"]
+    },
+
+    "sw6": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["H2O Residences", "ChIJW51LBHAW2jERYX_s3Tid-5A"], ["Rivertree Residences", "ChIJ841tqSoX2jERCNnGL1ee0Ks"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Pei Hwa Sec Sch", "ChIJhcXuImUW2jERs8y3Ohdg0s8"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/Gj6PdMb.png"]
+    },
+
+    "sw7": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Sengkang Methodist Church", "ChIJ47CyDnIW2jERvcBukFCICNo"]],
+        "Schools & Public Institutions": [["Anchor Green Primary School", "ChIJNz0blm0W2jER1j2s44pL-Lw"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/zqzsTDi.png"]
+    },
+
+    "sw8": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Nan Chiau High School", "ChIJ85po32wW2jERkrPOx6i8vPw"],["Palm View Pri Sch", "ChIJGRxIxmoW2jERJAN0jt53xX8"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/otofQdv.png"]
+    },
+
+    
+
+    "pe1": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Prive", "ChIJxT2XTuMV2jERBdG3uboza3Y"],["The Periwinkle", "ChIJE2I3hf0V2jER-fsN2fpRH1s"],["Waterbay Condominium", "ChIJz252VwcW2jERERNTqzOQv0M"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Edgefield Primary School", "ChIJVykERAcW2jERjkryPev9iaY"],["Edgefield Secondary School", "ChIJEb04DAgW2jERGOop2T9zzXo"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/JJxqDG7.png"]
+    },
+
+    "pe2": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Greendale Sec Sch", "ChIJ-0XSoQEW2jERXhyZD5J4UtA"],["Mee Toh School", "ChIJu5S2iAMW2jERqXyv3Rg4EyU"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/7qY34I5.png"]
+    },
+
+    "pe3": {
+        "Attractions": [],
+        "Community Facilities": [["HDB Punggol Branch Office", "ChIJLcYFkAIW2jER1hF35T8Brbc"],["Punggol 21 CC", "ChIJrWIzRwIW2jERGPDNu6ftpCg"], ["Punggol Post Office", "ChIJLcYFkAIW2jERQ3nFHeWiSZA"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["FLO Residence", "ChIJtdczsgIW2jERz8vFTO_W7Vo"],["River Isles", "ChIJt3dW7AEW2jERhgEXG5pwUI4"], ["Waterwoods Condominium", "ChIJy6ieFvEX2jERQjqiVp4wMmM"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Greendale Pri Sch", "ChIJI8DaVKUX2jERaeaDfYRKRIw"]],
+        "Shopping & Dining": [["Punggol Plaza", "ChIJpwNkYAIW2jERFRkVIyvEAao"]],
+        "Picture": ["https://i.imgur.com/dKUNq0V.png"]
+    },
+
+    "pe4": {
+        "Attractions": [["PAR Golf Range", "ChIJp1UHNPk92jER2wzfY28glcg"]],
+        "Community Facilities": [["Bright Hill Evergreen Home", "ChIJi_fhGvg92jERoCUaOJwJseA"],["HDB Punggol Branch Office", "ChIJLcYFkAIW2jER1hF35T8Brbc"],["Punggol 21 CC", "ChIJrWIzRwIW2jERGPDNu6ftpCg"],["Punggol NPC", "ChIJcdn2U_g92jERXsWQf7oMaHo"],["Punggol Post Office", "ChIJLcYFkAIW2jERQ3nFHeWiSZA"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Punggol Promenade Riverside Walk", "EitQdW5nZ29sIFByb21lbmFkZSBSaXZlcnNpZGUgV2FsaywgU2luZ2Fwb3JlIi4qLAoUChIJlxZJovk92jERT7rZ9HZPyXQSFAoSCXWTi4ojEdoxEcT1q1LPaXiI"]],
+        "Places of Worship": [["Punggol Joint Temple", "ChIJ5SQUEPg92jEROFmnSV3nXVI"]],
+        "Schools & Public Institutions": [["Greendale Pri Sch", "ChIJI8DaVKUX2jERaeaDfYRKRIw"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/yAwdqhC.png"]
+    },
+
+    "pe5": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["RiverParc Residence", "ChIJicm__P492jERN4wOo_N_9-4"],["The Terrace Condo", "ChIJsRXg3v892jERfOKN26j1nzI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Waterway Pri Sch", "ChIJOVqQXf492jERujvVdlTZywA"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/7orYztg.png"]
+    },
+
+    "pe6": {
+        "Attractions": [],
+        "Community Facilities": [["Punggol Polyclinic", "ChIJAzJfAfwV2jERYnR3U5_OjjM"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["The Amore", "ChIJd-iYSgAW2jERcpwuoDm7imU"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Central Christian Church", "ChIJFWl4oQAW2jERJre2Z50P9os"]],
+        "Schools & Public Institutions": [["Horizon Pri Sch", "ChIJg-vjPwAW2jERvehflQPd39c"]],
+        "Shopping & Dining": [["Oasis Terraces", "ChIJo7TzxRkV2jERIHtqiVMqOo4"]],
+        "Picture": ["https://i.imgur.com/IZN2ZU8.png"]
+    },
+
+    "pe7": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["My Waterway @ Punggol", "ChIJ6-NSMYoV2jERge8VCAIJDbI"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Oasis Pri Sch", "ChIJYU2m3f4V2jERaulmckh3k2A"], ["Punggol Sec Sch", "ChIJqZR1cf4V2jERAIUHqAp3qAo"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/4ndlGzm.png"]
+    },
+
+    "pw1": {
+        "Attractions": [],
+        "Community Facilities": [["SAFRA Clubhouse (Punggol)", "ChIJr57FZvoV2jERvmqxcxwiA_I"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [["Punggol Waterway Park", "ChIJBVVBo_EV2jER-jKR3Hy6qUk"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/sRsKcXU.png"]
+    },
+
+    "pw2": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/itBXgKT.png"]
+    },
+
+    "pw3": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Northshore Bungalows", "ChIJ5_4fjesV2jER1j7YmC6ZHws"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [["Carmelite Friars' Formation House", "ChIJgW_17vEV2jERAgpWISQprjQ"], ["St Francis Xavier Major Seminary (Former)", "ChIJd8-Nw58V2jERR3ZZgK7n9j8"] ],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/5E7mVJo.png"]
+    },
+
+    "pw4": {
+        "Attractions": [],
+        "Community Facilities": [["Marina Country Club", "ChIJd1HLIOwV2jERZt3u3fAKhUk"]],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Northshore Residences I", "ChIJTZsLjd0V2jERcZV5yQTNNkI"], ["Northshore Residences II", "ChIJcz8Nc2MV2jERSjAfBvZ2iuY"], ["Waterfront I", "ChIJDQW66hUV2jER1dxIyc2Ny9I"], ["Waterfront II", "ChIJaSW7bu0V2jER7w0y-AKTGZw"], ["Whiteshores", "ChIJL7N0APIV2jERS-6xSm8SEGM"]],
+        "Parks & Gardens": [["Punggol Park Connector", "EiFQdW5nZ29sIFBhcmsgQ29ubmVjdG9yLCBTaW5nYXBvcmUiLiosChQKEgkj_FXC4BXaMRE7cJO4lUCl0RIUChIJyY4rtGcX2jERIKTarqz3AAQ"]],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/T2OZKhR.png"]
+    },
+
+    "pw5": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["Piermont Grand Condo", "ChIJX9LMsWgV2jEREMFsIDeU_NI"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Punggol Cove Pri Sch", "ChIJA8YcCuYV2jERqGseuFHlsJg"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/OLmjsQX.png"]
+    },
+
+    "pw6": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/r7g8tVY.png"]
+    },
+
+    "pw7": {
+        "Attractions": [],
+        "Community Facilities": [],
+        "Historical Landmark": [],
+        "Hotels & Hostels": [],
+        "Offices & Residences": [["A Treasure Trove Condo", "ChIJM7Kvx3QZ2jERVQq87l8wP18"],["Twin Waterfalls Condo", "ChIJ5fMsGeIV2jERXAC99JPmE9U"]],
+        "Parks & Gardens": [],
+        "Places of Worship": [],
+        "Schools & Public Institutions": [["Punggol Green Primary School", "ChIJcVLedeIV2jERvXfYPZ4-S40"]],
+        "Shopping & Dining": [],
+        "Picture": ["https://i.imgur.com/C1ByCr1.png"]
+    }
+
+}

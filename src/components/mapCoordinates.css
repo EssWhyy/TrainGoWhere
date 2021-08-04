@@ -1,12 +1,128 @@
-p {
+h3 {
+    font-family: 'Merriweather', serif;
+}
+
+body, p {
     font-family: 'Montserrat', serif;
+}
+
+label {
+    font-family: 'Merriweather', serif;
+}
+
+input {
+    font-family: 'Montserrat', serif;
+}
+
+.selectedStations {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.selectedStations h3, 
+.selectedStations p, 
+.selectedStations submit-btn {
+    margin: 0px;
+    display: inline-block;
+    padding: 1em;
+    font-size: 20px;
+}
+
+.selectedStations label, 
+.selectedStations input, 
+.selectedStations submit-btn {
+    margin: 0px;
+    display: inline-block;
+    padding: 1em;
+    font-size: 18px;
+}
+
+.directions {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.directions results {
+    margin: 0px;
+    display: inline-block;
+    padding: 1em;
+    font-size: 20px;
+}
+
+.selectStn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 5px;
+    line-height: 7px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    width: 190px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 30px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+ 
+ .selectStn:hover {
+    border: solid #337FED 1px;
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.submit-btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Merriweather, serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #34b2d9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.submit-btn:hover {
+    background: #3c82fa;
+    background-image: -webkit-linear-gradient(top, #3c82fa, #3498db);
+    background-image: -moz-linear-gradient(top, #3c82fa, #3498db);
+    background-image: -ms-linear-gradient(top, #3c82fa, #3498db);
+    background-image: -o-linear-gradient(top, #3c82fa, #3498db);
+    background-image: linear-gradient(to bottom, #3c82fa, #3498db);
+    text-decoration: none;
 }
 
 .map {
     position: relative;
+    z-index: 0; /* BOTTOM LAYER */
 }
-
-
 
 /* CUSTOM BUTTON FOR EWL */ 
 .ew-btn {
@@ -20,6 +136,7 @@ p {
     padding: 0.25% 0.25%;
     border: solid #009645 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .ew-btn:hover {
@@ -39,6 +156,7 @@ p {
     padding: 0.25% 0.25%;
     border: solid #D42E12 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .ns-btn:hover {
@@ -58,6 +176,7 @@ p {
     padding: 0.25% 0.25%;
     border: solid #9900AA 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .ne-btn:hover {
@@ -77,6 +196,7 @@ p {
     padding: 0.25% 0.25%;
     border: solid #FA9E0D 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .cc-btn:hover {
@@ -96,6 +216,7 @@ p {
     padding: 0.25% 0.25%;
     border: solid #005EC4 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .dt-btn:hover {
@@ -115,6 +236,7 @@ p {
     padding: 0.25% 0.25%;
     border: solid #784008 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .te-btn:hover {
@@ -134,6 +256,7 @@ p {
     padding: 0.2% 0.2%;
     border: solid #999999 2px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .lrt-btn:hover {
@@ -153,6 +276,7 @@ p {
     padding: 0.3% 0.3%;
     border: solid #000000 5px;
     text-decoration: none;
+    z-index: 5; /* TOP LAYER */
 }
   
 .ic-btn:hover {
@@ -160,6 +284,7 @@ p {
     text-decoration: none;
 }
 
+/* POSITION OF STATION BUTTONS */ 
 /* EAST-WEST LINE & CHANGI AIRPORT BRANCH LINE */
 .cg1 {
     top: 66%;
@@ -969,6 +1094,1680 @@ p {
 .pe7 {
     top: 21.7%;
     left: 85.9%;
+}
+
+
+
+
+
+
+
+/* POSITION OF PATH EDGES ON MAP */ 
+/* FOR CONVENIENCE, EDGES ARE NAMED BY THE FIRST LETTER OF THE LINE'S COLOUR */
+.rect {
+    opacity: 0;
+    background-color: palevioletred;
+    position: absolute;
+    z-index: 3; /* MIDDLE LAYER */
+}
+
+/* Use transform: rotate(24deg); */
+
+/* EAST-WEST LINE denoted by 'g' or 'gc' */ 
+.g1 {
+    height: 1%;
+    width: 5%;
+    top: 54%;
+    left: 86.7%;
+    transform: rotate(132deg);
+    border-radius: 90% 0 90% 90%;
+}
+
+.g2 {
+    height: 2.2%;
+    width: 1%;
+    top: 58%;
+    left: 87.8%;
+}
+
+.g3 {
+    height: 2.3%;
+    width: 1%;
+    top: 61%;
+    left: 87.6%;
+    transform: rotate(6deg);
+    border-radius: 0 20% 60% 0;
+}
+
+.g4 {
+    height: 1%;
+    width: 2.1%;
+    top: 62.7%;
+    left: 84.4%;
+}
+
+.g5 {
+    height: 1%;
+    width: 3.78%;
+    top: 62.7%;
+    left: 80%;
+}
+
+.g6 {
+    height: 1%;
+    width: 3.7%;
+    top: 62.7%;
+    left: 75.8%;
+}
+
+.g7 {
+    height: 1%;
+    width: 3.6%;
+    top: 62.7%;
+    left: 71.6%;
+}
+
+.g8 {
+    height: 1%;
+    width: 1%;
+    top: 63%;
+    left: 70%;
+    transform: rotate(165deg);
+}
+
+.g9 {
+    height: 1%;
+    width: 3%;
+    top: 65%;
+    left: 66.8%;
+    transform: rotate(135deg);
+}
+
+.g10 {
+    height: 1%;
+    width: 1.5%;
+    top: 67.7%;
+    left: 65.7%;
+    transform: rotate(135deg);
+}
+
+.g11 {
+    height: 1%;
+    width: 2%;
+    top: 69.8%;
+    left: 63.8%;
+    transform: rotate(135deg);
+}
+
+.g12 {
+    height: 1%;
+    width: 6%;
+    top: 74.4%;
+    left: 58.5%;
+    transform: rotate(135deg);
+
+}
+
+.g13 {
+    height: 1%;
+    width: 2.8%;
+    top: 79.7%;
+    left: 56.1%;
+    transform: rotateZ(135deg);
+}
+
+.g14 { /* MODEL FOR CURVE */
+    height: 1%;
+    width: 5.8%;
+    top: 83.5%;
+    left: 49.8%;
+    border-radius: 0 0 80%/100px 0;
+}
+
+.g14_1 { /* MODEL FOR CURVE */
+    height: 1%;
+    width: 2.1%;
+    top: 82%;
+    left: 55%;
+    transform: rotate(135deg);
+    border-radius: 0 60px 60px 0px;
+}
+
+.g15 { /* MODEL FOR CURVE */
+    height: 1.2%;
+    width: 4.6%;
+    top: 81%;
+    left: 45.3%;
+    transform: rotate(45deg);
+    border-radius: 0% 50% 50% 50%;
+}
+
+.g16 { /* MODEL FOR CURVE */
+    height: 1.2%;
+    width: 3.5%;
+    top: 75.3%;
+    left: 43.9%;
+    transform: rotate(50deg);
+    border-radius: 20% 80% 20% 20%;
+}
+
+.g17 {
+    height: 1%;
+    width: 3%;
+    top: 72%;
+    left: 42%;
+    transform: rotate(45deg);
+}
+
+.g18 {
+    height: 1%;
+    width: 3.5%;
+    top: 68%;
+    left: 39%;
+    transform: rotate(45deg);
+}
+
+.g19 {
+    height: 1%;
+    width: 3.1%;
+    top: 64.2%;
+    left: 36.4%;
+    transform: rotate(45deg);
+}
+
+.g20 {
+    height: 1%;
+    width: 3.2%;
+    top: 60.9%;
+    left: 34%;
+    transform: rotate(45deg);
+}
+
+.g21 {
+    height: 1%;
+    width: 2.7%;
+    top: 57.2%;
+    left: 31.5%;
+    transform: rotate(45deg);
+}
+
+.g22 {
+    height: 1%;
+    width: 4%;
+    top: 53.5%;
+    left: 28.4%;
+    transform: rotate(45deg);
+}
+
+.g23 { /* GOOD MODEL */
+    height: 1%;
+    width: 8.5%;
+    top: 50.5%;
+    left: 20.5%;
+    border-radius: 0 100px 10px 0;
+}
+
+.g24 {
+    height: 1%;
+    width: 2%;
+    top: 50.3%;
+    left: 17.7%;
+}
+
+.g25 {
+    height: 1%;
+    width: 2.6%;
+    top: 50.3%;
+    left: 14.5%;
+}
+
+.g26 {
+    height: 1%;
+    width: 2.7%;
+    top: 50.3%;
+    left: 11.2%;
+    
+}
+
+.g27 {
+    height: 1%;
+    width: 1.9%;
+    top: 50.3%;
+    left: 8.7%;
+}
+
+.g28 {
+    height: 1%;
+    width: 1.7%;
+    top: 50.3%;
+    left: 6.5%;
+}
+
+.g29 {
+    height: 3%;
+    width: 1%;
+    top: 50.3%;
+    left: 5%;
+    border-radius: 100px 30px 10px 10px;
+    transform: rotate(5deg);
+}
+
+.g30 {
+    height: 2.2%;
+    width: 1%;
+    top: 54%;
+    left: 4.8%;
+}
+
+.g31 {
+    height: 2.2%;
+    width: 1%;
+    top: 56.7%;
+    left: 4.8%;
+}
+
+.g32 {
+    height: 2%;
+    width: 1%;
+    top: 59.6%;
+    left: 4.8%;
+}
+
+/* CHANGI AIRPORT BRANCH LINE EDGES */
+.gc1 {
+    height: 1%;
+    width: 2.5%;
+    top: 66.3%;
+    left: 91.7%;
+}
+
+.gc2 {
+    height: 1%;
+    width: 3.1%;
+    top: 66.3%;
+    left: 87.5%;
+}
+
+.gc2_1 {
+    height: 3.3%;
+    width: 1%;
+    top: 64%;
+    left: 86.5%;
+    border-radius: 0px 0px 10px 110px;
+}
+
+
+
+/* NORTH-SOUTH LINE denoted by 'r' */
+.r1 {
+    height: 9%;
+    width: 1%;
+    top: 41.3%;
+    left: 19.8%;
+}
+
+.r2 {
+    height: 5.3%;
+    width: 1%;
+    top: 35.1%;
+    left: 19.8%;
+}
+
+.r3 {
+    height: 11.3%;
+    width: 1%;
+    top: 23%;
+    left: 19.8%;
+}
+
+.r4 {
+    height: 4%;
+    width: 1%;
+    top: 17.5%;
+    left: 19.8%;
+}
+
+.r5 {
+    height: 8.3%;
+    width: 1%;
+    top: 8.2%;
+    left: 19.8%;
+    border-radius: 100px 0px 0 0;
+}
+
+.r5_1 {
+    height: 1%;
+    width: 3.9%;
+    top: 8.2%;
+    left: 20.8%;
+}
+
+.r6 {
+    height: 1%;
+    width: 5.1%;
+    top: 8.2%;
+    left: 25.3%;
+}
+
+.r7 {
+    height: 1%;
+    width: 7.6%;
+    top: 8.2%;
+    left: 31.1%;
+}
+
+.r8 {
+    height: 1%;
+    width: 4.5%;
+    top: 8.2%;
+    left: 39%;
+}
+
+.r9 {
+    height: 1%;
+    width: 4.5%;
+    top: 8.2%;
+    left: 43.7%;
+}
+
+.r10 {
+    height: 1%;
+    width: 2%;
+    top: 8.2%;
+    left: 48.8%;
+    border-radius: 0 80px 80px 0;
+}
+
+.r10_1 {
+    height: 1%;
+    width: 1.8%;
+    top: 8.7%;
+    left: 50.2%;
+    transform: rotate(35deg);
+    border-radius: 80px 0 0 80px;
+}
+
+.r11 {
+    height: 1%;
+    width: 3.7%;
+    top: 11.9%;
+    left: 51.8%;
+    transform: rotate(45deg);
+}
+
+.r12 {
+    height: 1%;
+    width: 1.8%;
+    top: 15%;
+    left: 54.7%;
+    transform: rotate(50deg);
+    border-radius: 0 80px 0px 0;
+}
+
+.r12_1 {
+    height: 4.2%;
+    width: 1%;
+    top: 15.2%;
+    left: 55.2%;
+    border-radius: 10px 100px 0 0;
+}
+
+.r13 {
+    height: 4%;
+    width: 1%;
+    top: 20.3%;
+    left: 55.3%;
+}
+
+.r14 {
+    height: 4.5%;
+    width: 1%;
+    top: 25%;
+    left: 55.3%;
+}
+
+.r15 {
+    height: 8%;
+    width: 1%;
+    top: 30.2%;
+    left: 55.3%;
+}
+
+.r16 {
+    height: 2.3%;
+    width: 1%;
+    top: 39.6%;
+    left: 55.3%;
+}
+
+.r17 {
+    height: 4%;
+    width: 1%;
+    top: 42.6%;
+    left: 55%;
+    border-radius: 0 20px 20px 0;
+    transform: rotate(20deg);
+}
+
+.r18 {
+    height: 3.3%;
+    width: 1%;
+    top: 46.2%;
+    left: 53%;
+    transform: rotate(45deg);
+}
+
+.r19 {
+    height: 4%;
+    width: 1%;
+    top: 49%;
+    left: 50.7%;
+    transform: rotate(45deg);
+}
+
+.r20 {
+    height: 5.9%;
+    width: 1%;
+    top: 52.2%;
+    left: 47.7%;
+    transform: rotate(45deg);
+    border-radius: 0 0 0 50px;
+}
+
+.r21 {
+    height: 5.9%;
+    width: 1%;
+    top: 57.5%;
+    left: 47.8%;
+    transform: rotate(135deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.r22 {
+    height: 7%;
+    width: 1%;
+    top: 61.8%;
+    left: 51.2%;
+    transform: rotate(134deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.r23 {
+    height: 11.2%;
+    width: 1%;
+    top: 66.8%;
+    left: 56.5%;
+    transform: rotate(134deg);
+    border-radius: 50px 0 50px 0px;
+}
+
+.r23_1 {
+    height: 1.5%;
+    width: 1%;
+    top: 75.7%;
+    left: 58.8%;
+    transform: rotate(45deg);
+    border-radius: 0 50px 0 50px;
+    
+}
+
+.r24 {
+    height: 8.6%;
+    width: 1%;
+    top: 81.5%;
+    left: 55.3%;
+    border-radius: 50px 0 0px 0;
+}
+
+.r25 {
+    height: 3.2%;
+    width: 1%;
+    top: 91.5%;
+    left: 55.3%;
+}
+
+/* NORTH-EAST LINE denoted by 'p' */
+.p1 {
+    height: 9.2%;
+    width: 1%;
+    top: 77.5%;
+    left: 43.4%;
+    transform: rotate(45deg);
+    border-radius: 0px 50px 0px 50px;
+}
+
+.p2 {
+    height: 3.8%;
+    width: 1%;
+    top: 74.6%;
+    left: 47.5%;
+    transform: rotate(45deg);
+}
+
+.p3 {
+    height: 3.3%;
+    width: 1%;
+    top: 71.4%;
+    left: 49.9%;
+    transform: rotate(45deg);
+}
+
+.p4 {
+    height: 3.7%;
+    width: 1%;
+    top: 68.2%;
+    left: 52%;
+    transform: rotate(45deg);
+}
+
+.p5 {
+    height: 8%;
+    width: 1%;
+    top: 60%;
+    left: 54.1%;
+    transform: rotate(5deg);
+    border-radius: 50px 0px 50px 0px;
+}
+
+.p6 {
+    height: 3.3%;
+    width: 1%;
+    top: 57%;
+    left: 55.7%;
+    transform: rotate(45deg);
+}
+
+.p7 {
+    height: 2.8%;
+    width: 1%;
+    top: 54.5%;
+    left: 57.7%;
+    transform: rotate(45deg);
+}
+
+.p8 {
+    height: 3.2%;
+    width: 1%;
+    top: 51.8%;
+    left: 59.6%;
+    transform: rotate(45deg);
+}
+
+.p9 {
+    height: 3%;
+    width: 1%;
+    top: 49%;
+    left: 61.6%;
+    transform: rotate(45deg);
+}
+
+.p10 {
+    height: 3.6%;
+    width: 1%;
+    top: 45.8%;
+    left: 63.7%;
+    transform: rotate(45deg);
+}
+
+.p11 {
+    height: 3.5%;
+    width: 1%;
+    top: 42.3%;
+    left: 66.2%;
+    transform: rotate(45deg);
+}
+
+.p12 {
+    height: 3.6%;
+    width: 1%;
+    top: 39.2%;
+    left: 68.4%;
+    transform: rotate(45deg);
+}
+
+.p13 {
+    height: 3.3%;
+    width: 1%;
+    top: 36.2%;
+    left: 70.7%;
+    transform: rotate(45deg);
+}
+
+.p14 {
+    height: 8%;
+    width: 1%;
+    top: 29.3%;
+    left: 74%;
+    transform: rotate(45deg);
+}
+
+.p15 {
+    height: 11.9%;
+    width: 1%;
+    top: 19.5%;
+    left: 79.5%;
+    transform: rotate(45deg);
+}
+
+/* CIRCLE LINE denoted by 'y' */
+.y1 {
+    height: 7.5%;
+    width: 1%;
+    top: 66.6%;
+    left: 55.8%;
+    transform: rotate(133deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.y2 {
+    height: 5.2%;
+    width: 1%;
+    top: 72.9%;
+    left: 59.7%;
+    transform: rotate(134deg);
+}
+
+.y3 {
+    height: 7.7%;
+    width: 1%;
+    top: 77%;
+    left: 63.4%;
+    transform: rotate(134deg);
+    border-radius: 0 50px 0 0px;
+}
+
+.y3_1 {
+    height: 3.5%;
+    width: 1%;
+    top: 79.8%;
+    left: 66%;
+    transform: rotate(45deg);
+    border-radius: 0 50px 0 0px;
+}
+
+.y4 {
+    height: 3.8%;
+    width: 1%;
+    top: 75.9%;
+    left: 68.4%;
+    transform: rotate(30deg);
+    border-radius: 20px 50px 50px 0px;
+}
+
+.y5 {
+    height: 4%;
+    width: 1%;
+    top: 71.8%;
+    left: 69.7%;
+    transform: rotate(20deg);
+    border-radius: 50px;
+}
+
+.y6 {
+    height: 1.5%;
+    width: 1%;
+    top: 69.4%;
+    left: 70.5%;
+    transform: rotate(11deg);
+    border-radius: 50px;
+}
+
+.y7 {
+    height: 1.6%;
+    width: 1%;
+    top: 66.8%;
+    left: 70.8%;
+    transform: rotate(8deg);
+    border-radius: 50px;
+}
+
+.y8 {
+    height: 1.9%;
+    width: 1%;
+    top: 64%;
+    left: 70.8%;
+    transform: rotate(4deg);
+    border-radius: 50px;
+}
+
+.y9 {
+    height: 5.3%;
+    width: 1%;
+    top: 57.5%;
+    left: 70.5%;
+    transform: rotate(170deg);
+    border-radius: 50px;
+}
+
+.y10 {
+    height: 2.5%;
+    width: 1%;
+    top: 54.5%;
+    left: 69.6%;
+    transform: rotate(160deg);
+    border-radius: 50px;
+}
+
+.y11 {
+    height: 3.6%;
+    width: 1%;
+    top: 50.9%;
+    left: 68.6%;
+    transform: rotate(152deg);
+    border-radius: 50px;
+}
+
+.y12 {
+    height: 5.8%;
+    width: 1%;
+    top: 45.4%;
+    left: 66.6%;
+    transform: rotate(140deg);
+    border-radius: 50px;
+}
+
+.y13 {
+    height: 6.9%;
+    width: 1%;
+    top: 39.8%;
+    left: 62.5%;
+    transform: rotate(125deg);
+    border-radius: 50px;
+}
+
+.y14 {
+    height: 6.5%;
+    width: 1%;
+    top: 36.7%;
+    left: 58%;
+    transform: rotate(108deg);
+    border-radius: 50px;
+}
+
+.y15 {
+    height: 6%;
+    width: 1%;
+    top: 35.5%;
+    left: 53%;
+    transform: rotate(93deg);
+    border-radius: 50px;
+}
+
+.y16 {
+    height: 5.8%;
+    width: 1%;
+    top: 36.1%;
+    left: 48.3%;
+    transform: rotate(79deg);
+    border-radius: 50px;
+}
+
+.y17 {
+    height: 6.3%;
+    width: 1%;
+    top: 38%;
+    left: 44%;
+    transform: rotate(63deg);
+    border-radius: 50px 50px 0 0;
+}
+
+.y17_1 {
+    height: 6.4%;
+    width: 1%;
+    top: 41.1%;
+    left: 40.1%;
+    transform: rotate(55deg);
+    border-radius: 0 0 50px 50px;
+}
+
+.y18 {
+    height: 4.1%;
+    width: 1%;
+    top: 46.8%;
+    left: 37.1%;
+    transform: rotate(40deg);
+    border-radius: 50px;
+}
+
+.y19 {
+    height: 3.2%;
+    width: 1%;
+    top: 50.9%;
+    left: 35.4%;
+    transform: rotate(32deg);
+    border-radius: 50px;
+}
+
+.y20 {
+    height: 4.2%;
+    width: 1%;
+    top: 54.6%;
+    left: 34.2%;
+    transform: rotate(18deg);
+    border-radius: 50px;
+}
+
+.y21 {
+    height: 3%;
+    width: 1%;
+    top: 59.5%;
+    left: 33.4%;
+    transform: rotate(9deg);
+    border-radius: 50px;
+}
+
+.y22 {
+    height: 3.3%;
+    width: 1%;
+    top: 63%;
+    left: 33.2%;
+    transform: rotate(2deg);
+    border-radius: 50px;
+}
+
+.y23 {
+    height: 3%;
+    width: 1%;
+    top: 67%;
+    left: 33.4%;
+    transform: rotate(174deg);
+    border-radius: 50px;
+}
+
+.y24 {
+    height: 3.7%;
+    width: 1%;
+    top: 70.3%;
+    left: 33.9%;
+    transform: rotate(165deg);
+    border-radius: 50px;
+}
+
+.y25 {
+    height: 3.9%;
+    width: 1%;
+    top: 74.4%;
+    left: 35.1%;
+    transform: rotate(155deg);
+    border-radius: 50px;
+}
+
+.y26 {
+    height: 3.7%;
+    width: 1%;
+    top: 78.3%;
+    left: 36.7%;
+    transform: rotate(145deg);
+    border-radius: 50px;
+}
+
+.y27 {
+    height: 4.7%;
+    width: 1%;
+    top: 81.5%;
+    left: 39%;
+    transform: rotate(135deg);
+    border-radius: 50px;
+}
+
+.ye1 { /* TO USE FOR DTL AS WELL */
+    height: 9%;
+    width: 1%;
+    top: 79%;
+    left: 64.6%;
+    transform: rotate(45deg);
+    border-radius: 50px;
+}
+
+.ye2 { /* TO USE FOR DTL AS WELL */
+    height: 5%;
+    width: 1%;
+    top: 85.2%;
+    left: 60.6%;
+    transform: rotate(60deg);
+    border-radius: 50px;
+}
+
+.ye2_1 { 
+    height: 6%;
+    width: 1%;
+    top: 86.6%;
+    left: 57.5%;
+    transform: rotate(72deg);
+    border-radius: 50px;
+}
+
+
+/* DOWNTOWN LINE denoted by 'b' */
+.b1 {
+    height: 3%;
+    width: 1%;
+    top: 23%;
+    left: 33.5%;
+}
+
+.b2 {
+    height: 2.4%;
+    width: 1%;
+    top: 26.5%;
+    left: 33.5%;
+}
+
+.b3 {
+    height: 5.5%;
+    width: 1%;
+    top: 29.8%;
+    left: 33.5%;
+}
+
+.b4 {
+    height: 3.8%;
+    width: 1%;
+    top: 36%;
+    left: 33.5%;
+    border-radius: 0 0 0px 50px;
+}
+
+.b5 {
+    height: 2.2%;
+    width: 1%;
+    top: 40%;
+    left: 34.4%;
+    transform: rotate(135deg);
+}
+
+.b6 {
+    height: 2.3%;
+    width: 1%;
+    top: 41.9%;
+    left: 35.8%;
+    transform: rotate(135deg);
+}
+
+.b7 {
+    height: 2.3%;
+    width: 1%;
+    top: 44.1%;
+    left: 37.4%;
+    transform: rotate(135deg);
+}
+
+.b8 {
+    height: 1%;
+    width: 8%;
+    top: 46.9%;
+    left: 39%;
+    border-radius: 0 50px 0 50px;
+}
+
+.b9 {
+    height: 5.5%;
+    width: 1%;
+    top: 47.6%;
+    left: 47.8%;
+    transform: rotate(135deg);
+}
+
+.b10 {
+    height: 9.1%;
+    width: 1%;
+    top: 51.7%;
+    left: 52.1%;
+    transform: rotate(135deg);
+}
+
+.b11 {
+    height: 4.8%;
+    width: 1%;
+    top: 59.4%;
+    left: 56%;
+    transform: rotate(135deg);
+}
+
+.b12 {
+    height: 10.3%;
+    width: 1%;
+    top: 62.5%;
+    left: 60.2%;
+    transform: rotate(135deg);
+}
+
+.b13 {
+    height: 8.8%;
+    width: 1%;
+    top: 71%;
+    left: 65.6%;
+    transform: rotate(135deg);
+    border-radius: 50px 0 0 0;
+}
+
+.b13_1 {
+    height: 2%;
+    width: 1%;
+    top: 78.2%;
+    left: 67.6%;
+    transform: rotate(45deg);
+    border-radius: 0px 50px 0 0;
+}
+
+.b14 {
+    height: 5%;
+    width: 1%;
+    top: 85.2%;
+    left: 60.6%;
+    transform: rotate(60deg);
+    border-radius: 50px;
+}
+
+.b14_1 {
+    height: 5.2%;
+    width: 1%;
+    top: 85%;
+    left: 58.3%;
+    transform: rotate(120deg);
+    border-radius: 50px;
+}
+
+.b15 {
+    height: 8.3%;
+    width: 1%;
+    top: 78.6%;
+    left: 54.3%;
+    transform: rotate(135deg);
+}
+
+.b16 {
+    height: 6%;
+    width: 1%;
+    top: 74.2%;
+    left: 50.4%;
+    transform: rotate(135deg);
+}
+
+.b17 {
+    height: 2.7%;
+    width: 1%;
+    top: 71.8%;
+    left: 48.4%;
+    transform: rotate(45deg);
+    border-radius: 0 0 0 50px;
+}
+
+.b18 {
+    height: 2.9%;
+    width: 1%;
+    top: 69.2%;
+    left: 50.5%;
+    transform: rotate(50deg);
+    border-radius: 50px 0 0 0;
+}
+
+.b18_1 {
+    height: 1%;
+    width: 6.8%;
+    top: 69.7%;
+    left: 51%;
+    border-radius: 50px;
+}
+
+.b18_2 {
+    height: 2.9%;
+    width: 1%;
+    top: 68%;
+    left: 57.6%;
+    border-radius: 50px;
+    transform: rotate(50deg);
+}
+
+.b19 {
+    height: 4%;
+    width: 1%;
+    top: 65%;
+    left: 59.6%;
+    transform: rotate(45deg);
+}
+
+.b20 {
+    height: 3.7%;
+    width: 1%;
+    top: 62%;
+    left: 61.9%;
+    transform: rotate(45deg);
+}
+
+.b21 {
+    height: 3.7%;
+    width: 1%;
+    top: 59%;
+    left: 64%;
+    transform: rotate(45deg);
+}
+
+.b22 {
+    height: 3.7%;
+    width: 1%;
+    top: 56.4%;
+    left: 66.5%;
+    transform: rotate(56deg);
+    border-radius: 50px;
+}
+
+.b23 {
+    height: 1%;
+    width: 1.5%;
+    top: 56.9%;
+    left: 68.8%;
+}
+
+.b24 {
+    height: 1%;
+    width: 3.2%;
+    top: 56.9%;
+    left: 71%;
+}
+
+.b25 {
+    height: 1%;
+    width: 2.8%;
+    top: 56.9%;
+    left: 74.4%;
+}
+
+.b26 {
+    height: 1%;
+    width: 2.4%;
+    top: 56.9%;
+    left: 77.6%;
+}
+
+.b27 {
+    height: 1%;
+    width: 2.5%;
+    top: 56.9%;
+    left: 80.4%;
+}
+
+.b28 {
+    height: 1%;
+    width: 2.3%;
+    top: 56.9%;
+    left: 83.4%;
+}
+
+.b29 {
+    height: 1%;
+    width: 1.8%;
+    top: 56.9%;
+    left: 86.2%;
+}
+
+.b30 {
+    height: 1%;
+    width: 2.8%;
+    top: 56.9%;
+    left: 88.6%;
+    border-radius: 0 50px 0 0;
+}
+
+.b30_1 {
+    height: 3.1%;
+    width: 1%;
+    top: 56.9%;
+    left: 90.7%;
+    border-radius: 0 50px 0 0;
+}
+
+.b31 {
+    height: 2.8%;
+    width: 1%;
+    top: 61%;
+    left: 90.7%;
+}
+
+.b32 {
+    height: 1.8%;
+    width: 1%;
+    top: 64.5%;
+    left: 90.7%;
+}
+
+/* THOMSON-EAST COAST LINE denoted by 'br' */
+.br1 {
+    height: 6.1%;
+    width: 1%;
+    top: 2.8%;
+    left: 36.5%;
+    transform: rotate(135deg);
+}
+
+.br2 {
+    height: 4.8%;
+    width: 1%;
+    top: 8.1%;
+    left: 39.7%;
+    transform: rotate(135deg);
+}
+
+
+/* BUKIT PANJANG LRT STATIONS denoted by 'bp_e' */
+.bp_e1 {
+    height: 0.9%;
+    width: 2%;
+    top: 21.9%;
+    left: 20.6%;
+}
+
+.bp_e2 {
+    height: 0.9%;
+    width: 2%;
+    top: 21.9%;
+    left: 23%;
+}
+
+.bp_e3 {
+    height: 0.9%;
+    width: 2%;
+    top: 21.9%;
+    left: 25.5%;
+}
+
+.bp_e4 {
+    height: 0.9%;
+    width: 2%;
+    top: 21.9%;
+    left: 28%;
+}
+
+.bp_e5 {
+    height: 0.9%;
+    width: 3%;
+    top: 21.9%;
+    left: 30.5%;
+}
+
+.bp_e6 {
+    height: 1%;
+    width: 1.4%;
+    top: 21.9%;
+    left: 34.5%;
+    border-radius: 50px;
+}
+
+.bp_e6_1 {
+    height: 1%;
+    width: 2%;
+    top: 22.5%;
+    left: 35%;
+    transform: rotate(45deg);
+    border-radius: 50px;
+}
+
+.bp_e7 {
+    height: 1%;
+    width: 1.5%;
+    top: 24.6%;
+    left: 37%;
+    transform: rotate(40deg);
+    border-radius: 50px;
+}
+
+.bp_e8 {
+    height: 1%;
+    width: 1.4%;
+    top: 25.1%;
+    left: 38.8%;
+    border-radius: 50px;
+    transform: rotate(135deg);
+}
+
+.bp_e9 {
+    height: 1.4%;
+    width: 1%;
+    top: 22.7%;
+    left: 39.6%;
+}
+
+.bp_e10 {
+    height: 1.4%;
+    width: 1%;
+    top: 20.5%;
+    left: 39.6%;
+}
+
+.bp_e11 {
+    height: 1%;
+    width: 1.4%;
+    top: 18.7%;
+    left: 38.8%;
+    border-radius: 50px;
+    transform: rotate(45deg);
+}
+
+.bp_e12 {
+    height: 1%;
+    width: 1.5%;
+    top: 18.8%;
+    left: 37%;
+    transform: rotate(140deg);
+    border-radius: 50px;
+}
+
+.bp_e13 {
+    height: 1%;
+    width: 1.4%;
+    top: 21.9%;
+    left: 34.5%;
+    border-radius: 50px;
+}
+
+.bp_e13_1 {
+    height: 1%;
+    width: 1.8%;
+    top: 21%;
+    left: 35.3%;
+    border-radius: 50px;
+    transform: rotate(135deg);
+}
+
+/* SENGKANG WEST LRT STATIONS denoted by 'skw_e' */
+.skw_e1 {
+    height: 3%;
+    width: 0.9%;
+    top: 27.2%;
+    left: 75.3%;
+    transform: rotate(145deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.skw_e2 {
+    height: 2%;
+    width: 0.9%;
+    top: 24.9%;
+    left: 75.1%;
+    transform: rotate(145deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.skw_e3 {
+    height: 2%;
+    width: 0.9%;
+    top: 22.7%;
+    left: 74.3%;
+    transform: rotate(135deg);
+}
+
+.skw_e4 {
+    height: 2%;
+    width: 1%;
+    top: 21%;
+    left: 72.9%;
+    transform: rotate(120deg);
+    border-radius: 0px 50px 0px 50px;
+}
+
+.skw_e5 {
+    height: 2%;
+    width: 0.9%;
+    top: 22.6%;
+    left: 71.3%;
+    transform: rotate(45deg);
+}
+
+.skw_e6 {
+    height: 2%;
+    width: 1%;
+    top: 24.8%;
+    left: 70.2%;
+    transform: rotate(30deg);
+    border-radius: 0px 50px 0px 50px;
+}
+
+.skw_e7 {
+    height: 1.5%;
+    width: 0.9%;
+    top: 26.6%;
+    left: 71.2%;
+    transform: rotate(135deg);
+}
+
+.skw_e8 {
+    height: 0.9%;
+    width: 2%;
+    top: 28.1%;
+    left: 72%;
+    border-radius: 0px 50px 0px 50px;
+}
+
+.skw_e9 {
+    height: 3%;
+    width: 0.9%;
+    top: 27.5%;
+    left: 75%;
+    transform: rotate(92deg);
+    border-radius: 50px 0 50px 0;
+}
+
+/* SENGKANG EAST LRT STATIONS denoted by 'ske_e' */
+.ske_e1 {
+    height: 4%;
+    width: 0.9%;
+    top: 29.5%;
+    left: 77.9%;
+    transform: rotate(92deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.ske_e2 {
+    height: 2%;
+    width: 0.9%;
+    top: 31.4%;
+    left: 80.5%;
+    transform: rotate(135deg);
+}
+
+.ske_e3 {
+    height: 2.3%;
+    width: 1%;
+    top: 33.6%;
+    left: 82%;
+    transform: rotate(140deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.ske_e3_1 {
+    height: 2.3%;
+    width: 1%;
+    top: 34.5%;
+    left: 81.9%;
+    transform: rotate(40deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.ske_e4 {
+    height: 3%;
+    width: 1%;
+    top: 36.7%;
+    left: 80.2%;
+    transform: rotate(45deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.ske_e4_1 {
+    height: 3%;
+    width: 1%;
+    top: 37%;
+    left: 79.2%;
+    transform: rotate(135deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.ske_e5 {
+    height: 2.7%;
+    width: 0.9%;
+    top: 34.6%;
+    left: 77.7%;
+    transform: rotate(140deg);
+}
+
+.ske_e6 {
+    height: 3.8%;
+    width: 0.9%;
+    top: 30.3%;
+    left: 77%;
+    transform: rotate(171deg);
+    border-radius: 50px 0 50px 0;
+}
+
+/* PUNGGOL WEST LRT STATIONS denoted by 'pgw_e' */
+.pgw_e1 {
+    height: 3%;
+    width: 0.9%;
+    top: 17.8%;
+    left: 82.2%;
+    transform: rotate(145deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.pgw_e2 {
+    height: 4.5%;
+    width: 0.9%;
+    top: 12.6%;
+    left: 81.3%;
+    transform: rotate(145deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.pgw_e3 {
+    height: 2.5%;
+    width: 1%;
+    top: 11.3%;
+    left: 79.5%;
+    transform: rotate(120deg);
+    border-radius: 0px 50px 0px 50px;
+}
+
+.pgw_e3_1 {
+    height: 2.5%;
+    width: 1%;
+    top: 12%;
+    left: 78.6%;
+    transform: rotate(50deg);
+    border-radius: 50px 50px 0px 0px;
+}
+
+.pgw_e4 {
+    height: 2.7%;
+    width: 1.2%;
+    top: 14.2%;
+    left: 77.2%;
+    transform: rotate(48deg);
+    border-radius: 0px 50px 0px 50px;
+}
+
+.pgw_e5 {
+    height: 1.7%;
+    width: 0.9%;
+    top: 17.2%;
+    left: 78.1%;
+    transform: rotate(135deg);
+}
+
+.pgw_e6 {
+    height: 0.9%;
+    width: 1.6%;
+    top: 18.8%;
+    left: 79.2%;
+    border-radius: 0px 50px 0px 50px;
+}
+
+.pgw_e7 {
+    height: 3.1%;
+    width: 0.9%;
+    top: 18%;
+    left: 81.6%;
+    transform: rotate(92deg);
+    border-radius: 50px 0 50px 0;
+}
+
+
+/* PUNGGOL EAST LRT STATIONS denoted by 'pge_e' */
+.pge_e1 {
+    height: 3.6%;
+    width: 0.9%;
+    top: 20.1%;
+    left: 84.4%;
+    transform: rotate(92deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.pge_e2 {
+    height: 1.8%;
+    width: 0.9%;
+    top: 21.5%;
+    left: 86.6%;
+    transform: rotate(92deg);
+    border-radius: 50px 0 50px 0;
+}
+
+.pge_e3 {
+    height: 1.6%;
+    width: 0.9%;
+    top: 22.8%;
+    left: 87.9%;
+    transform: rotate(135deg);
+}
+
+.pge_e4 {
+    height: 2%;
+    width: 0.9%;
+    top: 24.2%;
+    left: 89%;
+    transform: rotate(140deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.pge_e4_1 {
+    height: 2.5%;
+    width: 0.9%;
+    top: 25%;
+    left: 88.6%;
+    transform: rotate(45deg);
+    border-radius: 50px 50px 50px 50px;
+}
+
+.pge_e5 {
+    height: 3%;
+    width: 1%;
+    top: 27%;
+    left: 86.8%;
+    transform: rotate(60deg);
+    border-radius: 50px 0px 50px 0px;
+}
+
+.pge_e6 {
+    height: 1.8%;
+    width: 0.9%;
+    top: 26.7%;
+    left: 85.1%;
+    transform: rotate(135deg);
+}
+
+.pge_e7 {
+    height: 1.8%;
+    width: 0.9%;
+    top: 25%;
+    left: 84.2%;
+    transform: rotate(135deg);
+    border-radius: 50px 0px 50px 0px;
+}
+
+.pge_e8 {
+    height: 3.3%;
+    width: 0.9%;
+    top: 20.7%;
+    left: 84%;
+    transform: rotate(155deg);
+    border-radius: 50px 0 50px 0;
 }
 
 
