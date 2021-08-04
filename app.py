@@ -9,7 +9,7 @@ cors = CORS(app)
 
 #For LTA API, gets train service updates, breakdowns and delays. 
 ltaurl = "http://datamall2.mytransport.sg/ltaodataservice/TrainServiceAlerts"
-headers = {'AccountKey': 'WeuEX17ESWagD8F/CYKbBw==',
+headers = {'AccountKey': '',
            'accept': 'application/json'}
 
 
