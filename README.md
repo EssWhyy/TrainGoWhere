@@ -1,7 +1,5 @@
 # TrainGoWhere: An Interactive, In-depth MRT Map
 
-This project was done as part of NUS Orbital 2021 (https://orbital.comp.nus.edu.sg/).
-
 Video Demonstration of App: https://drive.google.com/file/d/1vAfQ9onxWNKRmjob02xcwct0cjnc6G0B/view?usp=sharing
 
 Full README: https://docs.google.com/document/d/1wmIvktqEhvrgPTsyZdyrSKitsBtQlBkZYFhzKY5CBx4/edit?usp=sharing
